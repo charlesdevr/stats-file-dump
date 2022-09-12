@@ -1,0 +1,1214 @@
+﻿ID,enforcement_cond,speed_cond,risk_pullover,ambiguity,intent_speed,unsafety,tcost,ftpain,validDL,speedfreq,avgspeed,hwydrive,psttickets,policed,texting,aggressive,accidents,impulsive,male,age,white,employed,state,id
+407,Reduced Enforcement,76,45,5,75,2,150,3,yes,3,76,daily,2,yes,4,about same,4,4.5,male,58,1,employed,florida,1
+1071,Increased Enforcement,76,0,1,0,2,50,1,yes,3,75,weekly,1,no,1,less aggressive,4,1,female,38,1,employed,Iowa,2
+309,Increased Enforcement,76,76,2,50,2,20,3,yes,1,30,daily,2,yes,1,less aggressive,1,3.5,female,32,0,employed,michigan,3
+500,Reduced Enforcement,76,60,3,60,2,65,4,yes,2,60,daily,2,yes,4,more aggressive,4,3.5,female,33,0,employed, ,4
+143,Increased Enforcement,76,10,3,0,4,100,1,yes,2,73,weekly,1,no,1,less aggressive,6,2.25,male,54,1,unemployed,Oregon,5
+1207,Increased Enforcement,76,40,1,30,4,350,4,yes,3,85,weekly,5,no,3,more aggressive,5,3,male,48,0,unemployed,Texas,6
+366,Increased Enforcement,76,89,3,50,3,200,4,yes,2,70,monthly,5,yes,2,less aggressive,5,3.5,male,27,1,employed,New York,7
+713,Increased Enforcement,76,77,2,89,3,90,2,yes,4,76,weekly,1,yes,4,about same,5,4.5,male,33,0,employed,MA,8
+1179,Increased Enforcement,76,20,1,35,2,200,3,yes,2,80,monthly,3,yes,1,about same,4,1.75,male,45,0,employed,Texas,9
+319,Increased Enforcement,76,2,2,95,2,250,1,yes,1,65,rarely,1,no,1,less aggressive,1,4,female,31,0,unemployed,Arkansas,10
+695,Increased Enforcement,76,76,2,,2,50,4,yes,2,76,weekly,2,yes,4,about same,4,4.25,male,25,0,employed,Arizona,11
+196,Reduced Enforcement,76,5,1,90,2,150,2,yes,4,75,weekly,1,no,2,about same,4,2.75,male,31,1,employed,New York,12
+900,Reduced Enforcement,76,78,1,56,2,54,4,yes,2,80,weekly,3,yes,4,more aggressive,5,4.5,male,30,0,employed,California,13
+836,Reduced Enforcement,76,0,1,80,1,600,5,yes,1, ,weekly,1,no,3,less aggressive,1,3.5,female,27,1,employed,MINNESOTA,14
+191,Reduced Enforcement,76,30,3,0,5,50,2,yes,2,8,rarely,2,no,1,less aggressive,6,1.75,male,31,1,employed,New Jersey,15
+249,Increased Enforcement,76,100,2,50,1,50,2,yes,2,60,weekly,3,yes,4,more aggressive,4,4.5,male,30,0,employed,new york,16
+318,Increased Enforcement,76,8,1,85,1,75,2,yes,4,80,weekly,1,no,1,about same,5,3.5,male,50,1,unemployed,Florida,17
+307,Increased Enforcement,76,3,3,95,1,150,2,yes,4,75,monthly,3,no,1,about same,5,2,female,46,1,unemployed,South Carolina,18
+932,Increased Enforcement,76,0,1,95,1,180,1,yes,4,75,weekly,3,no,1,about same,5,2.5,male,78,1,unemployed,NJ,19
+161,Reduced Enforcement,76,5,1,8,2,0,1,yes,2,75,monthly,1,no,2,about same,4,1,female,32,1,unemployed,tx,20
+1008,Reduced Enforcement,76,89,2,90,2,340,3,yes,4,48,weekly,3,yes,4,more aggressive,4,4.5,male,30,0,employed,california,21
+1024,Increased Enforcement,76,20,3,0,4,150,4,yes,1,72,rarely,1,no,1,less aggressive,6,2,female,65,0,unemployed,FL,22
+851,Increased Enforcement,76,0,1,80,1,500,4,yes,2,80,weekly,1,no,2,about same,4,1.25,male,31,1,employed,Nevada,23
+337,Reduced Enforcement,76,10,3,85,2,75,2,yes,4,77,weekly,1,no,2,about same,5,1.75,female,44,1,employed,Florida,24
+461,Increased Enforcement,76,65,2,65,2,45,3,yes,3,65,weekly,4,yes,3,about same,1,2.5,male,38,0,employed,washington,25
+340,Increased Enforcement,76,80,1,75,2,3,2,yes,4,76,monthly,3,yes,4,about same,6,4,male,30,0,employed,30,26
+1020,Reduced Enforcement,76,20,4,75,2,100,2,yes,2,74,weekly,1,no,1,less aggressive,6,2.5,male,63,1,employed,NC,27
+930,Increased Enforcement,76,76,1,76,3,6,3,yes,2,50,monthly,2,no,4,about same,1,2.5,male,,1,employed, ,28
+957,Reduced Enforcement,76,40,3,70,2,30,2,yes,2,75,weekly,1,no,1,less aggressive,1,2,female,23,0,employed,North Carolina,29
+144,Increased Enforcement,76,0,1,100,2,50,3,yes,5,80,daily,1,no,2,about same,5,3,male,36,0,employed,Florida,30
+100,Reduced Enforcement,76,70,2,70,3,100,4,yes,1,70,rarely,2,yes,4,about same,5,2.5,male,25,1,employed,sc,31
+880,Increased Enforcement,76,1,2,90,2,100,3,yes,2,80,daily,1,no,1,about same,5,1.75,male,43,1,employed,Wyoming,32
+26,Reduced Enforcement,76,70,2,60,2,350,4,yes,2,80,monthly,2,no,4,about same,5,3.25,male,37,0,employed,PA,33
+1205,Reduced Enforcement,76,20,3,50,3,136,3,yes,3,75,rarely,2,no,2,about same,1,2.5,female,32,1,employed,Washington,34
+896,Increased Enforcement,76,55,3,45,1,20,4,yes,1,50,weekly,3,yes,1,about same,4,4.75,female,37,0,employed,indiana,35
+849,Increased Enforcement,76,2,2,90,2,90,1,yes,4,77,rarely,1,no,1,about same,4,1,male,37,1,employed,Texas,36
+902,Reduced Enforcement,76,5,2,50,2,50,4,yes,2,75,weekly,1,no,1,less aggressive,5,2.5,male,56,0,employed,Iowa,37
+879,Reduced Enforcement,76,10,2,80,2,36,3,yes,2,90,monthly,3,no,1,about same,4,3.5,male,46,0,employed,massachusetts,38
+525,Increased Enforcement,76,10,2,30,2,50,4,yes,2,80,monthly,1,yes,2,less aggressive,1,1,female,24,0,employed,South Dakota,39
+401,Increased Enforcement,76,5,2,90,2,100,1,yes,2,75,monthly,1,no,2,less aggressive,5,5,female,47,0,employed,Kentucky,40
+119,Reduced Enforcement,76,25,4,80,2,85,3,yes,4,75,monthly,1,no,1,about same,6,1,female,36,1,employed,Oregon,41
+772,Reduced Enforcement,76,3,6,40,4,55,1,yes,4,74,weekly,2,no,2,less aggressive,4,2,female,29,1,unemployed,IN,42
+536,Reduced Enforcement,76,0,2,80,2,50,3,yes,1,60,monthly,1,no,1,less aggressive,4,2.5,female,41,0,employed,Connecticut,43
+380,Reduced Enforcement,76,75,2,80,2,204,3,yes,2,50,weekly,3,yes,4,about same,5,3.75,male,48,1,employed,Texas,44
+381,Reduced Enforcement,76,5,2,90,2,150,3,yes,1,80,daily,1,yes,2,less aggressive,1,3.5,male,36,1,employed,CA,45
+861,Reduced Enforcement,76,76,1,76,4,250,4,yes,1,70,daily,2,yes,3,less aggressive,1,3.5,female,35,1,employed,maryland,46
+195,Increased Enforcement,76,70,1,90,1,35,3,yes,5,85,rarely,3,no,2,more aggressive,5,3.5,male,47,1,employed,West Virginia,47
+1171,Reduced Enforcement,76,49,4,49,2,189,4,yes,2,65,weekly,1,no,2,less aggressive,6,4,female,38,1,employed,west virginia,48
+1096,Reduced Enforcement,76,99,1,98,1,100,2,yes,1,50,daily,2,yes,5,more aggressive,1,1.25,female,30,0,employed,CA,49
+266,Increased Enforcement,76,50,3,50,4,150,3,yes,2,75,weekly,1,no,1,about same,4,2.5,female,44,1,employed,texas,50
+327,Increased Enforcement,76,80,2,70,4,20,2,yes,2,95,monthly,3,no,3,about same,4,3.25,male,29,1,employed,Nevada,51
+1112,Reduced Enforcement,76,50,3,50,2,80,2,yes,3,75,weekly,1,no,1,about same,6,2.25,male,55,1,employed,Texas,52
+953,Increased Enforcement,76,50,3,50,3,100,3,yes,3,60,rarely,1,no,1,about same,5,3,female,26,1,employed,Washington,53
+1063,Increased Enforcement,76,55,2,77,2,120,2,yes,2,80,rarely,1,no,1,about same,5,2,female,42,1,employed,GA,54
+248,Increased Enforcement,76,20,4,80,2,120,3,yes,2,75,weekly,1,no,1,less aggressive,1,2.75,female,32,1,employed,Minnesota,55
+745,Reduced Enforcement,76,76,2,76,2,1,3,yes,2,60,monthly,2,yes,4,about same,6,3.5,female,27,0,employed,california,56
+509,Increased Enforcement,76,85,3,80,3,100,2,yes,2,65,monthly,2,yes,3,about same,5,1.75,male,42,0,employed,SC,57
+699,Increased Enforcement,76,35,3,10,4,200,4,yes,1,65,weekly,1,yes,2,about same,1,3,male,20,0,unemployed,NY,58
+64,Increased Enforcement,76,5,2,50,4,100,1,yes,4,78,monthly,1,no,2,less aggressive,5,2,male,55,1,employed,Colorado,59
+197,Increased Enforcement,76,55,4,40,3,100,2,yes,2,65,rarely,1,no,1,about same,1,2.5,female,25,0,employed,Florida,60
+1146,Increased Enforcement,76,20,2,20,2,233,5,yes,2,72,rarely,1,no,1,less aggressive,1,3,female,22,1,employed,California,61
+416,Reduced Enforcement,76,50,2,10,4,100,3,yes,2,75,monthly,1,no,1,about same,4,2.25,female,30,1,employed,CT,62
+418,Increased Enforcement,76,90,1,80,2,100,4,yes,2,70,monthly,4,no,1,about same,5,4.75,male,47,1,employed,Colorado,63
+139,Reduced Enforcement,76,5,2,90,2,75,2,yes,2,70,monthly,1,no,1,less aggressive,5,2,female,64,1,employed,Michigan,64
+694,Increased Enforcement,76,50,3,50,3,50,3,yes,1, ,daily,1,no,1,less aggressive,4,1,female,40,1,employed,MD,65
+404,Increased Enforcement,76,40,5,50,3,250,4,yes,3,75,rarely,1,no,1,less aggressive,5,1.75,female,38,1,unemployed,Wisconsin,66
+45,Reduced Enforcement,76,50,3,90,3,1000,2,yes,2,75,weekly,3,yes,3,less aggressive,5,3,male,39,1,employed,AK,67
+301,Reduced Enforcement,76,25,4,25,2,100,2,yes,2,76,weekly,1,no,1,less aggressive,4,2.25,male,40,1,employed,OR,68
+806,Reduced Enforcement,76,20,1,98,1,200,4,yes,2,75,rarely,1,no,1,about same,5,4,male,62,0,unemployed,Pennsylvania,69
+548,Increased Enforcement,76,56,4,34,3,145,3,yes,2,75,monthly,3,yes,4,about same,5,3.5,female,31,1,employed,Texas,70
+177,Increased Enforcement,76,60,4,90,2,100,1,yes,4,75,weekly,1,yes,1,about same,5,1.25,female,37,1,employed,MISSISSIPPI,71
+373,Reduced Enforcement,76,76,1,76,1,55,1,yes,5,76,daily,4,yes,5,more aggressive,6,4.5,male,31,0,employed,NEW YORK,72
+409,Increased Enforcement,76,76,2,70,1,100,4,yes,2,80,weekly,3,yes,1,less aggressive,4,3.75,male,58,1,employed,North Carolina,73
+445,Reduced Enforcement,76,70,2,85,3,2,3,yes,2,60,weekly,3,yes,3,more aggressive,4,4.5,male,32,0,employed,New York,74
+1113,Reduced Enforcement,76,40,3,80,2,25,1,yes,2,68,rarely,1,no,1,about same,1,3,male,33,1,unemployed,North Carolina,75
+451,Reduced Enforcement,76,20,1,0,4,90,2,yes,1,0,weekly,1,no,1,less aggressive,6,1.75,male,25,0,employed,California,76
+295,Reduced Enforcement,76,65,3,75,3,150,4,yes,2,95,monthly,2,yes,3,about same,1,3.75,male,32,1,employed,california,77
+1044,Increased Enforcement,76,70,5,50,3,50,3,yes,2,75,weekly,1,no,2,less aggressive,1,2.75,male,27,0,employed,FL,78
+10,Reduced Enforcement,76,50,3,30,2,40,3,yes,3,40,monthly,3,yes,4,about same,3,3,male,65,1,employed,AZ,79
+689,Reduced Enforcement,76,50,3,60,2,100,2,yes,2,60,rarely,2,no,1,less aggressive,4,1.5,male,51,1,employed,Texas,80
+232,Increased Enforcement,76,35,5,25,3,600,5,yes,2,75,rarely,1,no,1,less aggressive,4,2,female,53,1,unemployed,Kansas,81
+802,Reduced Enforcement,76,10,3,20,4,75,1,yes,2,70,daily,1,yes,2,less aggressive,4,1,female,30,1,employed,Connecticut,82
+518,Increased Enforcement,76,5,1,95,2,95,1,yes,2,3,monthly,1,no,1,less aggressive,1,1.25,male,59,1,unemployed,wyoming,83
+3,Increased Enforcement,76,45,5,55,3,250,4,yes,2,70,weekly,1,no,1,about same,5,2.25,male,34,1,employed,new york,84
+939,Increased Enforcement,76,85,2,60,1,110,3,yes,2,60,weekly,3,no,2,about same,4,4,female,50,1,employed,Louisiana,85
+698,Reduced Enforcement,76,10,2,100,2,200,4,yes,5,84,weekly,2,no,1,more aggressive,1,2.25,female,19,1,unemployed,California,86
+477,Reduced Enforcement,76,25,4,5,4,150,4,yes,2,74,weekly,1,no,1,more aggressive,5,1.25,female,35,1,unemployed,Utah,87
+837,Reduced Enforcement,76,5,1,85,2,20,2,yes,3,75,weekly,1,no,1,about same,5,1.75,female,21,1,unemployed,Montana,88
+137,Increased Enforcement,76,15,2,95,2,500,4,yes,4,75,rarely,1,no,1,about same,4,2.75,female,47,1,employed,WA,89
+671,Increased Enforcement,76,4,4,90,2,50,2,yes,4,75,daily,1,no,2,about same,5,2.25,male,35,1,employed,TN,90
+171,Increased Enforcement,76,10,2,50,2,50,2,yes,3,62,monthly,1,no,2,less aggressive,6,2.75,female,65,1,employed,North Carolina,91
+961,Increased Enforcement,76,5,2,100,4,200,3,yes,4,80,weekly,1,yes,2,about same,1,3.25,male,35,0,employed,Pennsylvania,92
+673,Reduced Enforcement,76,10,2,15,5,100,2,yes,2,75,weekly,1,no,2,less aggressive,1,2,female,50,1,employed,South Carolina,93
+584,Increased Enforcement,76,90,4,60,1,900,4,yes,4,60,weekly,3,yes,4,about same,6,3.5,male,30,0,employed,AL,94
+833,Reduced Enforcement,76,25,3,10,3,68,4,yes,2,75,monthly,1,no,1,less aggressive,1,2.25,male,54,1,employed,Virginia,95
+1015,Increased Enforcement,76,1,3,80,2,100,2,yes,5,90,daily,3,no,1,about same,5,2.25,male,35,1,employed,Florida,96
+667,Increased Enforcement,76,95,3,80,3,500,5,yes,1,80,rarely,1,no,4,more aggressive,1,3,female,35,0,employed,North Carolina,97
+25,Increased Enforcement,76,50,3,100,2,100,5,yes,4,75,rarely,1,no,2,about same,5,5,male,40,1,unemployed,Texas,98
+498,Reduced Enforcement,76,85,2,90,2,100,4,yes,2,65,daily,4,yes,4,more aggressive,1,4,female,33,0,employed,OH,99
+504,Increased Enforcement,76,70,3,65,3,40,4,yes,2,70,weekly,2,yes,4,about same,4,3,male,33,1,,ca,100
+280,Increased Enforcement,76,75,3,75,4,60,2,yes,4,75,monthly,1,no,1,less aggressive,5,2,female,33,1,employed,KANSAS,101
+968,Reduced Enforcement,76,15,2,50,2,200,3,yes,5,78,monthly,1,yes,2,about same,5,1.75,female,46,0,employed,Texas,102
+758,Increased Enforcement,76,2,3,95,2,100,2,yes,4,77,monthly,1,yes,2,about same,4,1.75,female,33,1,employed,Virginia,103
+1143,Reduced Enforcement,76,40,3,20,4,0,2,yes,1,55,rarely,1,no,1,less aggressive,4,1,female,30,0,employed,Ohio,104
+358,Reduced Enforcement,76,10,1,75,2,50,1,yes,4,75,monthly,1,no,1,more aggressive,1,1,female,69,1,unemployed,Georgia,105
+121,Increased Enforcement,76,5,2,95,1,50,2,yes,3,78,weekly,1,yes,2,about same,4,3.75,male,34,1,employed,California,106
+336,Reduced Enforcement,76,15,3,90,2,100,3,yes,3,75,weekly,2,yes,1,about same,1,2,male,35,1,employed,North Carolina,107
+929,Increased Enforcement,76,40,4,80,2,75,1,yes,3,75,monthly,1,no,1,less aggressive,5,1.25,female,49,0,employed,NEW JERSEY,108
+1115,Reduced Enforcement,76,15,2,90,2,130,3,yes,3,75,daily,3,yes,2,about same,5,3.5,male,24,1,unemployed,MS,109
+85,Reduced Enforcement,76,10,1,50,3,100,2,yes,2,75,monthly,1,no,1,less aggressive,5,1.5,male,60,1,employed,Wisconsin,110
+411,Reduced Enforcement,76,15,2,95,2,100,1,yes,1, ,monthly,1,no,1,less aggressive,1,1,female,37,1,employed,Nevada,111
+819,Increased Enforcement,76,67,4,80,3,120,1,yes,5,74,monthly,1,no,2,less aggressive,6,2.75,female,61,0,employed,Illinois,112
+746,Reduced Enforcement,76,66,1,100,2,35,1,yes,5,78,rarely,1,yes,2,less aggressive,4,3,female,23,0,unemployed,Michigan,113
+489,Reduced Enforcement,76,0,2,100,2,50,4,yes,3,80,weekly,1,yes,4,about same,5,2.5,female,27,1,employed,Pennsylvania,114
+1072,Reduced Enforcement,76,20,3,25,3,100,3,yes,2,75,rarely,1,no,1,less aggressive,5,1.75,female,49,1,employed,Illinois,115
+491,Increased Enforcement,76,5,2,90,2,75,3,yes,4,75,rarely,1,no,2,about same,5,4,male,38,1,unemployed,Washington,116
+420,Reduced Enforcement,76,0,1,100,2,120,3,yes,4,76,monthly,1,no,1,about same,5,1.75,male,62,1,employed,Missouri,117
+1121,Reduced Enforcement,76,2,3,85,2,100,3,yes,1,never speed,rarely,1,no,1,less aggressive,4,2,female,52,0,employed,Illinois,118
+722,Increased Enforcement,76,40,3,90,1,120,2,yes,4,80,monthly,1,no,1,about same,5,1.5,female,48,1,employed,OHIO,119
+270,Reduced Enforcement,76,15,3,5,2,50,1,yes,3,74,rarely,1,no,1,about same,1,1.5,female,31,1,unemployed,Idaho,120
+831,Increased Enforcement,76,40,2,75,2,115,2,yes,2,72,rarely,2,no,1,about same,6,2,male,61,1,employed,Virginia,121
+543,Increased Enforcement,76,40,1,90,1,10,3,yes,2,65,weekly,2,yes,2,about same,5,4,male,29,1,employed,North Carolina,122
+185,Increased Enforcement,76,25,2,75,3,100,3,yes,2,80,weekly,1,yes,1,less aggressive,5,2.5,male,26,0,employed,pennsylvania,123
+1190,Increased Enforcement,76,64,3,25,4,60,2,yes,2,75,daily,1,yes,1,less aggressive,5,2.25,female,27,1,employed,Michigan,124
+844,Increased Enforcement,76,2,1,99,1,40,1,yes,5,82,weekly,2,yes,4,more aggressive,4,3.25,male,27,1,employed,Illinois,125
+1154,Increased Enforcement,76,40,3,70,2,8,3,yes,2,50,rarely,5,yes,1,less aggressive,4,4,male,26,1,employed,California,126
+619,Reduced Enforcement,76,5,2,95,3,100,2,yes,3,75,daily,1,no,1,less aggressive,4,1.5,female,41,1,employed,Virginia,127
+1022,Reduced Enforcement,76,15,2,90,3,50,1,yes,5,80,monthly,1,no,1,more aggressive,1,1,male,68,1,unemployed,Delaware,128
+803,Increased Enforcement,76,35,2,10,2,50,2,yes,2,72,weekly,1,no,1,about same,5,3.75,male,41,1,employed,Rhode Island,129
+1102,Increased Enforcement,76,30,3,50,2,75,3,yes,4,75,monthly,1,no,1,less aggressive,5,2.25,female,33,1,employed,Georgia,130
+38,Increased Enforcement,76,50,3,50,2,5,2,yes,2,75,weekly,1,yes,1,less aggressive,4,3,male,21,0,unemployed,Virginia,131
+415,Increased Enforcement,76,80,2,80,3,146,3,yes,3,25,weekly,2,no,3,about same,4,4,male,25,0,employed,oklahoma,132
+845,Reduced Enforcement,76,40,3,0,4,50,1,yes,1,0,monthly,1,no,1,less aggressive,4,2,female,36,1,employed,Texas,133
+251,Reduced Enforcement,76,25,2,89,2,100,3,yes,4,75,daily,1,yes,2,more aggressive,1,3,female,24,0,unemployed,Mississippi,134
+633,Increased Enforcement,76,75,2,0,4,70,2,yes,2,73,monthly,1,no,1,less aggressive,4,1,female,46,0,employed,Louisiana,135
+872,Increased Enforcement,76,2,2,50,2,120,3,yes,2,70,monthly,1,no,1,about same,4,2.5,male,62,1,unemployed,oregon,136
+1108,Reduced Enforcement,76,5,2,85,2,90,2,yes,4,77,weekly,1,no,1,about same,5,2.25,male,38,1,unemployed,Georgia,137
+937,Reduced Enforcement,76,75,4,25,4,100,4,yes,3,75,monthly,2,yes,3,more aggressive,1,4,male,25,1,employed,Indiana,138
+675,Increased Enforcement,76,5,2,30,3,80,1,yes,2,73,weekly,1,no,1,less aggressive,5,2.5,male,64,1,employed,Colorado,139
+589,Increased Enforcement,76,2,3,90,2,75,1,yes,2,75,weekly,1,no,1,about same,5,2,female,36,1,employed,MI,140
+343,Increased Enforcement,76,3,2,50,1,150,2,yes,2,75,monthly,1,no,2,less aggressive,4,1.5,male,31,1,unemployed,Minnesota,141
+592,Reduced Enforcement,76,1,2,40,2,80,1,yes,2,74,weekly,1,no,1,less aggressive,5,1.5,female,43,1,unemployed,North Carolina,142
+971,Reduced Enforcement,76,5,2,80,2,40,2,yes,2,80,monthly,1,no,1,less aggressive,1,2.5,male,25,1,employed,Massachusetts,143
+33,Increased Enforcement,76,50,2,35,3,75,4,yes,2,5,weekly,4,yes,4,about same,4,4.5,female,33,0,employed,Utah,144
+988,Reduced Enforcement,76,10,3,90,2,180,1,yes,2,75,weekly,1,yes,1,less aggressive,5,4.25,male,51,1,employed,New Jersey,145
+1005,Increased Enforcement,76,0,3,50,2,100,3,yes,4,75,monthly,1,no,1,less aggressive,1,2.5,male,30,0,employed,Florida,146
+147,Increased Enforcement,76,50,3,5,4,150,1,yes,1,71,weekly,1,no,1,less aggressive,5,2,male,70,1,unemployed,Florida,147
+385,Reduced Enforcement,76,65,2,75,2,150,2,yes,4,80,monthly,1,no,1,about same,4,2,female,43,1,employed,Ohio,148
+230,Reduced Enforcement,76,10,2,100,2,150,3,yes,4,79,weekly,1,no,1,more aggressive,4,3.75,male,49,1,employed,Oklahoma,149
+1200,Increased Enforcement,76,60,5,10,2,120,1,yes,2,75,monthly,1,no,2,about same,5,1.25,male,50,1,employed,Illinois,150
+630,Reduced Enforcement,76,2,3,90,2,75,3,yes,3,75,weekly,2,no,1,about same,5,1,male,55,1,employed,Mississippi,151
+721,Reduced Enforcement,76,87,2,85,1,200,3,yes,2,50,daily,2,yes,5,more aggressive,5,4,male,30,0,employed,Michigan,152
+783,Increased Enforcement,76,10,2,90,2,100,2,yes,2,72,monthly,1,no,1,less aggressive,4,1.25,female,38,1,employed,Oregon,153
+856,Reduced Enforcement,76,10,2,100,2,100,2,yes,5,80,weekly,2,no,4,,1,3.25,female,23,1,employed,indiana,154
+127,Increased Enforcement,76,76,2,70,1,20,2,yes,5,70,weekly,3,yes,5,about same,4,1.5,male,26,1,employed,Virginia,155
+960,Increased Enforcement,76,10,1,100,1,50,2,yes,4,80,daily,2,no,1,more aggressive,5,2,female,31,1,employed,PA,156
+108,Reduced Enforcement,76,70,2,10,2,10,3,yes,2,80,rarely,1,yes,,more aggressive,5,2,male,37,1,employed,nework,157
+643,Reduced Enforcement,76,5,1,90,2,80,3,yes,2,70,rarely,1,no,1,about same,1,1,female,29,1,employed,texas,158
+485,Reduced Enforcement,76,56,1,35,2,34,3,yes,2,34,weekly,4,yes,4,more aggressive,4,2.5,male,36,0,employed,usa,159
+317,Reduced Enforcement,76,0,2,0,4,75,1,yes,1, ,daily,1,no,1,less aggressive,5,1.25,female,54,1,unemployed,New York,160
+638,Increased Enforcement,76,40,4,65,2,50,1,yes,2,75,weekly,1,no,1,less aggressive,5,1.25,male,29,1,employed,massachusetts,161
+769,Increased Enforcement,76,76,2,76,3,2,4,yes,2,75,monthly,3,yes,4,about same,6,3.5,male,39,0,employed,california,162
+291,Reduced Enforcement,76,60,3,40,3,5000,2,yes,2,40,weekly,2,no,1,about same,1,3.25,female,26,1,employed,GA,163
+840,Reduced Enforcement,76,10,1,80,1,15,2,yes,2,80,rarely,1,no,2,about same,1,2,male,28,0,employed,California,164
+963,Increased Enforcement,76,70,2,80,2,100,3,yes,3,80MPH,weekly,3,yes,4,about same,5,4.5,female,46,1,employed,Texas,165
+869,Reduced Enforcement,76,10,3,85,2,125,1,yes,3,75,monthly,1,no,1,about same,4,1.75,female,39,1,employed,Iowa,166
+649,Increased Enforcement,76,10,2,40,2,120,5,yes,2,75,rarely,1,no,1,less aggressive,4,1.5,female,51,1,unemployed,Alabama,167
+537,Increased Enforcement,76,40,2,20,3,200,2,yes,1, ,rarely,1,no,1,less aggressive,1,2,female,22,0,employed,tx,168
+338,Reduced Enforcement,76,40,4,40,3,200,2,yes,3,74,rarely,1,no,1,less aggressive,4,1.25,female,62,0,unemployed,California,169
+1045,Increased Enforcement,76,89,2,80,2,50,3,yes,2,80,weekly,3,yes,4,more aggressive,4,4.25,male,30,0,employed,NewYork,170
+151,Reduced Enforcement,76,10,2,80,2,25,2,yes,4,80,monthly,1,no,2,more aggressive,4,2.75,male,19,1,unemployed,South Carolina,171
+324,Reduced Enforcement,76,0,1,5,3,1200,3,yes,1,65,monthly,1,no,1,about same,1,1.5,male,35,0,employed,NY,172
+528,Increased Enforcement,76,10,1,20,2,500,5,yes,4,80,daily,1,yes,1,less aggressive,6,3,female,44,1,employed,Ohio,173
+664,Increased Enforcement,76,5,1,90,1,50,2,yes,3,75,weekly,1,no,2,about same,4,2,male,27,1,employed,New York,174
+770,Reduced Enforcement,76,20,3,20,2,50,2,yes,2,75,rarely,1,no,1,less aggressive,1,4,female,32,1,employed,PA,175
+668,Reduced Enforcement,76,50,2,50,2,100,1,yes,2,80,monthly,1,yes,2,less aggressive,5,1.5,male,35,0,employed,virginia,176
+475,Reduced Enforcement,76,50,1,25,4,100,5,yes,1, ,daily,1,no,1,about same,1,4.25,male,36,1,employed,ohio,177
+1038,Increased Enforcement,76,10,2,85,2,65,3,yes,3,75,daily,2,yes,4,more aggressive,1,3.25,male,21,1,employed,Arkansas,178
+687,Reduced Enforcement,76,0,1,50,2,60,2,yes,3,75,monthly,1,no,1,about same,5,1,female,63,1,unemployed,Massachusetts,179
+646,Reduced Enforcement,76,25,3,10,3,50,2,yes,4,74,rarely,1,no,1,about same,5,2.25,male,35,1,unemployed,Florida,180
+254,Increased Enforcement,76,20,3,0,5,200,5,yes,1, ,rarely,1,no,1,less aggressive,4,2.75,female,33,1,employed,Minnesota,181
+974,Increased Enforcement,76,10,3,90,2,150,3,yes,2,72,rarely,1,no,2,less aggressive,4,2.5,female,40,1,unemployed,Virginia,182
+532,Reduced Enforcement,76,35,3,20,4,100,2,yes,2,75,monthly,2,no,1,less aggressive,4,1,female,24,1,employed,Michigan,183
+547,Increased Enforcement,76,5,4,100,3,125,1,yes,4,80,monthly,2,yes,1,more aggressive,3,2.75,male,21,0,unemployed,Pennsylvania,184
+635,Reduced Enforcement,76,60,3,50,2,20,5,yes,2,100,weekly,3,yes,2,about same,4,3,female,50,0,employed,newyork,185
+510,Increased Enforcement,76,90,5,80,1,90,2,yes,4,70,daily,2,yes,4,about same,3,4.5,male,30,0,employed,AL,186
+412,Reduced Enforcement,76,,,80,2,129,3,yes,2,75,weekly,3,no,1,less aggressive,5,3.75,male,30,1,employed,ILLINOIS,187
+86,Reduced Enforcement,76,20,1,65,2,250,3,yes,2,70,monthly,1,no,1,less aggressive,1,2,female,36,1,employed,new york,188
+1191,Reduced Enforcement,76,65,3,45,3,97,3,yes,2,50,monthly,2,yes,2,about same,1,1.75,female,30,0,employed,texas,189
+987,Increased Enforcement,76,70,2,76,2,1,1,yes,2,70,weekly,3,yes,5,more aggressive,1,1.5,male,60,0,employed,CA,190
+12,Reduced Enforcement,76,15,5,95,1,50,2,yes,4,75,monthly,1,no,2,about same,4,1.75,female,29,1,employed,wisconsin,191
+481,Increased Enforcement,76,1,1,0,1,10,4,yes,3,67,weekly,3,no,4,more aggressive,5,2,female,35,1,employed,California,192
+482,Increased Enforcement,76,0,1,100,2,100,2,yes,2,80,weekly,3,no,2,about same,5,3.25,female,21,0,employed,Georgia,193
+24,Increased Enforcement,76,1,1,99,2,100,3,yes,4,75,monthly,1,no,1,less aggressive,1,1,female,42,1,employed,Colorado,194
+200,Reduced Enforcement,76,70,2,60,2,1000,4,yes,2,80,weekly,3,yes,4,less aggressive,1,1.75,male,38,0,employed,washington,195
+720,Reduced Enforcement,76,35,2,70,2,1000,5,yes,2,75,monthly,1,no,1,less aggressive,5,1.5,male,26,1,employed,North Carolina,196
+406,Reduced Enforcement,76,76,1,65,1,65,4,yes,4,83,monthly,4,yes,4,more aggressive,6,4.75,male,40,1,employed,florida,197
+597,Reduced Enforcement,76,80,2,85,2,200,3,yes,2,70,daily,3,yes,4,more aggressive,4,4,female,37,0,employed,LA,198
+271,Reduced Enforcement,76,1,1,100,2,150,2,yes,4,75,weekly,2,no,2,less aggressive,5,1.75,male,59,1,employed,Illinois,199
+764,Increased Enforcement,76,85,1,85,1,300,1,yes,4,76,weekly,3,yes,5,more aggressive,1,1.25,male,40,0,employed,Pennsylvania,200
+731,Increased Enforcement,76,75,2,10,2,50,3,yes,2,75,monthly,1,no,2,about same,5,3,male,31,0,unemployed,FL,201
+1145,Increased Enforcement,76,35,2,55,2,150,3,yes,2,75,monthly,1,yes,2,more aggressive,5,2.25,male,34,0,employed,Texas,202
+936,Increased Enforcement,76,1,2,99,1,40,2,yes,4,85,weekly,2,no,5,more aggressive,5,3.5,male,27,1,employed,California,203
+755,Reduced Enforcement,76,15,4,10,4,150,3,yes,2,68,rarely,1,no,1,less aggressive,1,2,male,31,1,employed,California,204
+27,Reduced Enforcement,76,75,2,75,2,200,5,yes,1, ,monthly,1,no,1,about same,1,4,female,68,1,unemployed,PENNSYLVANIA,205
+742,Increased Enforcement,76,0,2,0,2,80,3,yes,2,75,monthly,1,no,1,less aggressive,1,3.5,male,29,1,employed,PA,206
+743,Increased Enforcement,76,0,2,65,2,100,3,yes,1, ,monthly,1,no,1,less aggressive,4,1.25,female,73,1,employed,Florida,207
+959,Reduced Enforcement,76,5,2,90,2,150,2,yes,4,75,weekly,1,no,1,about same,1,2,male,39,1,employed,MA,208
+1019,Increased Enforcement,76,5,2,95,2,50,1,yes,5,10,weekly,2,no,1,more aggressive,1,2,male,36,1,employed,Wisconsin,209
+40,Increased Enforcement,76,10,2,90,3,0,1,yes,2,70,rarely,2,no,1,less aggressive,4,2.5,female,22,1,employed,Florida,210
+1164,Reduced Enforcement,76,0,2,50,2,300,2,yes,4,75,weekly,1,no,1,about same,5,1.25,female,45,1,unemployed,New York,211
+651,Reduced Enforcement,76,100,1,99,2,6,5,yes,4,6,daily,4,yes,2,about same,3,2.75,male,30,1,employed,California,212
+394,Increased Enforcement,76,5,2,75,2,75,1,yes,2,75,monthly,1,no,2,about same,4,3,female,44,1,employed,Connecticut,213
+771,Increased Enforcement,76,40,2,70,2,80,4,yes,2,72,rarely,2,no,1,about same,1,1.25,female,25,1,employed,Iowa,214
+1093,Reduced Enforcement,76,45,4,40,2,20,1,yes,5,55,daily,4,no,2,less aggressive,5,3.25,female,34,0,employed,Ny,215
+374,Reduced Enforcement,76,60,2,70,1,50,4,yes,3,60,weekly,2,no,4,more aggressive,5,4,male,30,0,employed,Hawaii,216
+778,Increased Enforcement,76,80,1,80,1,10,3,yes,5,50,daily,3,yes,5,more aggressive,4,4.75,male,30,0,employed,texas,217
+347,Reduced Enforcement,76,25,3,25,4,150,2,yes,2,75,weekly,1,no,2,less aggressive,4,1.5,male,62,1,unemployed,indiana,218
+541,Reduced Enforcement,76,2,1,97,1,75,2,yes,3,75,weekly,1,no,2,about same,1,1,male,26,1,employed,Michigan,219
+1126,Increased Enforcement,76,0,3,100,3,85,2,yes,4,75,weekly,3,no,1,about same,4,3,male,38,1,employed,New York,220
+371,Increased Enforcement,76,40,3,65,2,120,3,yes,3,80,weekly,1,yes,1,less aggressive,1,2.75,female,35,1,employed,west virginia,221
+494,Reduced Enforcement,76,10,2,70,2,100,2,yes,2,75,weekly,1,no,1,about same,1,1.5,male,32,0,employed,New York,222
+1089,Increased Enforcement,76,30,2,50,2,120,4,yes,2,75,daily,2,no,2,about same,1,4,male,24,0,employed,California,223
+647,Reduced Enforcement,76,40,3,50,2,146,3,yes,5,70,daily,2,no,4,about same,4,3.5,male,28,1,employed,Kansas,224
+938,Reduced Enforcement,76,5,2,90,3,150,4,yes,2,75,monthly,1,no,2,more aggressive,5,3.25,female,34,1,employed,South Dakota,225
+797,Reduced Enforcement,76,20,4,10,4,100,1,yes,3,73,daily,1,no,1,less aggressive,5,1.75,male,53,1,employed,North Carolina,226
+640,Reduced Enforcement,76,60,2,60,2,250,3,yes,2,60,weekly,2,yes,1,less aggressive,4,2.25,female,51,0,employed,Texas,227
+942,Increased Enforcement,76,5,2,90,2,50,1,yes,2,80,daily,1,no,1,less aggressive,5,2.25,male,57,1,employed,Missouri,228
+1174,Increased Enforcement,76,3,5,10,4,200,2,yes,3,74,monthly,1,no,1,less aggressive,4,1.5,male,65,0,unemployed,Texas,229
+576,Reduced Enforcement,76,50,3,40,4,100,2,yes,3,80,weekly,3,yes,4,about same,5,2.5,male,35,1,employed,FL,230
+556,Increased Enforcement,76,100,1,100,1,5,1,yes,4,100,daily,3,yes,4,more aggressive,5,4.25,male,27,0,employed,georgia,231
+815,Increased Enforcement,76,65,3,70,2,70,4,yes,3,80,monthly,3,yes,2,about same,5,3.5,male,,1,employed,CA,232
+871,Increased Enforcement,76,2,4,90,2,100,3,yes,4,70,monthly,1,yes,1,more aggressive,5,2,male,30,1,employed,South Carolina,233
+813,Increased Enforcement,76,30,2,20,2,250,4,yes,2,75,monthly,1,no,1,less aggressive,4,2,female,61,1,employed,Texas,234
+424,Increased Enforcement,76,76,3,60,3,35,3,yes,2,76,monthly,2,yes,3,about same,1,2.5,male,26,0,employed,Washington,235
+203,Increased Enforcement,76,1,2,95,3,50,3,yes,2,75,monthly,1,no,1,less aggressive,1,1.75,male,38,1,employed,Minnesota,236
+805,Increased Enforcement,76,70,2,75,3,70,1,yes,2,60,daily,3,no,1,about same,1,2.75,female,37,0,employed,amanda,237
+830,Reduced Enforcement,76,0,2,50,3,250,1,yes,2,7,monthly,1,no,1,less aggressive,1,1,male,36,1,unemployed,California,238
+150,Increased Enforcement,76,10,3,80,2,150,2,yes,2,75,rarely,1,no,1,less aggressive,4,2,female,27,1,employed,New York,239
+460,Reduced Enforcement,76,20,1,65,2,50,1,yes,1,65,daily,1,no,1,less aggressive,1,2.5,female,40,0,employed,California,240
+305,Increased Enforcement,76,40,4,35,2,65,3,yes,4,75,monthly,1,no,2,less aggressive,4,3,male,20,1,unemployed,California,241
+6,Increased Enforcement,76,20,3,90,2,20,2,yes,4,75,weekly,1,no,2,more aggressive,1,1.75,female,31,1,employed,Illinois,242
+37,Increased Enforcement,76,50,1,20,4,50,2,yes,1,75,rarely,1,no,1,about same,4,4,male,28,1,employed,illinois,243
+440,Reduced Enforcement,76,15,2,10,4,250,5,yes,2,75,rarely,1,yes,1,about same,1,2,female,33,0,employed,California,244
+142,Increased Enforcement,76,5,1,100,1,80,3,yes,1, ,weekly,1,no,2,less aggressive,4,3,female,48,1,employed,Ohio,245
+1026,Increased Enforcement,76,10,1,100,1,175,1,yes,2,75,daily,1,yes,5,about same,5,3.75,male,32,1,employed,Rhode Island,246
+181,Increased Enforcement,76,90,2,70,2,250,5,yes,3,60,weekly,3,no,1,about same,4,2.5,male,28,0,employed,Nevada,247
+850,Increased Enforcement,76,76,1,70,2,600,2,yes,2,60,monthly,3,yes,2,,4,3.25,male,30,1,employed,cn,248
+943,Increased Enforcement,76,20,3,70,2,75,3,yes,2,75,monthly,1,no,1,about same,4,3.75,female,62,1,employed,calif,249
+267,Reduced Enforcement,76,30,3,10,4,0,4,yes,1,74,rarely,1,no,1,less aggressive,5,3.5,female,68,1,unemployed,TX,250
+941,Reduced Enforcement,76,10,2,70,1,50,3,yes,4,80,monthly,1,no,2,about same,1,3,male,28,0,employed,Maryland,251
+413,Reduced Enforcement,76,85,3,75,1,120,2,yes,2,70,weekly,3,yes,4,about same,1,3.75,male,30,1,employed,ariz0na,252
+1087,Increased Enforcement,76,25,3,100,1,100,4,yes,5,77,weekly,1,no,1,more aggressive,5,1.25,male,47,1,employed,NM,253
+865,Reduced Enforcement,76,5,2,70,3,120,4,yes,4,80,weekly,2,no,1,about same,1,1.5,male,38,1,employed,Wisconsin,254
+1095,Reduced Enforcement,76,25,3,50,2,80,3,yes,2,75,weekly,1,no,1,about same,5,1.75,male,53,1,employed,Utah,255
+227,Reduced Enforcement,76,5,2,80,2,20,2,yes,2,75,monthly,1,no,1,less aggressive,4,2.25,female,22,1,unemployed,DC,256
+768,Increased Enforcement,76,0,1,70,2,150,4,yes,1, ,monthly,1,no,2,less aggressive,1,1,male,27,0,employed,Virginia,257
+1186,Reduced Enforcement,76,5,2,50,2,115,1,yes,4,78,daily,2,no,1,about same,4,1.5,male,30,1,employed,Washington,258
+524,Reduced Enforcement,76,80,2,0,4,100,3,no,1, ,never,1,no,1,less aggressive,5,3.25,female,21,0,unemployed,California,259
+807,Reduced Enforcement,76,20,3,10,4,150,3,yes,2,70,rarely,1,no,1,about same,1,2,female,56,1,employed,Virginia,260
+56,Increased Enforcement,76,5,3,100,3,120,3,yes,5,80,daily,2,yes,2,about same,5,2.5,male,40,1,employed,Virginia,261
+463,Reduced Enforcement,76,20,2,100,2,175,1,yes,3,75,rarely,1,no,1,about same,5,2.5,female,54,1,employed,Georgia,262
+457,Increased Enforcement,76,0,2,95,2,200,4,yes,4,78,rarely,1,no,1,less aggressive,4,2.75,female,57,0,employed,California,263
+1128,Increased Enforcement,76,40,2,80,2,150,4,yes,2,70,monthly,1,yes,1,less aggressive,5,1.5,female,65,1,employed,new york,264
+1,Reduced Enforcement,76,10,2,85,2,250,4,yes,2,50,weekly,1,no,1,about same,4,2.75,male,22,0,employed,california,265
+886,Reduced Enforcement,76,20,3,100,1,150,3,yes,1,80,weekly,1,no,2,about same,4,3,male,51,1,employed,Florida,266
+132,Reduced Enforcement,76,0,1,0,1,100,4,yes,5,10,daily,4,no,1,less aggressive,5,2.25,male,36,0,employed,texas,267
+1155,Increased Enforcement,76,50,3,75,2,100,3,yes,4,75,daily,1,no,2,about same,4,3.25,female,43,1,employed,Pennsylvania,268
+436,Increased Enforcement,76,5,2,100,2,200,1,yes,4,75,weekly,2,no,1,about same,4,1,male,27,0,employed,Florida,269
+567,Increased Enforcement,76,5,2,90,2,75,3,yes,2,75,weekly,1,no,1,less aggressive,4,2.25,male,78,1,unemployed,FL,270
+725,Reduced Enforcement,76,52,2,12,2,30,3,yes,2,72,monthly,1,yes,2,about same,1,4,female,47,1,employed,Missouri,271
+568,Increased Enforcement,76,2,1,75,2,100,3,yes,4,75,weekly,1,yes,2,less aggressive,4,1.75,male,40,0,employed,Florida,272
+659,Increased Enforcement,76,30,2,75,2,50,2,yes,2,75,monthly,2,no,2,about same,5,3.5,male,37,1,employed,Nebraska,273
+559,Reduced Enforcement,76,60,2,0,5,500,2,yes,2,72,rarely,1,no,1,less aggressive,1,2.25,male,67,1,unemployed,Arizona,274
+279,Increased Enforcement,76,76,3,76,3,100,3,yes,3,65,weekly,3,no,1,about same,1,3,male,35,1,employed,california,275
+1178,Reduced Enforcement,76,76,3,25,4,200,5,yes,3,72,weekly,4,no,4,about same,4,2.75,female,20,0,unemployed,texas,276
+130,Reduced Enforcement,76,50,2,55,2,500,3,yes,2,67,rarely,1,no,2,about same,4,2.75,male,21,0,unemployed,NJ,277
+468,Reduced Enforcement,76,3,2,95,2,75,1,yes,3,75,weekly,1,no,2,about same,4,2,male,40,1,employed,Colorado,278
+128,Increased Enforcement,76,76,1,76,2,5,3,yes,2,76,weekly,3,yes,4,about same,4,4.5,male,56,0,employed,California,279
+136,Reduced Enforcement,76,50,3,50,2,100,2,yes,2,76,weekly,2,yes,4,more aggressive,5,2.25,male,56,0,employed,texas,280
+631,Increased Enforcement,76,30,2,100,2,500,3,yes,4,80,weekly,1,no,1,more aggressive,5,2.25,female,28,0,employed,California,281
+534,Increased Enforcement,76,76,2,76,2,100,4,yes,1,75,daily,3,yes,3,about same,5,3.25,male,25,0,employed,new york,282
+962,Increased Enforcement,76,0,1,80,2,485,4,yes,1,65,rarely,1,no,1,about same,1,4,male,64,0,employed,Nevada,283
+636,Increased Enforcement,76,90,1,60,5,100,4,yes,2,60,monthly,4,yes,1,about same,5,2.75,male,,1,employed,nevada,284
+124,Reduced Enforcement,76,40,3,35,2,36,3,yes,2,73,rarely,1,no,1,less aggressive,1,3.25,female,29,1,employed,Virginia,285
+122,Increased Enforcement,76,0,2,100,2,150,1,yes,5,15,weekly,2,no,1,about same,5,1.5,male,44,1,employed,Georgia,286
+656,Reduced Enforcement,76,10,2,80,2,150,1,yes,4,75,monthly,1,yes,1,about same,4,2,male,60,1,employed,Hawaii,287
+120,Increased Enforcement,76,90,1,90,5,12.666,3,yes,3,70,weekly,1,yes,1,about same,1,3.25,female,40,1,employed,new york,288
+578,Reduced Enforcement,76,10,2,90,2,100,2,yes,2,80,weekly,1,no,2,less aggressive,4,2,female,37,1,employed,CA,289
+508,Increased Enforcement,76,10,3,90,1,150,3,yes,4,73,monthly,1,no,1,about same,6,1.75,male,69,1,unemployed,North Carolina,290
+733,Reduced Enforcement,76,3,5,0,4,55,1,yes,1,n/a,rarely,1,no,1,less aggressive,4,1.25,male,32,1,employed,NJ,291
+847,Reduced Enforcement,76,5,2,40,2,100,4,yes,2,65,monthly,1,no,1,less aggressive,5,2,male,37,1,employed,New York,292
+1058,Increased Enforcement,76,5,2,20,2,200,4,yes,2,75,daily,2,no,2,less aggressive,4,2.5,male,30,0,employed,Texas,293
+983,Increased Enforcement,76,25,2,50,2,120,2,yes,2,75,weekly,2,no,2,more aggressive,1,2.75,male,23,1,employed,mn,294
+529,Increased Enforcement,76,20,1,80,2,30,1,yes,1, ,monthly,1,yes,1,less aggressive,4,1,female,48,1,employed,California,295
+213,Reduced Enforcement,76,5,5,50,2,100,3,yes,2,73,rarely,1,no,1,less aggressive,5,2,female,32,1,unemployed,North Dakota,296
+626,Reduced Enforcement,76,0,2,0,4,250,1,yes,2,75,daily,1,no,1,less aggressive,5,1,male,63,1,employed,Arizona,297
+748,Reduced Enforcement,76,45,2,55,3,200,3,yes,3,75,weekly,1,no,4,more aggressive,1,4,male,29,0,employed,Massachusetts,298
+1000,Reduced Enforcement,76,10,2,70,2,100,2,yes,4,10 over,weekly,1,yes,2,about same,5,3,male,26,1,employed,Tennessee,299
+1177,Increased Enforcement,76,10,2,60,3,75,3,yes,3,75,weekly,1,no,1,about same,5,4,female,43,1,unemployed,Florida,300
+160,Reduced Enforcement,76,50,3,100,2,100,3,yes,4,80,monthly,1,no,2,about same,4,2.75,female,26,1,employed,Pennsylvania,301
+159,Reduced Enforcement,76,77,2,85,2,400,4,yes,4,65,weekly,5,no,5,more aggressive,5,3.25,female,42,1,employed,mi,302
+323,Reduced Enforcement,76,0,1,99,2,600,1,yes,5,10,rarely,1,no,2,less aggressive,5,1,male,57,1,employed,SC,303
+422,Increased Enforcement,76,20,3,100,2,50,2,yes,2,80,weekly,2,no,1,less aggressive,1,1,male,32,0,employed,Washington,304
+1073,Reduced Enforcement,76,50,2,70,2,50,4,yes,3,75,weekly,3,no,2,about same,4,3.25,female,31,1,employed,District of Colombia,305
+558,Reduced Enforcement,76,15,2,95,2,150,3,yes,3,75,rarely,1,no,1,less aggressive,5,5,male,51,0,unemployed,California,306
+712,Reduced Enforcement,76,5,3,90,2,75,3,yes,3,75,daily,1,no,1,about same,5,1.75,male,45,1,employed,Alabama,307
+569,Increased Enforcement,76,30,5,5,4,135,1,yes,5,73,rarely,1,no,1,less aggressive,5,1.25,male,42,1,employed,Florida,308
+499,Increased Enforcement,76,50,3,25,3,200,5,yes,2,75,rarely,1,no,1,less aggressive,5,1.5,female,56,1,employed,CA,309
+369,Increased Enforcement,76,76,2,80,2,100,4,yes,2,60,monthly,1,no,1,about same,4,3.25,female,40,1,employed,america,310
+173,Reduced Enforcement,76,76,2,76,2,15,2,yes,4,75,weekly,3,yes,3,about same,6,3.75,male,30,1,,SC,311
+1125,Increased Enforcement,76,30,5,90,1,75,2,yes,2,75,rarely,1,no,1,less aggressive,5,1.75,male,40,1,unemployed,Illinois,312
+577,Reduced Enforcement,76,76,2,76,2,10,3,yes,2,60,weekly,4,yes,3,more aggressive,5,4.5,male,30,1,employed,new york,313
+677,Reduced Enforcement,76,0,2,10,3,150,2,yes,1, ,weekly,1,no,1,less aggressive,1,1,female,23,0,employed,Florida,314
+32,Reduced Enforcement,76,0,3,5,4,125,1,yes,1,62,daily,1,no,1,less aggressive,4,1,male,42,1,employed,VIRGINIA,315
+1116,Increased Enforcement,76,10,2,20,3,75,3,yes,4,80,weekly,1,no,1,less aggressive,5,2,female,52,1,employed,Florida,316
+1028,Reduced Enforcement,76,56,3,25,3,600,2,yes,2,75,weekly,2,no,2,less aggressive,4,2,female,33,0,employed,Georgia,317
+183,Reduced Enforcement,76,76,1,76,1,146,4,yes,4,76,daily,4,yes,5,about same,5,4.75,male,30,0,employed,TN,318
+570,Increased Enforcement,76,5,2,100,1,100,1,yes,3,77,monthly,1,no,1,less aggressive,4,3.25,male,29,0,unemployed,Florida,319
+134,Reduced Enforcement,76,5,2,100,2,150,2,yes,4,70,weekly,3,no,1,about same,4,2.75,female,25,1,employed,Ohio,320
+186,Reduced Enforcement,76,2,2,100,1,100,2,yes,5,85,daily,1,no,2,about same,5,2,male,32,1,employed,Tennessee,321
+187,Reduced Enforcement,76,80,1,70,1,200,4,yes,4,90,daily,4,yes,3,more aggressive,6,4.5,male,32,0,employed,LA,322
+83,Reduced Enforcement,76,76,1,99,1,380,1,yes,3,90,monthly,4,yes,3,about same,6,4.5,female,26,1,employed,Connecticut,323
+350,Reduced Enforcement,76,76,2,70,2,76,1,yes,4,76,monthly,3,no,3,about same,4,3,male,30,0,employed,Texas,324
+732,Increased Enforcement,76,50,5,60,3,100,2,yes,4,74,monthly,3,no,2,about same,4,2.75,female,42,1,employed,Idaho,325
+1168,Reduced Enforcement,76,20,3,30,1,120,2,yes,4,75,weekly,1,no,1,about same,5,1.75,male,33,1,employed,NY,326
+1006,Reduced Enforcement,76,50,3,10,3,125,3,yes,2,75,monthly,1,no,1,less aggressive,5,2.25,male,56,0,unemployed,North Carolina,327
+795,Reduced Enforcement,76,25,3,0,2,100,5,yes,1,75,rarely,1,no,1,less aggressive,5,2.25,female,63,1,employed,North Carolina,328
+473,Increased Enforcement,76,25,3,30,2,150,4,yes,2,75,monthly,1,no,2,less aggressive,5,3.5,female,32,1,unemployed,Indiana,329
+654,Increased Enforcement,76,50,6,70,3,100,3,yes,2,75,monthly,1,yes,2,about same,5,2.75,male,27,1,unemployed,California,330
+194,Increased Enforcement,76,1,5,0,3,90,3,yes,3,75,daily,1,no,1,about same,1,3,female,25,1,employed,New York,331
+89,Reduced Enforcement,76,0,1,100,1,200,5,yes,3,75,daily,1,no,1,less aggressive,5,1.25,female,28,1,unemployed,West Virginia,332
+23,Increased Enforcement,76,50,4,50,2,50,3,yes,5,80,monthly,2,no,3,more aggressive,1,3.25,male,20,1,employed,Pennsylvania,333
+70,Increased Enforcement,76,60,2,20,4,100,5,yes,2,75,rarely,1,no,1,less aggressive,5,2.25,male,20,1,unemployed,Texas,334
+919,Increased Enforcement,76,10,3,20,3,200,4,yes,1,65,weekly,1,no,1,less aggressive,1,3,female,22,1,employed,Minnesota,335
+219,Reduced Enforcement,76,35,2,60,3,50,4,,1,na,never,,no,1,less aggressive,4,3,male,31,1,employed,Texas,336
+405,Reduced Enforcement,76,40,3,30,2,300,4,yes,2,15,weekly,2,no,5,about same,4,2.5,male,65,1,employed,MI,337
+157,Increased Enforcement,76,44,4,30,3,75,5,yes,1,5,rarely,1,no,1,less aggressive,1,3,male,31,1,unemployed,Oregon,338
+480,Reduced Enforcement,76,76,2,76,4,1,3,yes,3,70,monthly,3,no,3,about same,4,4.25,female,48,1,employed,South Carolina,339
+753,Increased Enforcement,76,20,2,90,2,100,3,yes,4,10,rarely,1,no,1,less aggressive,1,1.75,female,45,0,unemployed,Hawaii,340
+1067,Reduced Enforcement,76,76,2,70,2,1,1,yes,1,70,monthly,1,,1,less aggressive,1,1.5,male,60,0,employed,CA,341
+96,Reduced Enforcement,76,60,1,40,2,600,3,yes,2,76,weekly,2,yes,4,more aggressive,5,4.25,male,28,1,employed,texas,342
+1053,Reduced Enforcement,76,70,3,0,5,50,5,yes,1,60,never,1,no,1,about same,4,1.5,female,70,1,unemployed,Indiana,343
+222,Reduced Enforcement,76,25,2,0,4,100,5,yes,1,5,weekly,1,no,2,less aggressive,4,5,female,31,0,employed,Iowa,344
+1123,Reduced Enforcement,76,20,1,20,2,200,3,yes,2,90,weekly,4,yes,2,about same,5,3.25,male,29,1,employed,GA,345
+174,Reduced Enforcement,76,0,2,100,3,50,2,yes,3,80,weekly,1,no,2,more aggressive,5,2.5,male,31,1,employed,Illinois,346
+272,Increased Enforcement,76,85,3,80,2,2500,2,yes,2,80,weekly,2,yes,3,about same,5,2.25,male,32,0,employed,South carolina,347
+233,Reduced Enforcement,76,50,1,50,1,400,4,yes,3,50,daily,2,no,1,less aggressive,1,3.75,male,45,0,employed,California,348
+642,Increased Enforcement,76,10,3,20,2,50,1,yes,2,75,rarely,2,yes,1,less aggressive,5,1,female,36,1,employed,CONNECTICUT,349
+990,Reduced Enforcement,76,0,3,50,4,50,1,yes,1, ,monthly,1,no,1,less aggressive,1,3,female,57,1,unemployed,FL,350
+1050,Reduced Enforcement,76,85,2,25,4,0,1,yes,2,73,monthly,1,no,1,less aggressive,4,1,female,65,1,unemployed,FL,351
+42,Increased Enforcement,76,80,3,30,2,200,4,yes,1,60,weekly,1,yes,1,less aggressive,4,1.5,female,31,1,employed,Texas,352
+506,Reduced Enforcement,76,10,2,100,1,100,3,yes,4,80,daily,1,no,2,less aggressive,1,2.25,female,29,1,employed,Wisconsin,353
+344,Increased Enforcement,76,75,3,76,1,100,3,yes,2,60,weekly,2,yes,2,about same,4,4.75,male,26,1,employed,California,354
+877,Reduced Enforcement,76,76,1,80,1,7000,3,yes,5,76,daily,5,yes,5,more aggressive,6,1.5,male,30,0,,New York,355
+287,Increased Enforcement,76,5,4,90,2,50,2,yes,4,78,monthly,1,no,1,less aggressive,5,1.5,female,56,1,unemployed,Pennsylvania,356
+392,Increased Enforcement,76,76,2,70,2,70,5,yes,4,60,weekly,5,yes,1,more aggressive,1,4,male,49,1,employed,California,357
+69,Increased Enforcement,76,50,5,60,3,35,1,yes,2,80,rarely,1,no,1,less aggressive,4,2,male,33,0,employed,New  York,358
+980,Increased Enforcement,76,15,2,30,2,100,3,yes,3,75,monthly,2,no,2,about same,4,1.5,female,50,1,unemployed,Iowa,359
+804,Increased Enforcement,76,3,1,5,3,120,2,yes,3,75,weekly,3,no,1,more aggressive,1,2.5,male,26,1,unemployed,Ohio,360
+117,Increased Enforcement,76,5,2,100,1,50,1,yes,4,5,monthly,1,no,1,less aggressive,5,1.5,female,41,1,employed,Texas,361
+898,Reduced Enforcement,76,40,4,20,3,100,3,yes,2,75,rarely,1,yes,1,less aggressive,5,2.25,male,35,0,employed,Pennsylvania,362
+874,Increased Enforcement,76,10,4,45,2,150,1,yes,2,74,monthly,1,no,1,less aggressive,1,1.25,male,30,0,employed,Pennsylvania,363
+449,Reduced Enforcement,76,76,3,76,3,500,3,yes,3,60,daily,2,no,1,about same,4,3,male,52,1,employed,co,364
+1211,Reduced Enforcement,76,65,1,65,2,50,4,yes,2,86,weekly,3,yes,5,more aggressive,1,4.5,female,36,0,employed,NY,365
+1193,Reduced Enforcement,76,15,3,5,4,200,4,yes,2,75,monthly,2,yes,1,about same,5,1,male,60,1,employed,Ohio,366
+1160,Increased Enforcement,76,0,1,0,1,30,4,yes,2,80,monthly,2,no,1,about same,,1.5,male,24,1,employed,Illinois,367
+512,Increased Enforcement,76,50,1,60,2,152,5,yes,2,125,daily,2,yes,5,more aggressive,4,4.5,male,30,0,employed,californiya,368
+1133,Reduced Enforcement,76,30,2,60,2,20,1,yes,2,60,monthly,1,no,1,less aggressive,1,5,male,64,1,employed,California,369
+975,Reduced Enforcement,76,2,2,10,3,50,3,yes,2,73,rarely,2,no,1,less aggressive,1,1.75,male,22,0,unemployed,Massachusetts,370
+43,Increased Enforcement,76,10,3,60,2,30,2,yes,2,74,daily,1,yes,1,about same,4,2,male,40,0,employed,California,371
+916,Increased Enforcement,76,76,1,70,1,10000,5,yes,5,75,daily,5,yes,5,more aggressive,3,1.25,,,0,employed, ,372
+1079,Reduced Enforcement,76,5,4,50,1,150,3,yes,4,82,monthly,2,no,1,more aggressive,5,3.5,male,33,1,unemployed,Florida,373
+126,Reduced Enforcement,76,5,2,30,3,30,2,yes,2,75,weekly,1,no,1,less aggressive,4,1.5,male,47,1,employed,Ьшсршпфт,374
+1130,Reduced Enforcement,76,1,2,100,2,250,2,yes,2,80,monthly,1,no,2,more aggressive,5,3.75,male,35,1,employed,Washington,375
+242,Reduced Enforcement,76,30,3,80,4,120,4,yes,2,75,weekly,1,no,1,less aggressive,5,2,female,61,1,employed,Kentucky,376
+683,Reduced Enforcement,76,5,2,75,2,50,3,yes,3,75,monthly,1,no,1,about same,5,2,female,32,0,employed,Illinois,377
+1199,Reduced Enforcement,76,5,3,50,3,150,2,yes,2,75,weekly,1,no,1,about same,5,1.5,female,37,1,employed,Nevada,378
+1097,Reduced Enforcement,76,5,2,100,2,50,2,yes,4,80,weekly,1,no,1,about same,5,3,male,47,0,employed,FL,379
+88,Reduced Enforcement,76,55,2,55,2,700,4,yes,3,450,monthly,3,no,3,about same,5,2,female,27,1,employed,ARIZONA,380
+591,Reduced Enforcement,76,5,1,80,2,200,2,yes,3,74,monthly,1,no,3,less aggressive,1,2.5,female,32,1,employed,North Carolina,381
+1120,Increased Enforcement,76,35,2,50,2,185,3,yes,2,75,weekly,1,no,1,about same,5,3.5,male,43,1,employed,Florida,382
+1161,Reduced Enforcement,76,30,1,60,2,25,2,yes,1, ,daily,1,no,2,less aggressive,4,2,female,52,1,employed,NC,383
+199,Increased Enforcement,76,18,4,65,2,75,3,yes,2,75,daily,1,no,1,about same,4,1,female,30,1,employed,Louisiana,384
+1122,Increased Enforcement,76,1,1,4,3,1,3,yes,2,6,daily,1,yes,4,more aggressive,4,4.5,female,28,0,employed,pensnnalvaniya,385
+878,Increased Enforcement,76,75,3,20,4,50,2,yes,1,0,monthly,1,no,2,less aggressive,1,2,female,23,0,employed,New York,386
+13,Reduced Enforcement,76,67,2,67,3,67,3,yes,2,67,weekly,3,no,4,about same,5,3.5,male,28,0,employed,wisconsin,387
+614,Increased Enforcement,76,40,3,40,3,500,4,yes,1,n/a,daily,2,yes,4,about same,1,4,female,29,0,employed,arizona,388
+588,Reduced Enforcement,76,10,2,100,2,150,4,yes,5,75,daily,2,no,2,less aggressive,5,3,female,37,1,employed,Oklahoma,389
+1203,Increased Enforcement,76,5,2,10,2,200,2,yes,3,73,daily,1,no,1,about same,1,2.25,male,33,1,employed,California,390
+21,Increased Enforcement,76,80,1,76,3,100,4,yes,3,50,weekly,4,yes,3,about same,5,4.5,male,30,1,employed,Louisiana,391
+376,Reduced Enforcement,76,70,1,80,4,150,3,yes,3,70,monthly,2,no,3,about same,4,4,male,42,1,employed,West Virginia,392
+820,Increased Enforcement,76,0,1,50,2,50,2,yes,2,75,monthly,1,no,1,about same,4,3.75,male,36,0,employed,utah,393
+1195,Increased Enforcement,76,20,3,65,3,45,1,yes,3,77,weekly,2,no,2,about same,5,1.75,female,57,1,employed,Mississippi,394
+544,Reduced Enforcement,76,20,4,10,4,85,3,yes,2,70,monthly,2,no,1,less aggressive,5,2,female,35,1,employed,IL,395
+156,Increased Enforcement,76,76,1,80,1,76,3,yes,5,55,daily,,yes,2,about same,5,4.5,female,30,1,employed,Nebraska,396
+292,Reduced Enforcement,76,76,1,60,1,5,4,yes,2,56,daily,2,no,4,about same,4,2,male,30,0,employed,New Jersey,397
+944,Reduced Enforcement,76,10,2,80,2,50,3,yes,2,75,monthly,1,no,2,about same,1,2.75,female,22,0,employed,Michigan,398
+964,Reduced Enforcement,76,10,3,100,3,200,3,yes,4,80,weekly,1,yes,1,about same,4,1,female,61,1,employed,NC,399
+759,Reduced Enforcement,76,3,1,95,2,100,2,yes,4,76,daily,1,no,2,less aggressive,5,1.75,female,54,1,unemployed,Georgia,400
+308,Increased Enforcement,76,20,1,80,2,25,1,yes,4,75,weekly,1,no,2,less aggressive,1,1,female,41,1,employed,Ohio,401
+787,Increased Enforcement,76,2,3,0,2,75,4,yes,1, ,monthly,1,no,1,less aggressive,4,1.25,female,65,1,unemployed,Washington,402
+682,Reduced Enforcement,76,20,2,80,2,50,3,yes,2,75,monthly,1,yes,1,less aggressive,4,4.5,female,31,1,unemployed,Ohio,403
+915,Reduced Enforcement,76,5,2,90,2,90,4,yes,3,75,daily,1,yes,1,less aggressive,5,2.75,female,43,0,employed,Texas,404
+1046,Reduced Enforcement,76,0,1,100,1,50,4,yes,3,60 mph,weekly,1,no,1,less aggressive,1,2.5,male,27,1,employed,Chris,405
+432,Reduced Enforcement,82,40,2,40,1,200,2,yes,2,75,monthly,2,yes,2,about same,4,1.5,male,26,1,employed,Virginia,406
+920,Reduced Enforcement,82,15,3,0,4,150,3,yes,2,75,weekly,1,no,1,more aggressive,5,2,female,39,1,employed,Connecticut,407
+686,Reduced Enforcement,82,20,3,55,2,250,3,yes,4,77,monthly,1,no,1,about same,6,2,female,45,1,employed,Missouri,408
+935,Increased Enforcement,82,40,3,50,3,100,2,yes,3,76,weekly,1,yes,1,about same,5,3,male,60,1,employed,Ohio,409
+551,Increased Enforcement,82,30,4,50,2,70,3,yes,2,75,monthly,1,no,1,less aggressive,4,1.5,male,29,1,unemployed,Illinois,410
+1090,Reduced Enforcement,82,8,5,2,4,500,3,yes,2,75,weekly,1,no,2,less aggressive,5,1.75,female,28,1,unemployed,Ca,411
+296,Increased Enforcement,82,0,2,75,2,150,3,yes,2,75,monthly,1,no,1,less aggressive,4,2.75,male,29,1,employed,North Carolina,412
+1009,Reduced Enforcement,82,30,3,20,4,150,3,yes,2,74,weekly,2,no,1,less aggressive,4,1.75,male,33,0,employed,Texas,413
+616,Reduced Enforcement,82,90,3,80,3,150,3,yes,4,120,rarely,5,no,1,more aggressive,5,3.25,male,25,1,employed,Ohio,414
+557,Increased Enforcement,82,80,2,80,2,80,1,yes,3,82,monthly,3,no,3,about same,4,4,male,30,0,employed,Texas,415
+256,Increased Enforcement,82,65,3,78,4,4500,4,yes,3,85,weekly,3,yes,3,about same,5,2,male,60,0,employed,Connecticut,416
+215,Reduced Enforcement,82,0,1,100,2,200,2,yes,2,75,daily,1,no,1,about same,1,1,male,25,1,employed,Florida,417
+53,Reduced Enforcement,82,75,2,40,2,100,4,yes,2,50,weekly,3,yes,2,about same,5,4,female,25,1,employed,Connecticut,418
+663,Increased Enforcement,82,50,1,40,1,500,5,yes,2,50,weekly,2,yes,4,more aggressive,1,1.5,female,62,0,employed,maryland,419
+781,Increased Enforcement,82,40,3,100,2,350,4,yes,5,90,daily,1,no,1,more aggressive,4,1.75,female,46,1,employed,Pennsylvania,420
+146,Reduced Enforcement,82,1,1,99,1,129,1,yes,2,75,monthly,1,no,1,about same,5,2,male,49,1,employed,Maine,421
+545,Increased Enforcement,82,50,5,20,4,100,4,yes,1, ,monthly,1,no,1,less aggressive,1,1.5,female,28,1,employed,Alabama,422
+766,Reduced Enforcement,82,5,2,85,2,200,2,yes,2,80,daily,2,yes,2,about same,5,1.5,female,42,1,employed,North Carolina,423
+223,Reduced Enforcement,82,60,2,50,3,5000,3,yes,2,40,weekly,2,no,1,about same,5,3.25,male,26,1,employed,KY,424
+927,Reduced Enforcement,82,20,3,90,2,100,3,yes,4,78,rarely,1,no,1,more aggressive,4,1.75,female,30,1,employed,Minnesota,425
+148,Reduced Enforcement,82,20,2,100,2,200,4,yes,2,74,weekly,3,no,2,about same,1,3,male,31,1,employed,New York,426
+615,Increased Enforcement,82,10,4,10,2,50,2,yes,3,74,never,1,no,1,less aggressive,4,2.5,male,59,1,unemployed,Minnesota,427
+264,Reduced Enforcement,82,65,2,10,4,500,2,yes,2,75,monthly,1,no,1,less aggressive,6,1.5,male,29,1,employed,DC,428
+977,Reduced Enforcement,82,20,3,10,4,250,3,yes,2,75,rarely,1,no,1,less aggressive,4,1.5,female,31,1,employed,Colorado,429
+857,Increased Enforcement,82,20,4,50,3,120,3,yes,2,70,monthly,2,no,3,less aggressive,5,3.5,female,33,1,employed,KY,430
+495,Reduced Enforcement,82,82,1,82,3,191,2,yes,2,60,weekly,4,yes,5,more aggressive,6,4.5,male,30,1,employed,11233,431
+55,Increased Enforcement,82,70,3,35,3,250,4,yes,3,80,weekly,3,no,4,more aggressive,5,2.25,male,29,0,employed,tn,432
+212,Reduced Enforcement,82,90,1,80,1,90,2,yes,5,120,daily,3,yes,5,about same,4,2,male,27,0,employed,georgia,433
+1023,Reduced Enforcement,82,50,4,20,3,50,5,no,2,80mph,rarely,1,no,2,less aggressive,4,3,male,23,0,employed,Oregon,434
+777,Reduced Enforcement,82,10,1,50,2,120,3,yes,2,60,rarely,4,no,1,about same,1,1.5,female,34,1,employed,Virginia,435
+164,Reduced Enforcement,82,60,5,40,4,250,2,yes,3,75,weekly,1,no,2,about same,1,1,female,25,1,employed,New York,436
+624,Increased Enforcement,82,82,1,82,1,1,5,yes,1,100,daily,1,yes,5,more aggressive,6,3,female,34,0,employed,America,437
+535,Increased Enforcement,82,25,2,50,2,250,1,yes,2,75,daily,2,no,1,about same,5,1.5,male,39,1,employed,North Carolina,438
+1069,Reduced Enforcement,82,10,4,75,2,250,4,yes,4,80,daily,1,yes,2,about same,5,2.25,male,28,0,employed,Tennessee,439
+428,Increased Enforcement,82,75,1,80,4,135,2,yes,4,77,weekly,2,no,2,less aggressive,4,2.75,male,29,1,employed,Ohio,440
+41,Increased Enforcement,82,50,4,0,4,200,3,yes,2,75,weekly,1,no,1,about same,4,1,female,48,1,employed,Arizona,441
+993,Reduced Enforcement,82,30,3,70,4,100,2,yes,3,75,monthly,2,no,1,less aggressive,4,2.75,male,36,1,employed,Ohio,442
+316,Increased Enforcement,82,25,3,1,4,125,4,yes,2,74,monthly,2,yes,1,about same,4,5,male,65,1,employed,New Jersey,443
+101,Increased Enforcement,82,60,3,30,4,100,3,yes,2,75,monthly,5,yes,2,less aggressive,5,3.75,female,23,1,unemployed,PA,444
+138,Increased Enforcement,82,82,2,82,3,1,1,yes,2,82,daily,2,yes,4,about same,5,2.5,male,29,1,employed,oa,445
+662,Increased Enforcement,82,40,3,50,3,75,1,yes,3,75,monthly,1,yes,2,about same,1,3.75,female,39,0,employed,Massachusetts,446
+676,Increased Enforcement,82,60,3,50,3,120,3,yes,2,80mph,monthly,3,yes,2,less aggressive,4,4,male,51,0,employed,Maryland,447
+76,Reduced Enforcement,82,3,3,15,3,300,3,yes,4,76,weekly,2,no,2,about same,4,1,male,29,1,employed,Wisconsin,448
+621,Increased Enforcement,82,50,3,10,4,125,2,yes,4,75,monthly,1,no,1,about same,1,2.75,female,28,1,unemployed,Pennsylvania,449
+657,Increased Enforcement,82,8,3,5,4,50,2,yes,2,65,rarely,3,no,1,less aggressive,5,1,male,41,1,employed,Maryland,450
+678,Reduced Enforcement,82,10,1,70,3,400,4,yes,2,80,weekly,2,yes,1,about same,4,2,male,29,0,employed,California,451
+622,Reduced Enforcement,82,5,3,0,3,150,3,yes,3,75,weekly,1,no,1,less aggressive,5,1.5,male,49,1,unemployed,Idaho,452
+162,Reduced Enforcement,82,50,3,50,3,1000,3,no,1,75,never,1,no,1,about same,4,3,male,33,1,employed,California,453
+652,Reduced Enforcement,82,10,2,100,1,150,3,yes,4, ,weekly,3,no,2,more aggressive,6,2.75,male,51,0,employed,Arkansas,454
+81,Increased Enforcement,82,10,1,75,2,200,3,yes,5,78,daily,1,no,1,about same,4,1.75,male,25,1,employed,Indiana,455
+345,Reduced Enforcement,82,90,2,92,1,300,4,yes,4,70,monthly,3,yes,4,about same,6,4.25,male,38,1,employed,ARKANSAS,456
+252,Reduced Enforcement,82,82,2,82,2,600,2,yes,2,1.467,monthly,2,no,2,about same,4,4,male,30,1,employed,florida,457
+889,Reduced Enforcement,82,82,1,85,4,200,5,yes,2,75,rarely,4,yes,5,about same,4,1.5,male,32,0,employed,ohio,458
+353,Reduced Enforcement,82,55,3,60,2,85,3,yes,2,75,daily,1,no,1,about same,5,3.5,male,45,1,employed,Texas,459
+600,Increased Enforcement,82,60,2,0,4,250,2,yes,1,74,rarely,1,no,1,less aggressive,4,1.25,male,33,1,employed,Tx,460
+1138,Increased Enforcement,82,70,2,10,3,175,5,yes,5,76,weekly,1,no,2,less aggressive,5,4,male,42,1,employed,Ohio,461
+15,Reduced Enforcement,82,7,3,62,2,200,3,yes,4,75,daily,1,no,1,less aggressive,6,1,male,43,1,employed,Missouri,462
+810,Reduced Enforcement,82,10,3,50,4,150,2,yes,2,75,weekly,1,yes,1,more aggressive,6,2.5,male,36,1,employed,Louisiana,463
+1016,Reduced Enforcement,82,25,4,5,4,300,4,yes,1,70,monthly,1,no,1,less aggressive,4,1.5,female,40,0,employed,New York,464
+816,Reduced Enforcement,82,40,4,0,5,120,4,yes,2,77,rarely,1,no,1,less aggressive,5,1,female,67,1,employed,Florida,465
+519,Reduced Enforcement,82,5,1,65,2,50,2,yes,4,80,weekly,1,no,2,less aggressive,1,2.25,female,19,0,unemployed,Tennessee,466
+234,Reduced Enforcement,82,2,3,15,3,240,2,yes,2,75,monthly,1,no,1,less aggressive,1,1.25,male,47,1,employed,Florida,467
+386,Reduced Enforcement,82,20,1,10,4,300,3,no,1, ,rarely,1,no,1,less aggressive,1,1.25,female,24,1,unemployed,Tennessee,468
+1043,Increased Enforcement,82,50,4,0,4,120,3,yes,1,n/a,weekly,1,no,1,less aggressive,4,2.5,male,55,1,employed,New Jersey,469
+610,Reduced Enforcement,82,50,4,20,4,400,3,yes,2,75,monthly,1,no,1,about same,1,2.25,female,23,1,unemployed,New York,470
+1010,Reduced Enforcement,82,20,5,0,4,500,4,yes,2,75,daily,1,no,1,less aggressive,4,2,female,28,0,employed,Pennsylvania,471
+609,Increased Enforcement,82,2,4,10,2,120,3,yes,4,79,weekly,1,yes,1,about same,5,1.25,male,40,1,employed,Georgia,472
+634,Reduced Enforcement,82,10,4,30,3,250,2,yes,3,80,monthly,1,no,2,less aggressive,5,2,male,36,1,unemployed,Mississippi,473
+118,Increased Enforcement,82,10,2,75,2,80,1,no,1,n/a,rarely,1,no,1,less aggressive,4,1,female,22,1,employed,Pennsylvania,474
+1085,Increased Enforcement,82,60,3,0,4,250,5,yes,2,75,weekly,1,no,1,about same,5,1.25,female,55,0,unemployed,Maryland,475
+827,Increased Enforcement,82,30,2,65,3,100,3,yes,3,75,daily,2,no,1,less aggressive,4,1.5,male,30,1,employed,Missouri,476
+904,Reduced Enforcement,82,35,3,50,3,250,4,yes,3,80,rarely,1,no,2,about same,4,2.75,female,30,1,employed,FL,477
+78,Reduced Enforcement,82,5,5,3,2,300,5,yes,4,75,monthly,1,no,2,about same,5,2,male,53,1,unemployed,New York,478
+954,Increased Enforcement,82,0,1,100,1,500,4,yes,2,75,weekly,1,no,1,about same,5,1,male,39,0,employed,California,479
+911,Reduced Enforcement,82,1,1,95,2,250,2,yes,2,75,weekly,1,no,2,less aggressive,5,1.5,male,53,1,employed,Florida,480
+786,Reduced Enforcement,82,30,4,10,3,200,4,yes,2,75,monthly,1,no,1,about same,5,1.25,female,37,0,unemployed,Indiana,481
+539,Increased Enforcement,82,20,2,20,2,200,3,yes,2,75,monthly,1,no,1,less aggressive,1,1.5,female,22,1,employed,Pennsylvania,482
+888,Increased Enforcement,82,85,2,65,3,100,5,yes,3,75,rarely,1,no,1,less aggressive,1,1.75,male,31,1,employed,Massachusetts,483
+599,Increased Enforcement,82,10,1,100,2,300,4,yes,4,77,daily,1,no,1,about same,4,2.5,female,60,1,employed,Mississippi,484
+71,Reduced Enforcement,82,10,3,0,3,200,3,yes,2,74,rarely,1,no,2,less aggressive,5,3.25,female,46,1,unemployed,Nevada,485
+379,Reduced Enforcement,82,30,4,70,3,200,4,yes,3,75,weekly,2,no,1,about same,5,1.5,female,25,1,employed,Texas,486
+170,Increased Enforcement,82,10,3,0,5,250,5,yes,4,77,rarely,1,no,1,about same,1,2.5,female,60,1,employed,North Carolina,487
+282,Increased Enforcement,82,50,1,50,1,50,5,yes,2,100,daily,4,yes,5,more aggressive,1,4.75,male,29,0,employed,john,488
+368,Increased Enforcement,82,25,3,5,3,125,3,yes,2,75,monthly,1,no,1,more aggressive,5,2.25,male,64,1,employed,California,489
+928,Increased Enforcement,82,15,1,75,2,100,3,yes,4,80,daily,1,no,1,less aggressive,1,2.25,female,26,0,employed,Illinois,490
+1163,Increased Enforcement,82,50,5,40,2,800,5,yes,1,0,weekly,1,no,2,less aggressive,1,2,female,28,0,employed,new york,491
+4,Reduced Enforcement,82,80,4,75,2,25,3,yes,2,75,weekly,1,yes,4,less aggressive,5,3.25,female,30,1,employed,GA,492
+566,Increased Enforcement,82,50,3,0,4,100,4,yes,1,75,monthly,1,no,1,less aggressive,5,1.25,female,59,1,employed,South Dakota,493
+395,Increased Enforcement,82,75,3,40,4,220,3,yes,2,120,weekly,3,yes,2,about same,4,2.5,male,28,1,employed,NEWYORK,494
+163,Increased Enforcement,82,90,2,100,2,216,2,yes,2,100,monthly,1,no,2,less aggressive,4,2,male,25,0,employed,California,495
+754,Reduced Enforcement,82,25,2,30,2,300,3,yes,2,75,rarely,1,no,1,less aggressive,5,1.75,female,65,0,employed,Nevada,496
+828,Reduced Enforcement,82,15,2,75,2,225,2,yes,2,75,monthly,1,no,1,about same,4,1.5,male,55,1,employed,Michigan,497
+389,Reduced Enforcement,82,10,1,0,1,80,1,yes,2,75,daily,2,no,2,less aggressive,5,1.75,male,34,1,employed,Iowa,498
+20,Reduced Enforcement,82,100,3,100,2,50,3,yes,3,80,monthly,3,yes,5,more aggressive,6,3,male,36,0,employed,oh,499
+906,Increased Enforcement,82,50,2,5,2,150,1,yes,4,75,daily,1,yes,1,less aggressive,5,3.5,male,35,1,employed,New York,500
+814,Increased Enforcement,82,35,1,0,2,250,1,yes,3,72,rarely,1,no,1,less aggressive,4,1.25,male,42,0,employed,Georgia,501
+288,Reduced Enforcement,82,20,1,80,1,100,2,yes,4,80,monthly,1,no,1,less aggressive,1,4.25,male,35,1,employed,Oregon,502
+205,Increased Enforcement,82,10,1,100,1,100,3,no,1,90,rarely,3,no,1,less aggressive,1,3.5,male,27,0,employed,florida,503
+77,Increased Enforcement,82,20,3,50,2,50,2,yes,2,78,weekly,1,no,1,less aggressive,4,3,female,32,1,unemployed,Utah,504
+74,Reduced Enforcement,82,60,2,30,2,10000,3,yes,2,10,weekly,1,no,1,about same,4,3,male,26,1,employed,IL,505
+131,Increased Enforcement,82,82,1,85,2,5,3,yes,2,40,weekly,3,yes,4,more aggressive,5,4.5,male,61,1,employed,Texas,506
+708,Increased Enforcement,82,25,3,75,2,350,5,yes,2,80,daily,1,no,1,less aggressive,1,1,female,42,1,unemployed,CA,507
+1204,Increased Enforcement,82,1,1,0,3,120,4,yes,1, ,rarely,1,no,1,less aggressive,1,2.5,female,25,1,unemployed,Florida,508
+426,Reduced Enforcement,82,0.5,2,55,3,225,3,yes,2,77,weekly,1,no,1,less aggressive,1,2,male,32,1,employed,Massachusetts,509
+1132,Reduced Enforcement,82,15,4,0,3,75,1,yes,2,72,rarely,1,no,1,less aggressive,5,1,male,55,1,unemployed,new hampshire,510
+858,Increased Enforcement,82,50,1,60,2,100,2,yes,4,10,monthly,1,no,1,more aggressive,4,1.75,male,27,1,employed,Florida,511
+674,Increased Enforcement,82,40,3,20,4,350,4,yes,1,70,rarely,1,no,1,less aggressive,4,1.75,female,69,1,unemployed,New York,512
+417,Reduced Enforcement,82,70,2,65,4,200,4,yes,2,60,rarely,5,yes,2,about same,6,3,male,38,0,employed,ARIZONA,513
+391,Increased Enforcement,82,85,2,0,5,200,1,yes,1, ,weekly,1,no,1,less aggressive,4,1,female,60,1,employed,Missouri,514
+243,Increased Enforcement,82,90,1,80,2,80,3,yes,1,90,weekly,2,no,5,about same,4,1.75,female,41,0,employed,LA,515
+655,Increased Enforcement,82,85,3,65,2,110,4,yes,3,80,monthly,3,no,2,about same,6,2,female,30,1,unemployed,Ohio,516
+724,Increased Enforcement,82,30,4,20,3,300,3,yes,2,74,monthly,1,no,1,less aggressive,5,1.75,female,49,1,unemployed,Texas,517
+1135,Increased Enforcement,82,82,4,45,2,300,3,yes,2,40,monthly,3,no,3,about same,5,2,female,49,0,employed,michigan,518
+854,Increased Enforcement,82,0,1,100,1,250,3,yes,2,75,rarely,2,no,1,about same,5,1.75,male,65,1,unemployed,Florida,519
+1129,Increased Enforcement,82,50,3,0,4,150,3,yes,1, ,rarely,1,no,1,less aggressive,4,3.25,female,40,1,employed,IL,520
+998,Increased Enforcement,82,2,3,50,2,150,2,yes,2,77,weekly,1,no,2,less aggressive,5,3,male,33,1,employed,WA,521
+277,Reduced Enforcement,82,20,3,55,2,150,2,yes,2,75,rarely,1,no,1,about same,1,2.25,female,37,1,employed,New Jersey,522
+140,Reduced Enforcement,82,82,2,80,1,150,2,yes,4,60,weekly,4,no,5,about same,1,3.5,male,30,1,employed,California,523
+546,Reduced Enforcement,82,20,3,5,3,200,4,yes,2,75,monthly,1,no,1,about same,4,2,female,36,1,employed,Arizona,524
+359,Reduced Enforcement,82,50,3,10,4,100,3,yes,2,75,rarely,1,yes,1,less aggressive,4,3.75,female,57,1,employed,Michigan,525
+29,Reduced Enforcement,82,80,3,80,5,1500,3,yes,3,12,monthly,3,yes,3,about same,4,4.5,male,18,0,employed,IDAHO,526
+1131,Reduced Enforcement,82,40,3,85,2,300,3,yes,3,10,rarely,1,yes,1,less aggressive,4,2.25,male,24,0,employed,Arizona,527
+863,Reduced Enforcement,82,10,2,0,2,200,2,yes,1, ,daily,1,no,1,less aggressive,5,1,female,58,1,employed,Louisiana,528
+658,Reduced Enforcement,82,5,1,88,1,60,5,yes,3,75,rarely,1,no,1,less aggressive,6,2.25,male,53,0,employed,Illinois,529
+750,Reduced Enforcement,82,80,1,20,4,5,1,yes,2,100,monthly,3,no,1,about same,6,2.25,male,28,1,employed,utah,530
+999,Increased Enforcement,82,85,1,0,3,250,2,yes,3,75,weekly,1,no,1,less aggressive,4,2.25,male,65,1,employed,Connecticut,531
+846,Reduced Enforcement,82,50,1,50,2,500,5,yes,5,70,daily,5,yes,1,less aggressive,1,3,female,37,1,employed,FL,532
+1011,Increased Enforcement,82,30,2,20,2,100,3,yes,3,100,weekly,2,yes,1,about same,1,2.25,female,26,0,employed,Texas,533
+281,Increased Enforcement,82,75,4,60,3,10,3,yes,2,80,monthly,3,yes,3,about same,5,3.5,male,47,1,employed,Illinois,534
+1039,Increased Enforcement,82,85,1,82,2,1,5,yes,2,MPH,weekly,5,yes,4,more aggressive,5,4.5,female,37,0,employed,MS,535
+180,Increased Enforcement,82,35,4,5,3,200,4,yes,2,74,rarely,1,no,1,about same,4,2.5,male,44,1,unemployed,Montana,536
+517,Reduced Enforcement,82,20,4,15,4,200,4,yes,2,75,monthly,1,no,2,about same,6,2,female,32,0,employed,Massachusetts,537
+245,Reduced Enforcement,82,60,2,70,3,200,3,yes,2,85,monthly,3,no,2,about same,5,3.5,male,32,0,employed,Pennsylvania,538
+34,Reduced Enforcement,82,50,3,45,2,10,4,yes,2,70,monthly,2,yes,4,about same,1,2.75,female,38,1,employed,california,539
+1003,Reduced Enforcement,82,10,3,50,3,100,1,yes,2,75,weekly,1,no,1,less aggressive,5,2,male,42,0,employed,Florida,540
+1057,Reduced Enforcement,82,82,3,82,2,100,3,yes,2,70,monthly,2,yes,4,about same,4,3,male,34,0,employed,Maryland,541
+65,Reduced Enforcement,82,50,3,50,4,35,1,yes,2,80,weekly,1,no,1,less aggressive,4,1,female,24,1,employed,Oregon,542
+860,Reduced Enforcement,82,5,3,0,3,120,2,yes,2,71,monthly,1,no,1,less aggressive,4,1.5,male,58,1,unemployed,Washington,543
+751,Increased Enforcement,82,65,3,75,3,50,4,yes,2,65,weekly,3,yes,4,less aggressive,4,4,male,35,0,employed,Texas,544
+688,Increased Enforcement,82,30,3,70,2,400,5,yes,2,85,rarely,1,no,1,about same,4,3.5,female,47,1,unemployed,Wyoming,545
+35,Increased Enforcement,82,15,3,45,2,100,3,yes,2,80,monthly,1,yes,1,about same,5,3.25,female,25,1,unemployed,Florida,546
+107,Reduced Enforcement,82,90,2,88,2,1000,4,yes,2,150,monthly,2,no,4,about same,4,4.25,female,28,1,employed,arizona,547
+258,Increased Enforcement,82,40,3,55,3,125,2,yes,2,80,monthly,1,no,1,about same,3,2.5,female,66,1,unemployed,Arizona,548
+507,Increased Enforcement,82,50,1,65,2,20,2,yes,2,80mph,weekly,5,yes,3,about same,4,2.5,male,35,1,employed,Maryland,549
+1054,Increased Enforcement,82,60,2,39,2,30,4,yes,1,40,daily,2,yes,4,about same,5,4,male,58,0,employed,Newyork,550
+492,Reduced Enforcement,82,67,3,0,4,250,1,yes,2,75,rarely,2,no,2,about same,1,2.5,male,24,0,employed,CA,551
+1182,Reduced Enforcement,82,10,2,30,2,500,4,yes,2,75,daily,1,no,2,about same,3,3.75,male,48,1,employed,California,552
+718,Reduced Enforcement,82,0,3,95,2,1000,5,yes,2,80,monthly,1,no,1,less aggressive,5,1,female,31,0,unemployed,Virginia,553
+765,Reduced Enforcement,82,75,2,75,3,70,3,yes,3,60,daily,1,no,4,more aggressive,5,3.25,female,31,0,employed,alysaa,554
+438,Reduced Enforcement,82,40,3,50,4,250,5,yes,2,76,monthly,1,no,2,less aggressive,6,1,female,39,1,employed,Florida,555
+949,Increased Enforcement,82,20,1,70,1,100,3,yes,3,100,weekly,1,yes,2,less aggressive,5,2.5,male,34,1,employed,OHIO,556
+262,Increased Enforcement,82,10,4,75,3,125,1,yes,5,76,monthly,1,no,1,more aggressive,5,2.75,female,52,1,employed,NY,557
+951,Reduced Enforcement,82,65,3,2,4,70,4,yes,2,75,daily,1,no,1,less aggressive,1,1.75,male,50,0,employed,Maryland,558
+1117,Reduced Enforcement,82,20,3,45,4,120,4,yes,3,78,monthly,1,yes,1,about same,5,3.5,female,51,0,employed,Oregon,559
+152,Reduced Enforcement,82,90,2,50,2,100,5,yes,2,70,weekly,3,yes,1,less aggressive,1,4.25,female,25,1,employed,Oklahoma,560
+774,Increased Enforcement,82,20,2,65,2,120,2,yes,2,75,weekly,1,no,2,less aggressive,4,2,female,34,1,employed,Nebraska,561
+48,Increased Enforcement,82,70,1,10,5,200,5,yes,1,79,weekly,2,no,2,about same,4,2.5,male,35,1,employed,pennsylvania,562
+39,Reduced Enforcement,82,20,3,15,4,120,3,yes,2,5,daily,1,no,2,less aggressive,1,3.25,female,44,1,employed,Washington,563
+779,Reduced Enforcement,82,50,3,0,5,300,3,yes,1,na,never,1,no,1,less aggressive,4,4.5,female,44,0,employed,Florida,564
+934,Reduced Enforcement,82,15,3,55,2,100,2,yes,3,79,monthly,1,no,1,more aggressive,1,3.25,male,76,1,unemployed,Florida,565
+22,Reduced Enforcement,82,10,2,70,2,200,3,yes,5,80,daily,2,yes,2,more aggressive,4,2,male,29,0,employed,GA,566
+565,Increased Enforcement,82,33,3,50,2,175,3,yes,3,77,weekly,1,no,2,about same,5,1.75,male,60,1,employed,Ohio,567
+623,Reduced Enforcement,82,20,2,30,3,75,1,yes,2,80,rarely,1,no,1,less aggressive,1,1.75,female,68,1,unemployed,Iowa,568
+650,Increased Enforcement,82,25,4,10,4,130,4,yes,2,80,weekly,2,no,1,less aggressive,4,2.5,female,44,1,unemployed,RI,569
+229,Increased Enforcement,82,50,4,65,2,100,1,yes,4,75,weekly,1,no,2,about same,5,2,male,40,1,employed,Pennsylvania,570
+1196,Increased Enforcement,82,35,2,95,2,120,3,yes,4,78,monthly,1,no,1,about same,4,1.75,female,31,1,employed,Florida,571
+832,Reduced Enforcement,82,40,3,50,2,300,3,yes,4,80,weekly,1,no,2,less aggressive,1,2.5,female,31,1,employed,Louisiana,572
+788,Increased Enforcement,82,50,2,70,3,90,3,yes,4,80,weekly,1,no,1,more aggressive,4,2,female,23,1,employed,IN,573
+948,Reduced Enforcement,82,10,4,25,4,100,3,yes,2,75,monthly,1,no,1,less aggressive,4,3.75,male,40,1,unemployed,Florida,574
+149,Increased Enforcement,82,40,3,50,2,100,3,yes,2,70,weekly,4,yes,1,less aggressive,3,2.25,male,33,1,employed,California,575
+54,Increased Enforcement,82,10,3,90,3,180,2,yes,2,80,weekly,1,yes,2,about same,1,2.25,male,30,1,employed,Florida,576
+1051,Reduced Enforcement,82,5,1,99,2,150,2,yes,4,75,weekly,1,no,3,less aggressive,5,2,male,59,1,employed,Minnesota,577
+704,Reduced Enforcement,82,45,3,0,4,120,5,yes,1, ,monthly,1,no,1,about same,5,1,male,20,0,unemployed,Texas,578
+834,Reduced Enforcement,82,10,3,60,3,200,3,yes,4,74,monthly,1,no,1,more aggressive,5,2,female,38,1,employed,New York,579
+425,Increased Enforcement,82,60,3,,2,650,2,yes,4,82,weekly,3,yes,2,more aggressive,6,2,male,32,0,employed,New Jersey,580
+737,Increased Enforcement,82,40,4,5,4,110,2,yes,2,75,weekly,1,no,1,less aggressive,5,2,male,59,1,employed,Kansas,581
+1075,Reduced Enforcement,82,1,1,15,2,75,1,yes,5,76,monthly,1,no,2,less aggressive,5,5,male,41,1,employed,Oklahoma,582
+876,Reduced Enforcement,82,2,2,95,1,110,2,yes,4,80,weekly,1,no,1,more aggressive,5,1.75,male,45,1,employed,Florida,583
+1183,Increased Enforcement,82,60,3,80,1,100,1,yes,2,120,daily,3,yes,5,more aggressive,3,4.5,female,37,0,employed,Iowa,584
+823,Increased Enforcement,82,50,4,10,5,200,3,yes,3,76,rarely,1,no,1,less aggressive,5,1.5,female,28,1,,South Carolina,585
+1210,Reduced Enforcement,82,5,3,50,2,200,5,yes,2,75,weekly,2,yes,2,less aggressive,4,1.5,female,34,1,employed,Ohio,586
+2,Increased Enforcement,82,15,2,40,2,400,3,yes,2,80,weekly,1,no,2,less aggressive,4,2,male,26,1,employed,Iowa,587
+709,Reduced Enforcement,82,0,1,100,1,300,3,yes,1,71,rarely,1,no,1,less aggressive,1,3,male,30,1,employed,California,588
+612,Reduced Enforcement,82,10,2,15,2,200,3,yes,3,75,monthly,1,no,1,less aggressive,4,1,male,35,0,employed,Texas,589
+431,Increased Enforcement,82,40,2,0,4,300,2,yes,5,85,monthly,1,yes,2,more aggressive,4,3.25,male,44,1,employed,Florida,590
+403,Reduced Enforcement,82,10,2,0,5,500,4,yes,1,NA,monthly,1,no,1,less aggressive,4,1,female,27,1,employed,PA,591
+1162,Increased Enforcement,82,50,2,75,2,250,3,yes,4,75,daily,1,yes,1,about same,5,2.25,male,28,1,employed,SC,592
+1037,Increased Enforcement,82,80,3,65,4,400,5,yes,1,75,rarely,1,no,1,about same,1,1,female,57,0,unemployed,Texas,593
+244,Increased Enforcement,82,5,3,0,3,160,2,yes,2,80,rarely,1,no,1,less aggressive,4,2,female,51,1,employed,Missouri,594
+811,Reduced Enforcement,82,62,4,15,4,300,1,yes,3,75,weekly,1,no,1,more aggressive,1,1.25,male,45,0,employed,Texas,595
+300,Reduced Enforcement,82,10,1,97,2,300,3,yes,3,80,monthly,2,no,1,less aggressive,5,1.75,female,53,1,employed,Florida,596
+275,Increased Enforcement,82,60,3,70,2,50,4,yes,3,60,never,4,no,1,about same,4,3,female,34,0,employed,CALIFORNIA,597
+112,Reduced Enforcement,82,50,1,40,1,150,5,yes,1,86,daily,3,yes,5,more aggressive,1,1.75,female,31,0,employed,new york,598
+192,Reduced Enforcement,82,20,3,75,2,220,4,yes,2,75,daily,2,yes,2,about same,4,3.75,female,31,0,employed,Virginia,599
+466,Increased Enforcement,82,2,3,32,2,26,4,yes,1,25,daily,4,yes,1,more aggressive,5,1.5,female,27,0,employed,CALIFORNIA,600
+467,Increased Enforcement,82,84,1,87,1,70,5,yes,5,383,daily,1,yes,4,less aggressive,3,1.5,female,32,0,employed,US,601
+1042,Increased Enforcement,82,50,1,60,1,500,2,yes,2,MPH,monthly,3,yes,4,about same,5,4.5,male,35,0,employed,NY,602
+590,Reduced Enforcement,82,20,5,15,3,100,3,yes,4,75,daily,1,no,1,about same,6,3.5,male,40,1,employed,Michigan,603
+435,Increased Enforcement,82,50,3,25,4,150,2,yes,3,78,monthly,2,no,1,about same,1,2,female,33,1,employed,Wisconsin,604
+1013,Reduced Enforcement,82,1,3,1,2,130,2,yes,2,72,weekly,1,no,2,less aggressive,5,1.75,female,54,0,employed,Virginia,605
+303,Reduced Enforcement,82,50,3,40,3,5,3,yes,2,75,weekly,2,yes,2,less aggressive,4,2.5,male,48,1,employed,MO,606
+824,Increased Enforcement,82,10,2,35,2,100,3,yes,2,75,monthly,1,yes,2,about same,5,2.25,male,33,0,employed,Oklahoma,607
+780,Increased Enforcement,82,50,1,75,1,50,3,yes,2,80,daily,1,no,1,less aggressive,5,3,male,34,1,employed,maryland,608
+87,Increased Enforcement,82,60,3,20,4,100,3,yes,2,75,monthly,1,no,1,less aggressive,5,2.5,male,57,1,employed,Indiana,609
+705,Increased Enforcement,82,70,2,78,1,11,3,yes,2,82,daily,1,yes,5,more aggressive,5,4.25,male,29,0,employed,new york,610
+867,Increased Enforcement,82,25,4,50,3,150,3,yes,1,0,rarely,1,no,1,less aggressive,4,4.5,female,23,1,employed,Oregon,611
+1156,Increased Enforcement,82,30,3,0,4,50,3,yes,1,0,weekly,1,no,2,about same,5,2.5,female,24,1,employed,North Dakota,612
+106,Reduced Enforcement,82,15,3,20,3,500,3,yes,3,75,weekly,1,no,2,about same,4,2.5,male,29,1,employed,Pennsylvania,613
+812,Reduced Enforcement,82,80,2,50,4,150,4,yes,2,90,weekly,3,yes,1,less aggressive,1,3.5,female,28,1,employed,California,614
+299,Increased Enforcement,82,20,4,10,4,300,2,yes,2,65,weekly,3,no,2,about same,4,2.25,female,41,1,employed,CO,615
+1175,Increased Enforcement,82,40,4,60,3,100,3,yes,2,80,rarely,2,no,1,about same,1,3,male,20,0,unemployed,NEW YORK,616
+970,Increased Enforcement,82,20,2,40,2,90,2,yes,2,75,weekly,1,yes,1,less aggressive,5,2.25,male,26,0,employed,Maryland,617
+493,Reduced Enforcement,82,50,4,0,4,125,3,yes,2,72,rarely,2,no,2,about same,5,2,female,63,1,employed,Virginia,618
+895,Reduced Enforcement,82,5,5,25,4,200,3,yes,4,75,weekly,1,no,1,about same,1,1.5,male,65,1,employed,illinois,619
+1167,Reduced Enforcement,82,20,6,1,4,100,2,yes,4,75,monthly,1,no,1,less aggressive,6,2,male,31,1,employed,Illinois,620
+165,Increased Enforcement,82,5,2,3,2,20,2,yes,2,3,monthly,4,yes,5,more aggressive,5,4.5,female,40,0,employed,oregon,621
+255,Reduced Enforcement,82,20,2,50,2,200,2,yes,3,75,daily,1,no,2,about same,1,1,male,35,1,employed,Michigan,622
+1029,Increased Enforcement,82,10,3,30,3,120,2,yes,4,75,weekly,1,no,1,less aggressive,6,1.75,male,43,1,employed,Georgia,623
+387,Increased Enforcement,82,22,2,22,2,22,4,yes,2,22,weekly,2,no,4,more aggressive,5,3.75,male,28,1,employed,Missouri,624
+826,Increased Enforcement,82,20,3,90,2,75,3,yes,4,75,rarely,1,no,2,more aggressive,5,3.5,female,33,1,unemployed,New York,625
+1098,Reduced Enforcement,82,10,4,1,3,50,3,yes,3,75,daily,2,yes,2,less aggressive,6,2.25,male,36,1,employed,Virginia,626
+607,Increased Enforcement,82,50,4,80,3,150,3,no,2,75,weekly,1,no,3,about same,5,3,female,33,1,unemployed,Indiana,627
+784,Reduced Enforcement,82,8,2,80,3,300,4,yes,3,80,monthly,1,no,1,about same,5,1.75,male,25,0,employed,California,628
+625,Increased Enforcement,82,60,3,20,4,150,3,yes,4,75,weekly,1,yes,2,about same,1,2.25,male,21,1,employed,Michigan,629
+995,Increased Enforcement,82,50,3,20,4,300,4,yes,2,75,weekly,1,no,1,less aggressive,5,1.25,female,31,0,employed,Indiana,630
+221,Reduced Enforcement,82,50,3,60,3,250,4,yes,2,60,weekly,3,yes,2,about same,4,3.5,male,28,1,employed,Ohio,631
+727,Reduced Enforcement,82,15,3,0,4,200,3,yes,1, ,monthly,1,no,1,less aggressive,5,1.75,male,48,0,employed,Georgia,632
+581,Increased Enforcement,82,75,3,90,2,100,3,yes,2,80,daily,2,no,2,about same,5,2.25,female,45,0,employed,Texas,633
+817,Increased Enforcement,82,24,1,77,4,150,3,yes,4,85,weekly,1,no,2,about same,4,2.75,male,20,0,employed,Georgia,634
+184,Increased Enforcement,82,40,2,10,1,300,4,yes,2,75,weekly,1,no,1,about same,1,1.75,male,39,1,employed,Michigan,635
+1080,Reduced Enforcement,82,60,2,70,2,100,2,yes,2,80,weekly,3,yes,2,about same,5,4.5,female,30,0,employed,OK,636
+513,Increased Enforcement,82,70,2,60,1,350,4,yes,2,65,weekly,1,yes,5,more aggressive,4,3.25,male,39,0,employed,Texas,637
+14,Reduced Enforcement,82,50,3,80,4,150,2,yes,3,80,daily,1,no,1,about same,1,1.75,male,48,1,employed,California,638
+306,Increased Enforcement,82,5,3,100,2,100,1,yes,4,80,daily,1,no,1,about same,5,1.25,male,45,1,employed,Michigan,639
+799,Reduced Enforcement,82,45,1,55,2,75,2,yes,2,90,weekly,4,no,2,about same,4,2.75,male,32,1,employed,Neveda,640
+490,Increased Enforcement,82,40,2,50,2,200,4,yes,2,14,weekly,2,no,4,about same,4,2.75,male,35,1,employed,MI,641
+382,Increased Enforcement,82,60,4,50,4,6000,3,yes,1,30,weekly,1,no,1,about same,1,3.5,male,26,1,employed,CA,642
+293,Increased Enforcement,82,50,2,30,4,150,2,yes,2,60,weekly,1,no,2,about same,5,4,female,34,0,employed,PA,643
+586,Reduced Enforcement,82,30,3,96,1,300,3,yes,4,80,daily,1,no,1,about same,4,1.75,male,20,1,employed,Illinois,644
+214,Reduced Enforcement,82,86,3,56,2,45,3,no,2,34,weekly,2,no,2,about same,5,2.75,female,23,1,employed,US,645
+400,Increased Enforcement,82,6,1,8,4,2,2,yes,2,80,monthly,5,yes,4,about same,5,1.5,male,30,0,employed,ohio,646
+1036,Increased Enforcement,82,25,5,1,4,150,2,yes,2,80,daily,1,no,1,about same,5,3,male,45,0,employed,Kansas,647
+714,Reduced Enforcement,82,15,1,100,2,250,3,yes,4,84,monthly,1,yes,1,less aggressive,4,1.5,female,38,1,employed,Florida,648
+562,Reduced Enforcement,82,1,2,0,2,120,4,yes,1,65,rarely,1,yes,1,less aggressive,5,2.25,male,34,1,employed,Missouri,649
+423,Reduced Enforcement,82,10,3,20,4,125,3,yes,2,75,rarely,1,no,1,about same,1,1,female,50,1,employed,Michigan,650
+885,Reduced Enforcement,82,10,3,90,2,220,5,yes,4,80,weekly,2,yes,4,about same,1,3.25,male,31,1,employed,Pennsylvania,651
+357,Reduced Enforcement,82,60,2,40,3,50,2,yes,1, ,monthly,2,no,2,less aggressive,1,2.25,male,27,1,employed,CA,652
+446,Reduced Enforcement,82,60,,65,2,25,3,yes,3,45,rarely,4,yes,3,about same,1,2.5,female,30,0,employed,washington,653
+691,Reduced Enforcement,82,20,3,1,4,75,2,yes,2,65,monthly,1,no,1,less aggressive,5,1.75,female,41,1,employed,Pennsylvania,654
+979,Increased Enforcement,82,80,1,82,1,100,4,yes,5,100,weekly,3,yes,5,more aggressive,4,1.25,male,30,0,employed,Memphis,655
+7,Increased Enforcement,82,0,1,0,4,200,5,yes,1, ,rarely,1,no,1,less aggressive,1,1,female,46,1,employed,Kansas,656
+58,Reduced Enforcement,82,15,4,100,2,200,1,yes,5,80,weekly,1,yes,1,more aggressive,4,1,female,45,0,employed,Virginia,657
+201,Increased Enforcement,82,50,3,50,2,100,2,yes,2,75,monthly,1,no,1,less aggressive,1,1.5,female,49,1,unemployed,MN,658
+744,Reduced Enforcement,82,30,3,40,3,200,2,yes,2,80,weekly,1,no,2,about same,5,1.5,male,26,0,employed,California,659
+940,Increased Enforcement,82,15,2,60,2,140,1,yes,2,78,daily,1,no,1,less aggressive,5,1.5,male,32,1,employed,Washington,660
+1094,Increased Enforcement,82,50,5,0,4,120,2,yes,2,75,rarely,2,no,2,less aggressive,6,1.5,female,32,1,unemployed,New Mexico,661
+462,Reduced Enforcement,82,80,3,80,2,15,4,yes,2,70,weekly,2,yes,4,about same,4,1.5,male,30,0,employed,maryland,662
+897,Increased Enforcement,82,75,2,50,4,100,4,yes,4,80,weekly,3,no,1,less aggressive,6,3.25,male,27,0,employed,California,663
+486,Reduced Enforcement,82,30,3,80,2,100,2,yes,3,75,monthly,2,no,2,less aggressive,5,2.5,female,42,1,unemployed,Texas,664
+105,Reduced Enforcement,82,10,4,5,4,125,2,,2,75,weekly,1,no,1,less aggressive,5,1,male,68,1,employed,TN,665
+1074,Increased Enforcement,82,55,2,57,2,100,3,yes,2,120,daily,2,yes,4,more aggressive,5,4.75,male,25,0,employed,Tennessee,666
+710,Increased Enforcement,82,35,4,85,2,250,1,yes,4,75,weekly,1,yes,1,more aggressive,1,1.75,female,44,1,unemployed,Colorado,667
+188,Increased Enforcement,82,60,3,10,4,100,1,yes,2,75,daily,1,no,1,less aggressive,1,1,male,45,1,employed,VT,668
+1076,Reduced Enforcement,82,30,1,10,4,150,5,yes,2,70,daily,1,yes,1,about same,4,1.25,female,33,0,employed,nj,669
+1124,Reduced Enforcement,82,99,1,80,3,251,3,yes,1,60,weekly,5,no,1,about same,1,4,female,30,0,employed,Colorado,670
+109,Increased Enforcement,82,30,3,70,2,100,5,yes,2,75,monthly,3,no,2,more aggressive,5,3.75,female,27,0,employed,NY,671
+226,Increased Enforcement,82,82,3,85,3,500,4,yes,3,82,monthly,3,yes,3,about same,5,3,male,39,1,employed,USA,672
+601,Increased Enforcement,82,70,2,50,3,120,2,yes,4,75,weekly,1,no,2,less aggressive,1,4.25,male,20,1,unemployed,Oregon,673
+1088,Increased Enforcement,82,0,3,100,2,150,2,yes,4,85,monthly,1,no,1,less aggressive,5,3.5,female,43,1,employed,New Jersey,674
+596,Reduced Enforcement,82,5,2,80,2,150,2,yes,2,75,monthly,1,no,1,about same,5,2,male,58,1,employed,Massachusetts,675
+311,Reduced Enforcement,82,4,3,85,2,150,2,yes,3,75,daily,2,yes,1,about same,4,1,male,34,1,employed,Ohio,676
+563,Increased Enforcement,82,40,3,50,2,300,2,yes,3,75,weekly,1,no,1,less aggressive,5,2,female,37,1,employed,California,677
+168,Increased Enforcement,82,50,2,82,2,20,3,yes,3,82,daily,3,no,1,about same,1,3.75,male,29,0,employed,Georgia,678
+1137,Increased Enforcement,82,10,3,50,2,250,3,yes,2,75,monthly,1,no,2,less aggressive,5,2.25,male,41,0,employed,Kentucky,679
+1144,Reduced Enforcement,82,45,3,15,2,175,3,yes,2,80,monthly,1,no,1,less aggressive,3,3.25,female,30,0,unemployed,Texas,680
+1068,Reduced Enforcement,82,20,4,0,4,40,1,yes,2,75,rarely,1,no,1,about same,5,1,female,37,1,unemployed,California,681
+269,Reduced Enforcement,82,8,2,70,1,150,3,yes,4,80,weekly,1,no,2,less aggressive,1,1.5,male,29,1,employed,Washington,682
+991,Reduced Enforcement,82,50,2,50,2,120,3,yes,4,75,daily,1,no,1,less aggressive,4,1.25,female,37,0,employed,Michigan,683
+776,Increased Enforcement,82,50,2,30,4,240,5,yes,2,75,rarely,1,no,1,less aggressive,4,1.25,male,21,1,employed,Ohio,684
+1201,Increased Enforcement,82,10,3,5,4,100,3,yes,2,78,monthly,3,no,1,less aggressive,5,2.5,female,42,1,unemployed,Arkansas,685
+1206,Reduced Enforcement,82,80,1,90,1,150,3,yes,2,120,weekly,3,no,1,less aggressive,1,1,male,45,1,employed,Florida,686
+859,Increased Enforcement,82,20,2,90,2,250,4,yes,4,80,rarely,1,no,1,about same,1,2.5,male,28,0,employed,Arizona,687
+339,Reduced Enforcement,82,20,2,95,2,200,2,yes,2,75,monthly,1,no,1,about same,5,1,male,33,1,employed,NJ,688
+516,Reduced Enforcement,82,60,3,50,2,15,2,yes,2,50,weekly,3,no,3,about same,4,3.5,male,31,1,employed,Montana,689
+873,Increased Enforcement,82,30,1,40,2,191,3,yes,3,160,monthly,1,no,1,less aggressive,1,1,male,53,1,employed,Texas,690
+1136,Increased Enforcement,82,50,2,10,4,100,3,yes,5,5,daily,1,no,1,more aggressive,4,3.25,male,30,0,unemployed,CA,691
+189,Reduced Enforcement,82,0,2,95,2,150,3,yes,4,80,daily,1,no,1,about same,1,3,male,38,1,unemployed,ut,692
+246,Reduced Enforcement,82,50,3,0,4,150,2,yes,1, ,monthly,1,no,1,less aggressive,1,1,female,33,1,employed,Indiana,693
+1111,Reduced Enforcement,82,50,3,20,5,200,4,yes,3,73-75,monthly,1,yes,1,about same,5,2.25,female,37,1,unemployed,Texas,694
+605,Reduced Enforcement,82,90,2,0,4,2500,4,yes,3,70,monthly,1,no,2,about same,1,3,male,46,1,employed,WA,695
+1065,Increased Enforcement,82,5,3,20,2,200,4,yes,2,75,monthly,1,no,2,less aggressive,1,3.25,male,21,1,unemployed,GA,696
+471,Reduced Enforcement,82,82,1,82,1,200,5,yes,3,80,daily,3,yes,3,more aggressive,5,1.75,male,30,0,employed,WI,697
+93,Reduced Enforcement,82,10,2,70,2,400,5,yes,4,80,monthly,1,no,1,more aggressive,4,4,male,37,0,employed,arizona,698
+430,Reduced Enforcement,82,5,2,80,2,150,2,yes,3,80,monthly,1,no,2,about same,4,1.75,male,39,1,employed,Pennsylvania,699
+1012,Reduced Enforcement,82,60,3,40,2,50,3,yes,3,120,monthly,2,no,1,about same,4,3.5,male,28,0,employed,TN,700
+875,Reduced Enforcement,82,82,2,82,3,100,3,yes,3,50,weekly,3,yes,4,about same,5,2.75,male,30,1,employed,cn,701
+838,Reduced Enforcement,82,50,3,40,4,100,3,yes,2,80,weekly,1,yes,2,less aggressive,4,1.75,female,44,0,employed,North Carolina,702
+848,Increased Enforcement,82,60,2,0,2,200,5,yes,2,79,daily,1,no,2,about same,6,1,female,35,1,employed,North Carolina,703
+685,Reduced Enforcement,82,0,2,90,2,150,3,yes,2,80,monthly,1,no,1,less aggressive,1,2.5,female,25,1,employed,FL,704
+217,Reduced Enforcement,82,20,4,65,2,150,1,yes,2,75,monthly,1,no,1,less aggressive,4,1.25,female,35,0,employed,Minnesota,705
+236,Increased Enforcement,82,10,2,75,2,300,3,yes,5,78,monthly,1,no,1,about same,1,1.25,male,30,1,employed,Iowa,706
+355,Reduced Enforcement,82,30,2,80,2,240,4,yes,4,80,weekly,1,no,1,about same,4,2.25,female,42,1,employed,KY,707
+367,Reduced Enforcement,82,20,3,0,3,150,1,yes,1,72,rarely,1,no,1,less aggressive,5,2,male,77,1,unemployed,New York,708
+711,Reduced Enforcement,82,0,3,70,2,100,3,yes,2,60,monthly,1,yes,2,about same,1,2.5,male,27,0,employed,California,709
+1173,Reduced Enforcement,82,0,1,78,2,200,5,yes,1,5,rarely,1,no,1,less aggressive,1,2.75,male,34,0,employed,IL,710
+571,Reduced Enforcement,82,65,2,60,2,10,3,yes,4,50,monthly,5,yes,1,less aggressive,4,3.75,male,26,0,employed,washington,711
+761,Increased Enforcement,82,50,5,25,2,150,4,yes,1, ,rarely,1,no,1,less aggressive,1,1.75,male,24,0,unemployed,Mississippi,712
+580,Reduced Enforcement,82,55,2,60,4,200,4,yes,2,72,rarely,2,no,2,about same,4,3.75,male,29,0,employed,VA,713
+579,Reduced Enforcement,82,1,1,40,2,120,1,yes,3,80,daily,1,no,2,less aggressive,4,1.75,male,31,1,employed,Maryland,714
+396,Increased Enforcement,82,80,2,80,2,100,4,yes,2,75,weekly,2,yes,2,more aggressive,4,2.5,male,25,0,employed,california,715
+794,Reduced Enforcement,82,40,4,0,4,150,4,yes,1,75,monthly,1,no,1,less aggressive,5,1.25,female,62,1,employed,Georgia,716
+1034,Reduced Enforcement,82,35,2,60,3,125,1,yes,2,76,monthly,1,yes,1,less aggressive,5,1.25,male,40,1,employed,Nebraska,717
+470,Increased Enforcement,82,70,4,90,1,15,2,yes,2,60,weekly,3,yes,1,about same,4,2,male,31,1,employed,Texas,718
+973,Increased Enforcement,82,5,2,50,2,300,1,yes,2,75,daily,1,no,2,less aggressive,5,2.5,male,42,0,employed,California,719
+757,Increased Enforcement,82,50,2,65,2,150,4,yes,2,82,daily,1,no,1,about same,4,2.5,male,46,0,employed,Arizona,720
+320,Increased Enforcement,82,,,,1,12,4,yes,5,12,daily,3,yes,5,more aggressive,4,1,male,36,0,employed,siva,721
+454,Reduced Enforcement,82,2,3,80,1,400,2,yes,3,75,monthly,2,no,1,less aggressive,5,1.5,female,33,1,unemployed,Texas,722
+72,Reduced Enforcement,82,5,2,75,2,200,1,yes,4,78,weekly,1,no,1,about same,4,2.75,female,59,1,unemployed,California,723
+218,Increased Enforcement,82,90,3,0,4,110,4,yes,1, ,rarely,1,no,1,about same,5,2,female,33,1,employed,IA,724
+198,Reduced Enforcement,82,40,4,40,3,250,4,yes,4,80,monthly,3,no,1,about same,4,2,female,20,0,employed,Texas,725
+1114,Increased Enforcement,82,40,4,0,4,50,2,yes,2,72,monthly,1,no,1,less aggressive,4,2,female,34,0,employed,New Hampshire,726
+429,Reduced Enforcement,82,6,2,80,2,165,3,yes,2,75,weekly,1,no,1,less aggressive,4,3.5,male,52,1,unemployed,Washington,727
+52,Reduced Enforcement,82,15,3,50,2,80,3,yes,2,75,weekly,2,no,1,less aggressive,1,1,female,45,0,unemployed,OR,728
+796,Increased Enforcement,82,60,3,40,2,500,3,yes,2,75,monthly,1,no,2,less aggressive,6,1.25,female,30,1,unemployed,Louisiana,729
+60,Increased Enforcement,82,65,3,15,4,120,1,yes,2,75,daily,1,no,1,about same,4,1,male,37,1,employed,Texas,730
+1021,Reduced Enforcement,82,78,1,80,1,50,3,yes,2,80,weekly,4,no,4,about same,5,4,male,30,0,employed,Alabama,731
+994,Increased Enforcement,82,50,3,10,5,250,2,yes,2,75,rarely,1,no,1,less aggressive,6,3.25,male,65,1,unemployed,FLORIDA,732
+290,Increased Enforcement,82,60,1,10,4,150,3,yes,2,80,weekly,1,no,1,less aggressive,4,2.25,male,39,1,employed,Florida,733
+375,Reduced Enforcement,82,82,2,90,2,1,3,yes,5,60,rarely,4,yes,2,more aggressive,5,4.5,male,30,0,employed,Michigan,734
+257,Reduced Enforcement,82,80,5,90,4,100,1,yes,5,80,weekly,3,no,2,more aggressive,6,2,male,30,0,employed,ohio,735
+855,Reduced Enforcement,82,4,6,85,2,200,2,yes,3,78,daily,1,no,2,less aggressive,4,3.25,male,39,1,employed,New Jersey,736
+388,Increased Enforcement,82,60,5,70,2,200,3,yes,4,80,weekly,1,no,1,about same,1,2.25,female,31,1,unemployed,north carolina,737
+496,Increased Enforcement,82,60,2,30,3,72,4,yes,1,72,rarely,1,no,2,about same,1,4,female,29,1,employed,Virginia,738
+238,Increased Enforcement,82,70,2,40,3,500,3,yes,3,70,monthly,4,no,2,about same,5,2,female,25,1,employed,Illinois,739
+364,Increased Enforcement,82,,,,,200,3,yes,2,78,rarely,1,no,2,about same,1,5,female,28,0,employed,New York,740
+574,Increased Enforcement,82,15,2,0,4,150,3,yes,1, ,daily,1,no,3,less aggressive,3,3.75,female,45,1,employed,Maryland,741
+294,Increased Enforcement,82,,3,85,2,100,3,yes,2,85,daily,3,yes,3,about same,4,4,male,32,0,employed,PA,742
+228,Increased Enforcement,82,5,3,60,2,50,2,yes,2,75,rarely,1,no,1,less aggressive,1,2,male,27,0,employed,Illinois,743
+349,Increased Enforcement,82,50,3,40,3,200,5,yes,2,70,monthly,1,no,1,about same,1,1.25,female,38,0,employed,NJ,744
+905,Reduced Enforcement,82,66,2,68,2,50,2,yes,2,300,monthly,3,no,4,about same,5,3.75,female,32,0,employed,Texas,745
+550,Reduced Enforcement,82,82,2,82,2,300,3,yes,2,YES,monthly,3,yes,3,about same,5,4.25,male,29,1,employed,NEWYORK,746
+63,Increased Enforcement,82,82,2,70,1,,3,yes,2,12,rarely,1,no,1,about same,1,3.25,female,62,1,employed,Illinois,747
+1158,Reduced Enforcement,82,50,3,42,3,350,4,yes,4,78,weekly,1,no,1,less aggressive,3,2.25,male,54,1,employed,Illinois,748
+1104,Reduced Enforcement,82,10,2,85,2,100,4,yes,3,80,monthly,1,no,1,about same,5,3.25,male,30,1,employed,Florida,749
+178,Increased Enforcement,82,12,5,12,2,25,2,no,2,85,weekly,3,no,4,about same,6,2,male,35,0,employed,Georgia,750
+472,Reduced Enforcement,82,80,4,50,2,10000,3,yes,2,50,weekly,3,yes,3,about same,5,3,male,,1,employed,usa,751
+526,Increased Enforcement,82,20,2,60,2,40,3,yes,2,80,rarely,2,no,1,less aggressive,1,1,female,35,0,employed,Texas,752
+1025,Reduced Enforcement,82,15,2,85,3,100,3,yes,2,79,weekly,2,no,1,about same,6,1.75,female,32,1,employed,Kentucky,753
+153,Reduced Enforcement,82,10,3,50,2,100,1,yes,3,78,weekly,1,no,3,about same,1,1.75,female,42,1,employed,Tennessee,754
+297,Increased Enforcement,82,98,2,95,1,100,3,yes,4,60,daily,5,yes,5,about same,4,4,female,28,1,employed,UNITED STATE,755
+522,Reduced Enforcement,82,5,2,20,4,250,4,yes,3,80,monthly,1,no,1,less aggressive,5,2,male,35,1,employed,New Jersey,756
+1213,Increased Enforcement,82,50,5,0,3,150,3,yes,2,75,monthly,1,yes,1,less aggressive,1,1,female,33,1,unemployed,Colorado,757
+1033,Increased Enforcement,82,5,1,85,1,250,1,yes,3,73,daily,1,no,2,about same,4,1.25,male,64,1,employed,California,758
+479,Reduced Enforcement,82,75,3,25,4,500,5,yes,3,75,monthly,1,no,2,less aggressive,5,1.25,male,35,1,employed,North Carolina,759
+717,Increased Enforcement,82,0,3,75,2,300,3,yes,2,75,rarely,1,no,1,about same,4,1,female,63,1,unemployed,California,760
+785,Increased Enforcement,82,5,2,50,3,100,2,yes,4,75,rarely,2,no,4,more aggressive,5,3,male,35,1,employed,Missouri,761
+1041,Reduced Enforcement,82,5,2,95,2,120,1,yes,3,80,monthly,1,no,2,about same,5,1.75,male,46,1,employed,Illinois,762
+1170,Reduced Enforcement,82,5,2,5,2,250,2,yes,4,85,rarely,2,no,1,less aggressive,5,2.5,male,44,1,employed,Florida,763
+393,Reduced Enforcement,82,30,4,20,3,175,3,yes,4,78,monthly,1,no,2,less aggressive,5,2,male,36,1,employed,Al,764
+585,Increased Enforcement,82,40,1,50,2,450,4,yes,4,70,weekly,1,no,1,about same,1,2,female,57,1,employed,LA,765
+1153,Reduced Enforcement,82,30,1,55,2,100,4,yes,2,80,monthly,3,yes,2,about same,4,2.25,male,31,0,employed,Louisiana,766
+1198,Reduced Enforcement,82,10,2,75,2,40,1,yes,2,75,daily,1,no,2,about same,5,1.25,male,25,1,employed,North Carolina,767
+362,Reduced Enforcement,82,5,2,95,1,50,3,yes,1,5,rarely,1,no,1,less aggressive,5,1,female,49,1,unemployed,Oklahoma,768
+798,Reduced Enforcement,82,50,3,10,4,120,2,yes,2,75,rarely,1,no,2,less aggressive,4,2,male,74,1,unemployed,Massachusetts,769
+912,Increased Enforcement,82,30,1,50,1,175,3,yes,4,74,weekly,1,no,2,less aggressive,4,1.25,female,44,1,unemployed,Idaho,770
+514,Increased Enforcement,82,85,1,85,1,35,4,yes,4,82,daily,3,yes,3,about same,5,4.5,female,30,1,employed,GA,771
+503,Increased Enforcement,82,75,3,36,3,100,3,yes,1,75,rarely,1,no,2,less aggressive,5,3.75,female,41,0,employed,Oregon,772
+986,Increased Enforcement,82,60,3,30,2,250,4,yes,2,75,rarely,1,no,1,less aggressive,4,2.25,male,33,0,unemployed,Ohio,773
+884,Increased Enforcement,82,20,3,85,2,250,4,no,2,80,weekly,1,yes,2,about same,5,4,male,40,1,unemployed,Maryland,774
+540,Reduced Enforcement,82,0,1,0,4,150,1,yes,4,80,weekly,1,no,1,about same,1,1.75,female,38,0,employed,California,775
+167,Increased Enforcement,82,50,3,0,3,120,1,yes,2,75,monthly,1,no,1,less aggressive,4,4,female,63,1,employed,New Mexixo,776
+966,Reduced Enforcement,82,50,1,95,2,170,3,yes,3,75,weekly,1,no,1,about same,1,1.75,male,25,1,employed,Massachusetts,777
+175,Reduced Enforcement,82,30,2,80,2,150,2,yes,1, ,weekly,1,no,1,less aggressive,1,1,male,41,1,employed,Nevada,778
+670,Reduced Enforcement,82,40,1,30,3,85,2,yes,2,75,daily,2,yes,1,more aggressive,4,1.25,male,36,0,employed,New Jersey,779
+225,Reduced Enforcement,82,20,4,20,2,100,2,yes,4,77,monthly,1,no,1,less aggressive,4,1.25,male,66,1,employed,North Dakota,780
+1109,Increased Enforcement,82,12,2,90,2,125,4,yes,4,80,daily,2,no,2,about same,5,2,male,19,1,employed,Illinois,781
+402,Reduced Enforcement,82,20,3,30,3,100,3,yes,2,80,monthly,3,no,1,about same,5,2.5,female,26,1,employed,new jersey,782
+505,Increased Enforcement,82,75,1,70,4,1500,5,yes,4,70,weekly,3,yes,4,about same,5,2.75,female,58,0,employed,PA,783
+835,Reduced Enforcement,82,30,3,10,4,300,3,yes,2,75,monthly,1,no,1,less aggressive,4,2,male,40,1,employed,Colorado,784
+261,Reduced Enforcement,82,10,3,70,2,250,4,yes,4,78,monthly,1,no,1,about same,5,2,female,21,1,unemployed,Florida,785
+208,Increased Enforcement,82,10,3,10,4,200,3,yes,2,75,weekly,1,no,1,about same,5,2,female,55,1,employed,Florida,786
+1166,Increased Enforcement,82,55,4,0,4,500,4,yes,1,70,monthly,1,no,1,less aggressive,4,3,female,69,1,employed,Rhode Island,787
+792,Increased Enforcement,82,82,1,82,2,82,2,yes,4,82,weekly,2,yes,4,about same,4,3.5,male,57,1,employed,PA,788
+114,Increased Enforcement,82,95,1,45,2,100,3,no,3,50,monthly,2,no,3,about same,5,3.5,female,27,1,employed,Nebraska,789
+701,Increased Enforcement,82,50,3,55,2,100,3,yes,3,5,weekly,1,no,3,about same,6,1.75,female,51,1,employed,illinois,790
+922,Increased Enforcement,82,85,4,84,3,41,3,yes,2,82,daily,4,yes,1,less aggressive,1,3.5,male,35,0,,us,791
+729,Increased Enforcement,82,20,1,100,1,100,3,yes,4,90,daily,5,yes,4,more aggressive,5,3.6666667,female,23,1,unemployed,Texas,792
+1106,Increased Enforcement,82,70,1,98,1,30,3,yes,2,40,weekly,2,yes,5,more aggressive,1,4.25,male,32,0,employed,sc,793
+593,Reduced Enforcement,82,,2,,1,100,3,yes,4,100,weekly,,yes,5,,4,1.5,male,34,0,, ,794
+1181,Reduced Enforcement,82,5,1,25,2,200,5,yes,2,75,monthly,1,no,1,less aggressive,4,2,female,69,1,unemployed,AZ,795
+66,Increased Enforcement,82,90,2,82,2,300,3,yes,3,70,weekly,3,yes,3,about same,5,3.25,male,40,1,employed,north carolina,796
+1040,Increased Enforcement,82,20,5,75,2,200,2,yes,4,75,weekly,2,no,1,less aggressive,5,1.25,male,55,0,unemployed,California,797
+1070,Reduced Enforcement,82,30,4,10,3,170,3,yes,2,65,rarely,1,no,1,less aggressive,4,2,female,44,1,unemployed,MN,798
+520,Reduced Enforcement,82,2,3,5,4,500,5,yes,1,65,weekly,1,yes,2,less aggressive,1,1,male,26,1,employed,utah,799
+933,Increased Enforcement,82,25,3,0,2,50,1,yes,3,75,daily,1,yes,1,less aggressive,4,1,male,31,0,employed,Co,800
+61,Reduced Enforcement,82,30,4,10,4,300,2,yes,1,65,rarely,1,no,1,less aggressive,4,1,female,55,1,unemployed,md,801
+384,Reduced Enforcement,82,20,3,65,4,200,3,yes,4,78,monthly,1,no,2,about same,5,1.75,female,20,1,unemployed,Pennsylvania,802
+1194,Increased Enforcement,82,30,3,70,1,170,3,yes,3,77,weekly,2,no,2,about same,5,1.75,male,29,1,employed,Florida,803
+903,Reduced Enforcement,82,0,1,100,1,300,3,yes,2,75,weekly,2,no,1,less aggressive,4,2,male,37,0,employed,California,804
+620,Increased Enforcement,82,60,4,70,4,50,5,yes,4,40,monthly,2,yes,2,more aggressive,3,4.25,male,30,0,employed,FL,805
+1152,Reduced Enforcement,82,10,2,3,2,250,4,yes,3,75,weekly,1,no,2,less aggressive,4,1.75,female,23,1,employed,WI,806
+1107,Increased Enforcement,82,20,5,0,4,250,2,yes,2,75,weekly,2,no,1,less aggressive,1,1.75,female,50,1,unemployed,North Carolina,807
+715,Reduced Enforcement,86,60,5,0,5,100,3,yes,1, ,weekly,1,no,1,less aggressive,1,1,female,28,1,unemployed,NY,808
+603,Reduced Enforcement,86,10,5,0,4,200,3,yes,2,72,monthly,1,no,1,about same,4,2.5,male,47,1,employed,Michigan,809
+982,Reduced Enforcement,86,4,2,40,2,150,1,yes,4,75,weekly,2,no,2,more aggressive,6,3,male,39,0,employed,New Jersey,810
+1197,Reduced Enforcement,86,10,2,0,4,100,3,yes,4,79,weekly,1,no,2,about same,5,1,female,60,1,unemployed,Nebraska,811
+681,Increased Enforcement,86,60,2,60,2,500,5,yes,4,80,daily,3,yes,2,about same,1,1.5,male,45,1,employed,texas,812
+1032,Reduced Enforcement,86,40,2,30,3,250,3,yes,4,78,weekly,1,no,2,about same,1,2,male,47,1,unemployed,Ohio,813
+969,Increased Enforcement,86,20,4,0,4,150,3,yes,2,75,monthly,1,no,1,less aggressive,4,1.25,female,59,1,employed,WISCONSIN,814
+241,Increased Enforcement,86,80,1,100,5,100,3,yes,2,50,monthly,3,no,2,about same,4,2.75,male,38,1,unemployed,California,815
+1083,Reduced Enforcement,86,90,2,80,2,50,3,yes,2,70,weekly,3,yes,4,more aggressive,5,4.5,male,30,0,employed,NewYork,816
+947,Reduced Enforcement,86,80,3,70,3,20,3,yes,2,37,weekly,3,yes,3,about same,5,2.5,male,48,0,employed,Florida,817
+1187,Increased Enforcement,86,30,4,30,4,150,2,yes,4,70,weekly,1,yes,2,about same,6,3,male,39,1,employed,Massachusetts,818
+1127,Increased Enforcement,86,75,3,40,4,80,3,yes,2,80,monthly,1,no,1,less aggressive,5,1.5,female,38,1,employed,PA,819
+967,Increased Enforcement,86,65,3,55,3,140,2,yes,2,74,weekly,1,yes,1,about same,5,3.5,male,53,1,unemployed,Pennsylvania,820
+190,Reduced Enforcement,86,50,3,75,2,250,4,yes,4,76,weekly,1,no,2,about same,1,3,male,44,1,employed,West Virginia,821
+1048,Increased Enforcement,86,80,2,30,4,1000,4,yes,3,75,daily,1,no,2,about same,4,1.75,male,20,0,employed,Texas,822
+321,Reduced Enforcement,86,75,3,45,2,35,4,yes,2,70,weekly,3,no,1,less aggressive,4,2.5,male,63,0,employed,MT,823
+94,Reduced Enforcement,86,30,1,5,4,400,3,yes,4,77,daily,1,yes,1,less aggressive,4,3.25,male,37,1,employed,California,824
+917,Reduced Enforcement,86,40,3,2,4,180,4,yes,2,75,weekly,1,no,1,less aggressive,6,4.25,male,44,1,employed,MISSOURI,825
+734,Reduced Enforcement,86,10,2,80,2,250,4,yes,2,75,rarely,1,no,1,less aggressive,4,1.5,female,35,1,employed,Illinois,826
+604,Increased Enforcement,86,5,2,90,1,280,2,yes,3,75,daily,1,no,1,about same,5,2,male,57,1,employed,Texas,827
+169,Reduced Enforcement,86,0,3,100,1,400,5,yes,4,66,monthly,4,no,2,about same,4,1.75,female,26,0,employed,fl,828
+775,Reduced Enforcement,86,40,2,0,4,150,2,yes,2,75,daily,1,no,1,less aggressive,4,1.5,female,37,1,employed,Connecticut,829
+341,Reduced Enforcement,86,20,1,80,2,96,3,yes,3,18,rarely,2,no,2,less aggressive,4,2,male,45,1,employed,Virginia,830
+348,Increased Enforcement,86,70,2,0,4,100,3,yes,3,80,monthly,1,no,2,about same,4,1.75,male,21,1,employed,Virginia,831
+628,Reduced Enforcement,86,10,5,0,4,250,3,yes,2,75,weekly,1,no,1,less aggressive,4,1.5,female,50,1,employed,New York,832
+259,Reduced Enforcement,86,60,3,0,4,100,4,yes,1, ,never,1,no,1,less aggressive,4,3.25,male,18,0,employed,Georgia,833
+531,Reduced Enforcement,86,25,3,50,2,150,3,yes,3,80,weekly,1,no,1,less aggressive,5,1,female,40,1,employed,Illinois,834
+501,Reduced Enforcement,86,80,2,50,3,16,3,yes,2,MPH,weekly,3,yes,2,about same,5,3,female,45,1,employed,1,835
+800,Reduced Enforcement,86,40,2,100,2,50,3,yes,1,50,daily,5,yes,5,more aggressive,5,4.5,male,42,0,employed,CA,836
+762,Reduced Enforcement,86,3,2,90,2,300,3,yes,4,80,weekly,1,no,1,less aggressive,5,3,male,24,0,employed,Louisiana,837
+661,Increased Enforcement,86,50,3,90,2,100,5,yes,5,80,daily,1,no,3,about same,4,4,female,22,1,employed,north carolina,838
+679,Reduced Enforcement,86,15,3,0,3,150,1,yes,1,75,monthly,1,no,2,less aggressive,4,1.75,male,37,1,employed,Arizona,839
+1078,Reduced Enforcement,86,50,5,0,5,100,2,yes,1, ,rarely,1,no,1,less aggressive,4,2.5,female,59,1,unemployed,NY,840
+627,Increased Enforcement,86,40,4,5,4,150,3,yes,2,75,monthly,1,no,1,about same,5,2.5,male,40,1,employed,North Carolina,841
+736,Increased Enforcement,86,70,4,45,1,50,5,yes,3,50,monthly,4,yes,1,about same,5,2.75,male,30,0,employed,NV,842
+284,Reduced Enforcement,86,30,4,25,4,125,3,yes,2,80,monthly,1,no,1,about same,6,2,female,40,0,employed,Illinois,843
+141,Increased Enforcement,86,86,1,86,1,1000,3,yes,2,50,daily,5,yes,3,about same,5,3,male,30,1,employed,PENNSYLVANIA,844
+955,Increased Enforcement,86,40,3,30,2,100,2,yes,2,75,weekly,1,no,2,more aggressive,1,2.5,female,28,0,employed,Tennessee,845
+946,Increased Enforcement,86,5,2,5,2,150,4,yes,2,80,weekly,1,no,2,about same,1,1.75,male,29,0,employed,Pennsylvania,846
+145,Increased Enforcement,86,70,2,30,4,150,4,yes,2,75,daily,1,no,2,more aggressive,4,3.25,male,28,1,employed,28,847
+692,Increased Enforcement,86,4,2,70,2,100,2,yes,3,80,rarely,1,no,1,less aggressive,1,2,male,31,1,unemployed,California,848
+474,Increased Enforcement,86,45,3,35,3,250,3,yes,3,77,monthly,1,no,1,about same,1,3.75,male,35,0,employed,illinois,849
+11,Reduced Enforcement,86,83,3,83,4,350,1,yes,1,35,daily,1,no,3,about same,5,1.75,male,25,1,employed,Florida,850
+1030,Increased Enforcement,86,20,4,50,2,300,4,yes,3,74,weekly,1,no,1,less aggressive,5,3.25,female,33,1,unemployed,North Carolina,851
+427,Reduced Enforcement,86,20,2,60,2,60,1,yes,4,85,weekly,1,yes,2,less aggressive,4,2.75,male,27,1,employed,Maryland,852
+829,Increased Enforcement,86,80,1,0,2,300,2,yes,3,76,weekly,1,no,2,less aggressive,5,5,male,27,0,employed,California,853
+825,Reduced Enforcement,86,75,1,0,5,400,5,yes,1,n/a,monthly,1,no,1,about same,1,1,male,23,0,employed,Louisiana,854
+273,Increased Enforcement,86,95,2,95,2,20,4,yes,3,90,rarely,2,yes,1,about same,1,3.75,female,50,0,employed,NEW JERSEY,855
+1035,Reduced Enforcement,86,50,1,0,5,200,3,yes,3,75,weekly,2,yes,2,less aggressive,1,1,female,30,1,employed,Texas,856
+1103,Increased Enforcement,86,10,2,70,2,110,2,yes,4,85,monthly,2,no,1,about same,4,2.25,male,50,0,employed,PA,857
+716,Reduced Enforcement,86,70,2,0,5,400,1,yes,4,79,monthly,1,no,2,less aggressive,5,1.25,female,57,0,unemployed,North Carolina,858
+1209,Increased Enforcement,86,0,2,100,2,200,5,yes,2,75,weekly,1,no,1,about same,5,3.75,male,19,0,unemployed,California,859
+444,Increased Enforcement,86,0,1,0,1,200,5,yes,2,70,weekly,1,no,2,about same,5,2,male,26,0,employed,Arkansas,860
+1184,Increased Enforcement,86,5,3,45,3,300,4,yes,1,65,monthly,1,no,1,less aggressive,6,2,male,65,1,employed,Florida,861
+450,Increased Enforcement,86,60,2,70,3,400,4,yes,3,14,monthly,4,no,3,more aggressive,4,2.75,female,28,1,employed,MI,862
+1060,Increased Enforcement,86,75,2,15,4,200,2,yes,3,78,daily,1,no,1,about same,5,2,male,34,1,employed,Ohio,863
+665,Reduced Enforcement,86,20,3,40,3,225,3,yes,3,80,rarely,1,no,2,about same,6,1.25,male,33,1,employed,Florida,864
+356,Increased Enforcement,86,86,2,80,1,100,3,yes,5,70,daily,5,yes,4,more aggressive,5,4.5,male,32,0,employed,Florida,865
+363,Reduced Enforcement,86,52,4,0,5,100,1,yes,1, ,weekly,1,yes,2,less aggressive,1,2,female,50,1,unemployed,New York,866
+602,Reduced Enforcement,86,25,3,35,2,120,1,yes,2,80,weekly,1,no,3,about same,5,1.25,female,47,1,employed,Pennsylvania,867
+644,Increased Enforcement,86,27,4,1,4,75,2,yes,1,75,rarely,1,no,1,less aggressive,4,2.75,female,53,1,employed,Kentucky,868
+50,Reduced Enforcement,86,30,3,0,4,100,3,yes,2,75,rarely,1,no,1,less aggressive,5,1.75,female,47,1,employed,Texas,869
+883,Reduced Enforcement,86,50,3,0,2,150,2,yes,1,70,monthly,1,no,1,less aggressive,1,1,female,37,1,employed,Nebraska,870
+49,Reduced Enforcement,86,25,3,1,5,124,5,yes,1,35,rarely,1,no,1,about same,1,3,male,26,0,employed,Virginia,871
+123,Increased Enforcement,86,20,4,0,4,350,3,yes,1,74,rarely,1,no,1,less aggressive,1,2.5,male,70,1,unemployed,Oregon,872
+1148,Reduced Enforcement,86,50,3,2,5,1000,3,yes,2,75,rarely,1,yes,1,less aggressive,5,1.75,female,58,1,unemployed,Indiana,873
+1176,Increased Enforcement,86,12,4,20,2,250,3,yes,3,80,monthly,2,no,1,less aggressive,5,1,male,25,1,employed,Texas,874
+587,Reduced Enforcement,86,5,2,50,2,150,1,yes,2,80,monthly,1,yes,1,about same,6,1,female,54,1,unemployed,Florida,875
+370,Increased Enforcement,86,38,3,55,4,200,3,yes,4,80,weekly,1,yes,1,about same,5,2.75,male,31,1,employed,NH,876
+211,Reduced Enforcement,86,70,3,75,3,200,3,yes,3,12,rarely,3,no,2,about same,5,3,male,28,0,employed,co,877
+220,Reduced Enforcement,86,20,3,5,4,120,4,yes,2,75,monthly,1,no,1,less aggressive,1,2,male,22,1,unemployed,Maryland,878
+641,Increased Enforcement,86,60,1,70,2,10,3,yes,2,60,weekly,2,yes,3,about same,5,3.75,male,29,1,employed,North Carolina,879
+433,Reduced Enforcement,86,70,1,40,2,800,4,yes,2,70,monthly,4,yes,1,about same,4,3.25,male,29,1,employed,Arizona,880
+447,Reduced Enforcement,86,15,3,10,4,170,2,yes,5,82,weekly,3,yes,2,more aggressive,1,2,male,47,1,employed,Pennsylvania,881
+985,Increased Enforcement,86,80,2,0,4,150,5,yes,1,55,monthly,1,no,1,less aggressive,4,1,female,48,1,employed,PA,882
+57,Increased Enforcement,86,3,5,10,3,150,2,yes,2,75,weekly,2,no,2,less aggressive,6,1,male,36,1,employed,Kentucky,883
+455,Reduced Enforcement,86,65,2,70,3,100,3,yes,3,60,monthly,2,yes,3,about same,4,3.25,female,29,1,employed,NY,884
+726,Increased Enforcement,86,100,3,100,2,85,3,yes,4,85,rarely,3,yes,4,about same,5,1.5,male,35,0,unemployed,Oklahoma,885
+1091,Reduced Enforcement,86,10,2,50,2,150,2,yes,3,75,rarely,2,no,1,about same,4,1.75,male,40,1,unemployed,wisconsin,886
+697,Increased Enforcement,86,5,2,90,2,200,4,yes,2,75,daily,1,no,1,less aggressive,5,1,female,49,1,employed,Texas,887
+328,Increased Enforcement,86,3,2,65,2,500,3,yes,2,70,weekly,1,no,2,about same,4,2,female,47,1,employed,Pennsylvania,888
+346,Increased Enforcement,86,60,2,65,2,500,4,yes,3,40,rarely,4,no,2,about same,5,3.75,male,49,0,employed,Arizona,889
+179,Reduced Enforcement,86,10,1,50,1,200,1,yes,3,50,daily,1,no,1,less aggressive,1,2.25,male,30,1,employed,OR,890
+250,Reduced Enforcement,86,50,3,90,5,300,4,yes,2,75,monthly,1,no,1,less aggressive,1,1,female,34,1,employed,MN,891
+1007,Reduced Enforcement,86,3,2,85,2,250,1,yes,5,82,weekly,2,yes,2,more aggressive,5,1.5,male,28,1,employed,Texas,892
+1165,Increased Enforcement,86,86,2,85,3,500,3,yes,2,80,weekly,2,yes,5,about same,5,3,female,45,1,employed,arizona,893
+68,Reduced Enforcement,86,10,5,0,4,75,3,yes,2,75,rarely,1,no,2,less aggressive,1,3,female,35,1,employed,Pennsylvania,894
+1157,Increased Enforcement,86,80,2,20,4,160,3,yes,2,75,weekly,1,no,2,about same,5,2.5,female,31,1,employed,Montana,895
+91,Reduced Enforcement,86,70,3,86,2,86,3,yes,3,86,weekly,2,yes,3,about same,5,3,male,25,0,employed,newyork,896
+767,Increased Enforcement,86,100,1,0,4,410,5,yes,1,55,weekly,1,no,1,less aggressive,5,1.5,female,65,1,unemployed,Alaska,897
+931,Reduced Enforcement,86,10,2,30,3,100,1,yes,1,75,monthly,1,no,1,about same,5,1,male,38,1,employed,Tennessee,898
+700,Reduced Enforcement,86,45,3,0,4,200,4,yes,1, ,rarely,1,no,1,about same,1,2.25,male,27,1,employed,florida,899
+1084,Increased Enforcement,86,45,4,5,4,85,3,yes,4,75,monthly,1,no,1,about same,5,2,male,38,1,employed,Michigan,900
+680,Reduced Enforcement,86,10,4,10,3,200,2,yes,2,75,monthly,1,no,1,less aggressive,5,2,female,40,1,employed,South Carolina,901
+791,Reduced Enforcement,86,50,3,40,2,150,3,yes,3,75,weekly,1,no,2,about same,5,2,male,35,1,employed,Maryland,902
+206,Increased Enforcement,86,78,2,88,4,45,4,yes,2,90,weekly,3,yes,4,about same,5,3,female,27,1,employed,VA,903
+719,Increased Enforcement,86,15,4,0,4,250,4,yes,2,75,daily,2,no,1,less aggressive,5,2.5,female,60,1,employed,Ohio,904
+738,Reduced Enforcement,86,3,3,35,3,75,2,yes,2,80,weekly,1,no,1,less aggressive,5,1.25,male,31,1,employed,Maryland,905
+523,Increased Enforcement,86,50,1,0,5,150,1,yes,2,75,daily,2,no,1,less aggressive,4,1.75,male,56,1,employed,Georgia,906
+51,Increased Enforcement,86,86,2,86,2,10,2,yes,4,86,weekly,3,yes,4,about same,5,3.75,male,30,1,employed,AZ,907
+611,Increased Enforcement,86,50,5,95,1,160,5,yes,5,87,weekly,1,yes,1,about same,1,2.25,female,20,0,unemployed,Florida,908
+893,Reduced Enforcement,86,15,2,100,1,275,4,yes,4,80,weekly,2,no,1,more aggressive,4,1.75,male,32,0,employed,Florida,909
+821,Increased Enforcement,86,10,5,5,4,500,2,yes,2,70,rarely,1,no,1,about same,4,1.25,female,67,0,employed,Nj,910
+1082,Reduced Enforcement,86,30,4,20,4,500,4,yes,2,70,rarely,1,no,1,less aggressive,1,1.75,male,31,0,unemployed,California,911
+892,Increased Enforcement,86,50,3,70,4,100,3,yes,1,0,weekly,1,no,1,less aggressive,4,1.75,female,36,0,employed,Ohio,912
+1055,Reduced Enforcement,86,60,2,40,1,120,2,yes,2,80,monthly,2,no,1,about same,1,1.25,male,47,1,employed,Montana,913
+866,Reduced Enforcement,86,30,2,80,2,100,5,yes,2,70,daily,1,no,1,about same,5,4,male,45,1,employed,MD,914
+945,Increased Enforcement,86,70,3,25,3,100,1,yes,2,75,monthly,1,no,2,about same,5,1.25,male,32,0,employed,Vermont,915
+1077,Reduced Enforcement,86,79,2,80,1,80,3,yes,2,86,weekly,4,yes,3,more aggressive,5,4.5,male,29,0,employed,idaho,916
+28,Reduced Enforcement,86,30,3,60,3,200,5,yes,2,73,rarely,1,no,1,less aggressive,4,1.25,male,24,1,unemployed,Virginia,917
+553,Increased Enforcement,86,25,3,70,2,1000,5,yes,2,70,daily,1,no,1,less aggressive,1,3.75,female,38,1,employed,Oregon,918
+1101,Reduced Enforcement,86,29,2,14,2,250,4,yes,2,75,weekly,1,no,2,about same,5,1.25,female,31,1,unemployed,Florida,919
+521,Reduced Enforcement,86,50,3,50,3,120,3,yes,2,75,daily,1,no,1,less aggressive,1,2,female,50,1,employed,il,920
+111,Increased Enforcement,86,86,2,67,2,124,4,yes,2,86,daily,2,yes,4,about same,4,4.25,female,29,0,employed,New york,921
+730,Increased Enforcement,86,90,2,0,5,150,1,yes,2,75,weekly,1,no,2,less aggressive,4,2,male,38,1,unemployed,Michigan,922
+1139,Reduced Enforcement,86,50,3,10,4,250,4,yes,2,77,monthly,1,no,1,less aggressive,1,2.25,male,44,0,employed,Texas,923
+1018,Reduced Enforcement,86,100,2,0,2,10,4,yes,1,m s,weekly,4,yes,5,more aggressive,4,1.5,male,50,0,employed,Maine,924
+773,Increased Enforcement,86,30,1,0,2,300,5,yes,5,76,rarely,1,no,2,about same,1,2.5,male,43,1,unemployed,Maryland,925
+465,Increased Enforcement,86,25,3,45,3,150,4,yes,2,80,rarely,1,no,1,about same,5,2,female,61,1,employed,Georgia,926
+735,Increased Enforcement,86,55,2,80,4,225,2,yes,4,8,weekly,2,no,1,about same,1,3.25,male,41,1,employed,Louisiana,927
+839,Reduced Enforcement,86,20,3,0,4,150,2,yes,4,76,daily,2,no,4,about same,4,2,male,35,1,employed,PA,928
+377,Increased Enforcement,86,8,3,65,2,130,3,yes,4,80,weekly,2,no,2,more aggressive,5,3,male,28,1,employed,New Jersey,929
+456,Reduced Enforcement,86,5,4,35,1,500,2,yes,4,75,daily,1,no,2,about same,1,1.25,male,25,1,employed,South Carolina,930
+125,Reduced Enforcement,86,30,2,0,4,120,3,yes,1,0,rarely,1,no,1,less aggressive,6,1.25,male,54,1,unemployed,New Jersey,931
+808,Reduced Enforcement,86,20,2,100,4,300,4,yes,2,65,weekly,2,yes,2,less aggressive,4,2.75,female,20,1,unemployed,Connecticut,932
+361,Increased Enforcement,86,50,4,30,2,300,3,yes,4,79,weekly,2,no,1,less aggressive,6,2.5,female,44,1,employed,AZ,933
+92,Reduced Enforcement,86,5,2,80,2,1000,4,yes,4,85,weekly,1,no,1,less aggressive,5,2,female,39,0,employed,California,934
+527,Increased Enforcement,86,40,4,10,4,200,3,no,1, ,never,1,no,1,about same,4,2,male,32,1,unemployed,Ohio,935
+452,Reduced Enforcement,86,100,1,100,1,80,1,yes,5,100,weekly,4,yes,5,more aggressive,5,4,male,27,0,employed,georgia,936
+442,Increased Enforcement,86,75,3,3,4,350,4,yes,2,72,weekly,1,no,1,less aggressive,6,2,female,55,1,employed,Massachusetts,937
+289,Increased Enforcement,86,0,3,80,3,100,5,yes,2,80,monthly,1,no,1,less aggressive,1,4,female,38,1,unemployed,NC,938
+1059,Increased Enforcement,86,50,3,0,4,200,5,yes,2,80,weekly,1,no,1,less aggressive,4,1,female,28,1,unemployed,North Carolina,939
+793,Reduced Enforcement,86,50,2,70,2,50,3,yes,2,80,monthly,5,no,2,about same,1,3.75,male,28,0,employed,MD,940
+841,Increased Enforcement,86,30,4,35,4,300,3,yes,2,72,weekly,1,no,1,about same,4,3.75,male,66,1,employed,Ohio,941
+789,Increased Enforcement,86,60,3,50,3,250,3,yes,4,75,daily,1,no,2,about same,5,2.25,male,34,1,employed,Wisconsin,942
+484,Reduced Enforcement,86,30,3,0,4,160,2,yes,1,0,weekly,2,no,1,less aggressive,5,3.5,female,64,1,employed,Florida,943
+209,Increased Enforcement,86,5,2,90,2,100,3,yes,5,75,weekly,1,no,2,more aggressive,5,2.25,female,40,1,employed,Massachusetts,944
+950,Increased Enforcement,86,3,1,100,1,200,1,yes,2,75,weekly,1,no,4,about same,4,3,male,29,1,employed,Ohio,945
+443,Reduced Enforcement,86,40,6,10,3,200,3,yes,3,80,monthly,1,no,1,less aggressive,5,3.25,female,28,1,employed,North Carolina,946
+378,Reduced Enforcement,86,20,2,30,2,100,2,yes,3,80,daily,2,yes,4,about same,1,2.75,male,28,1,employed,Illinois,947
+354,Increased Enforcement,86,25,3,0,4,80,3,no,1,0,never,1,no,1,less aggressive,4,1.75,male,37,1,unemployed,West Virginia,948
+240,Reduced Enforcement,86,95,2,90,5,10,4,yes,2,60,monthly,1,no,2,more aggressive,1,3.5,male,36,0,employed,illinois,949
+801,Increased Enforcement,86,20,5,10,2,150,1,yes,4,78,monthly,1,no,1,about same,5,3.75,male,37,1,employed,Oklahoma,950
+891,Reduced Enforcement,86,25,3,0,5,2000,5,yes,3,75,monthly,1,no,1,less aggressive,1,1.5,male,33,1,employed,PA,951
+458,Increased Enforcement,86,100,2,0,4,200,4,yes,1,65,rarely,1,no,1,about same,1,1.75,female,40,1,employed,New York,952
+1159,Reduced Enforcement,86,50,1,0,5,300,5,yes,1, ,rarely,1,no,1,less aggressive,4,2,male,49,1,unemployed,Pennsylvania,953
+437,Reduced Enforcement,86,50,1,0,5,300,1,yes,1,70,daily,1,no,1,less aggressive,1,1,male,25,0,employed,Missouri,954
+672,Increased Enforcement,86,69,4,69,2,600,3,yes,2,50,monthly,3,yes,3,about same,4,2.5,male,30,1,employed,Colorado,955
+752,Increased Enforcement,86,75,3,0,5,500,5,yes,1, ,rarely,1,no,1,less aggressive,5,1,female,52,1,employed,Montana,956
+573,Increased Enforcement,86,80,2,30,4,150,4,yes,1, ,weekly,1,no,1,less aggressive,1,3.75,female,38,0,employed,MI,957
+334,Reduced Enforcement,86,90,1,50,4,70,3,yes,2,80,monthly,3,yes,4,about same,4,3.5,female,51,1,employed,Arkansas,958
+749,Reduced Enforcement,86,25,3,35,2,125,4,yes,2,75,daily,2,no,1,less aggressive,4,2.75,male,30,1,employed,South Carolina,959
+747,Increased Enforcement,86,40,6,30,4,250,2,yes,2,75,rarely,1,no,1,about same,5,2.75,female,41,1,employed,Arizona,960
+476,Increased Enforcement,86,30,2,10,4,200,4,yes,2,75,rarely,1,yes,2,less aggressive,5,2.5,male,28,1,unemployed,California,961
+740,Increased Enforcement,86,50,3,50,2,500,5,yes,2,80,daily,1,no,1,less aggressive,5,4,male,37,0,employed,California,962
+921,Increased Enforcement,86,56,3,30,2,100,2,yes,4,77,weekly,1,no,2,about same,4,1.5,female,29,1,employed,Iowa,963
+648,Increased Enforcement,86,80,1,90,4,70,3,yes,4,25,rarely,3,no,1,about same,4,3.25,male,27,1,employed,NY,964
+441,Increased Enforcement,86,80,1,90,2,35,4,yes,3,60,weekly,3,yes,3,about same,5,4.5,male,30,0,employed,KY,965
+1105,Reduced Enforcement,86,40,3,5,4,100,2,yes,2,65,weekly,1,no,1,about same,4,1.75,male,28,1,employed,Virginia,966
+992,Increased Enforcement,86,60,3,0,3,200,3,yes,2,80,rarely,1,no,1,less aggressive,1,1.25,male,33,0,employed,Texas,967
+483,Increased Enforcement,86,90,2,90,2,10,4,yes,3,80,weekly,3,yes,4,more aggressive,4,4,male,7,0,employed,IL,968
+645,Increased Enforcement,86,80,2,80,2,100,3,yes,2,80,daily,2,yes,3,about same,5,4.5,male,30,0,employed,MN,969
+84,Reduced Enforcement,86,5,4,60,4,300,3,yes,2,80,rarely,1,no,1,less aggressive,4,1,male,23,0,unemployed,California,970
+707,Reduced Enforcement,86,3,5,10,4,275,1,yes,2,75,weekly,1,no,2,less aggressive,4,1,female,34,0,employed,California,971
+59,Reduced Enforcement,86,3,1,100,2,200,1,yes,5,90,monthly,1,no,2,more aggressive,1,1.25,male,39,1,employed,New York,972
+989,Reduced Enforcement,86,80,2,25,3,1500,2,yes,3,150,weekly,3,yes,3,more aggressive,6,4,male,25,0,employed,WA,973
+572,Increased Enforcement,86,75,3,80,2,350,3,yes,4,85,weekly,3,no,2,more aggressive,1,3.75,female,25,0,employed,California,974
+1062,Reduced Enforcement,86,50,4,60,2,200,5,yes,2,75,rarely,1,no,1,less aggressive,1,2.25,female,58,1,employed,New Hampshire,975
+926,Increased Enforcement,86,70,5,70,4,250,4,yes,3,70 80,weekly,1,yes,1,,4,3.75,male,28,0,employed,North Carolina,976
+958,Increased Enforcement,86,40,3,45,3,50,2,yes,2,75,weekly,1,yes,1,less aggressive,4,3.5,female,26,0,employed,texas,977
+1208,Increased Enforcement,86,80,1,80,2,60,4,yes,2,80,daily,2,yes,2,more aggressive,1,2.25,female,28,1,employed,texas,978
+1052,Reduced Enforcement,86,15,4,65,2,400,2,yes,2,75,daily,1,no,1,about same,5,2.5,male,30,0,employed,New Jersey,979
+899,Reduced Enforcement,86,5,1,100,2,675,3,yes,4,75,rarely,1,no,1,less aggressive,5,2.25,female,33,0,employed,nj,980
+1001,Increased Enforcement,86,80,2,10,3,100,3,yes,2,70,monthly,2,no,2,about same,5,3,male,35,0,employed,Texas,981
+684,Increased Enforcement,86,50,3,30,4,50,2,no,1,75,never,1,no,1,less aggressive,6,2.5,female,36,1,employed,ILLINOIS,982
+82,Increased Enforcement,86,50,2,100,2,150,2,yes,4,85,weekly,1,no,1,about same,4,3.5,female,56,1,unemployed,Ohio,983
+314,Increased Enforcement,86,5,2,85,1,100,2,yes,4,80,weekly,1,no,1,about same,4,1.25,male,35,1,employed,Texas,984
+1064,Increased Enforcement,86,20,3,20,2,120,1,yes,5,75,weekly,1,no,2,about same,5,2.5,male,35,1,employed,Ohio,985
+555,Reduced Enforcement,86,50,3,45,3,100,2,yes,4,75,monthly,1,no,2,less aggressive,5,1.5,female,34,1,unemployed,Montana,986
+342,Increased Enforcement,86,68,1,70,2,30,2,yes,3,110,weekly,3,yes,5,about same,3,4.5,male,43,1,employed,CA,987
+1086,Reduced Enforcement,86,20,3,0,3,150,5,no,2,75,rarely,1,no,1,less aggressive,5,3.25,female,67,1,unemployed,Kentucky,988
+285,Increased Enforcement,86,40,3,30,3,60,2,yes,2,60,monthly,2,no,1,less aggressive,1,1,female,23,0,employed,NY,989
+660,Increased Enforcement,86,50,2,20,3,200,4,yes,1,72,rarely,1,no,1,less aggressive,1,1.5,female,29,1,employed,Washington,990
+533,Reduced Enforcement,86,50,2,0,5,500,2,yes,1, ,monthly,1,no,1,less aggressive,5,1,female,52,1,unemployed,New Jersey,991
+632,Reduced Enforcement,86,40,4,2,4,800,3,yes,4,78,rarely,1,no,1,less aggressive,1,1.5,female,32,1,employed,Illinois,992
+842,Increased Enforcement,86,80,2,0,4,125,4,yes,2,70,monthly,1,yes,1,about same,4,1,female,61,0,employed,Missouri,993
+1142,Increased Enforcement,86,65,3,0,4,300,1,yes,1,5,rarely,1,no,1,less aggressive,5,2.25,female,68,1,unemployed,Florida,994
+104,Increased Enforcement,86,30,2,75,2,160,3,yes,2,80,weekly,1,no,2,about same,1,2,male,22,0,unemployed,Georgia,995
+459,Reduced Enforcement,86,80,2,86,2,3,3,yes,5,65,monthly,2,yes,4,more aggressive,5,4,male,30,0,employed,30,996
+193,Reduced Enforcement,86,50,2,0,4,250,3,yes,3,75,weekly,1,no,2,less aggressive,6,2,male,51,1,unemployed,Florida,997
+629,Reduced Enforcement,86,45,2,45,2,500,4,yes,2,86,weekly,3,yes,4,more aggressive,1,4,male,37,0,employed,OH,998
+103,Increased Enforcement,86,25,3,0,4,80,3,yes,2,74,monthly,1,no,1,less aggressive,4,1.25,female,53,1,unemployed,West Virginia,999
+728,Reduced Enforcement,86,1,2,90,2,100,3,yes,3,75,rarely,1,no,2,less aggressive,4,2.25,male,29,0,,California,1000
+618,Reduced Enforcement,86,20,3,20,3,200,3,yes,2,76,weekly,1,no,1,less aggressive,4,1,male,49,0,employed,GEORGIA,1001
+617,Increased Enforcement,86,50,3,40,3,500,5,yes,2,75,daily,1,no,1,less aggressive,5,2.75,female,31,1,employed,Washington,1002
+853,Reduced Enforcement,86,20,3,0,4,200,3,yes,4,75,daily,1,no,1,less aggressive,5,1.25,female,32,0,employed,MO,1003
+613,Increased Enforcement,86,40,3,60,2,180,4,yes,5,82,monthly,1,no,2,more aggressive,1,2.75,male,21,0,employed,alabama,1004
+818,Increased Enforcement,86,50,6,100,3,125,1,yes,3,79,weekly,1,no,1,about same,5,2,male,51,0,unemployed,Nevada,1005
+397,Reduced Enforcement,86,30,5,15,4,250,1,yes,3,80,weekly,1,yes,2,less aggressive,4,3,female,43,1,employed,LA,1006
+606,Reduced Enforcement,86,0,2,50,2,500,4,yes,2,75,monthly,1,yes,3,less aggressive,4,3.5,female,19,0,unemployed,Kentucky,1007
+868,Increased Enforcement,86,10,2,100,5,100,2,yes,4,75,monthly,1,yes,2,about same,5,1.75,male,49,1,employed,Missouri,1008
+224,Reduced Enforcement,86,100,2,90,1,15,3,yes,2,80,daily,3,yes,2,less aggressive,4,3.5,,25,0,employed,michigan,1009
+62,Increased Enforcement,86,20,2,100,2,200,4,yes,5,80,rarely,2,no,1,less aggressive,1,1,female,55,1,employed,Az,1010
+1185,Reduced Enforcement,86,20,1,0,5,120,1,yes,2,71,weekly,1,no,1,less aggressive,4,1.5,male,69,1,employed,maryland,1011
+172,Reduced Enforcement,86,50,3,25,2,250,3,yes,2,75,weekly,1,yes,1,about same,5,3,female,49,1,employed,Texas,1012
+594,Reduced Enforcement,86,0,2,0,4,100,4,yes,1,70,rarely,1,no,1,less aggressive,6,3.25,female,47,0,employed,SC,1013
+278,Increased Enforcement,86,80,4,40,2,40,2,yes,3,40,rarely,3,no,3,about same,4,3.75,female,37,1,employed,IN,1014
+263,Reduced Enforcement,86,20,2,30,4,200,3,yes,2,75,daily,2,no,1,about same,6,2.75,male,49,1,employed,Minnesota,1015
+582,Reduced Enforcement,86,40,2,60,3,280,3,yes,2,80,weekly,2,no,2,less aggressive,1,3,male,31,1,employed,Arizona,1016
+19,Reduced Enforcement,86,1,2,100,2,150,1,yes,5,85,weekly,1,no,1,about same,1,2,male,34,1,employed,Tennessee,1017
+333,Increased Enforcement,86,45,3,58,3,511,4,yes,3,50,monthly,1,yes,3,about same,5,2.5,male,28,0,employed,washington,1018
+1169,Increased Enforcement,86,40,2,10,4,500,4,yes,2,75,weekly,1,no,1,less aggressive,5,1,female,60,0,employed,Georgia,1019
+894,Increased Enforcement,86,,3,70,4,120,4,yes,2,80,monthly,3,no,1,about same,1,3.25,male,29,1,employed,New York,1020
+862,Reduced Enforcement,86,10,3,0,4,100,1,yes,1,50,never,1,no,1,less aggressive,1,1.5,male,39,0,unemployed,ny,1021
+560,Reduced Enforcement,86,2,3,15,4,150,3,yes,2,75,weekly,1,yes,1,about same,5,1.5,male,47,1,employed,Florida,1022
+325,Increased Enforcement,86,0,1,10,1,150,3,yes,2,75,daily,2,no,2,less aggressive,4,1.25,male,23,1,employed,Virginia,1023
+530,Reduced Enforcement,86,60,3,70,3,100,4,yes,2,50,weekly,3,no,1,about same,5,3.5,female,30,0,unemployed,MS,1024
+723,Reduced Enforcement,86,5,3,0,4,250,3,yes,2,75,rarely,1,no,1,about same,4,1.5,male,58,1,employed,Oklahoma,1025
+1212,Reduced Enforcement,86,100,1,100,1,299,2,yes,2,200,weekly,2,yes,3,more aggressive,4,1.5,male,30,0,employed,john,1026
+315,Reduced Enforcement,86,70,3,84,4,70,3,yes,2,75,monthly,4,yes,4,more aggressive,5,3.5,male,31,1,employed,UTAH,1027
+439,Increased Enforcement,86,40,3,20,4,150,2,yes,2,80,weekly,1,no,1,less aggressive,1,1,female,22,0,employed,California,1028
+298,Increased Enforcement,86,70,1,30,4,100,5,yes,4,70,weekly,5,yes,3,about same,4,2.75,male,28,1,employed,sc,1029
+310,Reduced Enforcement,86,10,5,15,3,200,4,yes,2,75,daily,1,no,2,less aggressive,5,3,female,34,1,employed,Florida,1030
+75,Increased Enforcement,86,0,1,100,2,300,5,yes,2,80,monthly,1,no,1,about same,5,2.25,female,34,1,unemployed,South Carolina,1031
+542,Reduced Enforcement,86,50,3,80,2,250,3,yes,3,80,weekly,1,yes,1,about same,5,2.25,female,41,1,employed,Georgia,1032
+760,Increased Enforcement,86,20,3,20,2,75,1,yes,2,75,weekly,1,no,1,less aggressive,5,4.25,male,64,1,unemployed,Massachusetts,1033
+997,Reduced Enforcement,86,95,3,80,2,50,3,yes,2,65,weekly,4,yes,3,about same,5,3.75,female,25,1,employed,connecticut,1034
+515,Increased Enforcement,86,86,1,60,2,45,2,yes,4,50,weekly,3,yes,4,about same,6,4.5,male,30,0,employed,LA,1035
+1150,Increased Enforcement,86,67,2,0,5,350,5,yes,2,75,monthly,1,no,1,less aggressive,5,1.5,male,62,1,employed,Ohio,1036
+1180,Increased Enforcement,86,70,3,25,4,250,3,yes,1,65,weekly,1,no,1,less aggressive,4,1,male,33,0,employed,tx,1037
+9,Increased Enforcement,86,76,3,69,2,60,4,yes,2,48,monthly,4,yes,3,about same,5,2.75,female,30,0,employed,Texas,1038
+268,Increased Enforcement,86,80,3,0,3,150,3,yes,1,10,rarely,1,no,1,less aggressive,6,1.5,male,63,1,employed,Florida,1039
+497,Increased Enforcement,86,80,1,75,3,85,4,yes,2,80,daily,2,yes,4,more aggressive,5,4.5,male,35,0,employed,Florida,1040
+1110,Increased Enforcement,86,35,3,20,2,250,5,no,2,67,never,1,no,1,less aggressive,1,2.5,female,26,1,unemployed,OH,1041
+237,Increased Enforcement,86,45,4,5,4,400,5,yes,2,80,monthly,1,no,1,less aggressive,4,1.25,female,28,1,unemployed,Kentucky,1042
+549,Increased Enforcement,86,50,4,0,5,800,5,no,1, ,never,1,no,1,less aggressive,5,3,male,59,1,employed,Pennsylvania,1043
+304,Increased Enforcement,86,70,1,70,2,250,5,yes,3,80,daily,3,no,2,more aggressive,5,1,male,34,1,unemployed,MA,1044
+202,Increased Enforcement,86,60,3,10,3,200,5,yes,1,70,rarely,1,no,1,about same,4,2.25,male,30,1,employed,Tennessee,1045
+330,Increased Enforcement,86,60,3,15,2,160,3,yes,3,75,daily,1,no,1,about same,5,2.25,male,39,1,employed,Texas,1046
+1151,Increased Enforcement,86,25,3,10,4,110,4,yes,4,75,daily,1,no,1,more aggressive,5,3.5,male,49,1,employed,Florida,1047
+235,Reduced Enforcement,86,40,4,20,3,50,2,yes,1,0,weekly,1,no,1,about same,1,1,male,32,0,employed,CA,1048
+488,Reduced Enforcement,86,30,3,60,3,100,3,yes,2,80,monthly,1,no,1,less aggressive,5,1.5,male,23,1,unemployed,Tennessee,1049
+864,Increased Enforcement,86,70,4,10,5,200,3,yes,4,75,daily,1,no,1,about same,5,3.75,male,40,1,employed,Minnesota,1050
+696,Increased Enforcement,86,100,1,0,5,90,5,yes,1,30 to 70 depending on the speed limit,monthly,1,no,1,less aggressive,5,3,female,43,0,employed,Arkansas,1051
+453,Reduced Enforcement,86,86,2,50,2,500,2,yes,3,MPH,monthly,5,yes,3,about same,5,4.5,male,35,0,employed,NY,1052
+102,Reduced Enforcement,86,10,3,2,4,175,3,yes,4,80,daily,1,no,1,about same,5,1.25,male,45,1,employed,Indiana,1053
+598,Reduced Enforcement,86,30,3,5,4,100,2,yes,2,75,rarely,1,no,1,about same,4,2.25,female,44,1,employed,Ohio,1054
+782,Reduced Enforcement,86,85,1,0,5,350,5,yes,1,never,rarely,1,no,1,less aggressive,1,1,male,23,0,employed,Louisiana,1055
+478,Increased Enforcement,86,65,4,15,5,250,3,yes,5,78,weekly,1,no,2,about same,5,2.25,female,28,0,unemployed,Oklahoma,1056
+30,Reduced Enforcement,86,86,1,86,2,15,3,yes,4,86,weekly,3,yes,4,about same,5,4.5,male,56,0,employed,California,1057
+80,Reduced Enforcement,86,30,4,75,3,150,4,yes,4,80,monthly,1,no,2,more aggressive,5,2.75,female,47,1,employed,north carolina,1058
+352,Increased Enforcement,86,100,2,100,2,100,4,yes,1,40,rarely,3,no,5,more aggressive,5,1.25,female,27,1,employed,ILLINOIS,1059
+335,Increased Enforcement,86,86,1,60,3,1000,3,yes,2,60,daily,2,yes,2,about same,6,2.5,female,52,0,employed,Georgia,1060
+882,Increased Enforcement,86,0,2,75,1,150,3,yes,4,5-10 over,daily,3,,,,4,2.5,male,27,1,employed,Washington,1061
+690,Reduced Enforcement,86,1,5,0,3,500,4,yes,2,5,never,1,no,2,about same,3,3,male,52,0,unemployed,Colorado,1062
+552,Increased Enforcement,86,56,2,25,4,300,3,yes,2,75,monthly,1,no,1,about same,1,1.75,male,20,1,employed,Connecticut,1063
+984,Increased Enforcement,86,50,4,30,3,200,3,yes,2,75,monthly,1,no,1,about same,4,2.25,male,32,1,employed,Missouri,1064
+575,Increased Enforcement,86,20,2,80,2,250,3,yes,2,80,weekly,1,yes,2,more aggressive,4,4,female,25,1,employed,NJ,1065
+1189,Reduced Enforcement,86,10,2,0,4,160,3,yes,4,13,monthly,1,no,1,about same,5,3.75,male,50,1,employed,Illinois,1066
+763,Increased Enforcement,86,30,3,30,4,250,3,yes,3,80,weekly,1,no,2,about same,5,4,female,39,1,employed,Michigan,1067
+155,Increased Enforcement,86,40,3,70,3,400,3,yes,2,76,monthly,1,no,2,about same,5,1.5,female,33,1,employed,Pennsylvania,1068
+1149,Increased Enforcement,86,75,3,5,2,120,2,yes,4,79,weekly,2,no,2,more aggressive,5,3,male,26,0,unemployed,Florida,1069
+595,Reduced Enforcement,86,10,3,85,2,250,3,yes,4,80,weekly,1,no,1,more aggressive,6,2.75,female,67,1,unemployed,Rhode Island,1070
+703,Reduced Enforcement,86,30,3,25,4,150,3,yes,3,74,monthly,1,no,1,about same,5,1.75,female,51,1,employed,Illinois,1071
+410,Increased Enforcement,86,10,1,5,1,150,2,yes,3,75,weekly,1,no,1,about same,5,3.5,male,38,1,employed,NJ,1072
+756,Increased Enforcement,86,10,3,70,2,200,5,yes,1, ,weekly,1,no,1,less aggressive,4,3,male,24,0,employed,California,1073
+98,Increased Enforcement,86,20,3,90,1,200,5,yes,2,75,rarely,2,no,2,less aggressive,1,2,male,29,0,unemployed,New York,1074
+434,Increased Enforcement,86,35,2,80,3,150,4,yes,2,70,weekly,1,no,1,less aggressive,4,4.25,male,21,0,employed,Georgia,1075
+419,Reduced Enforcement,86,30,3,40,3,25,3,yes,1,50,monthly,1,yes,1,about same,5,3.25,male,30,1,employed,Texas,1076
+247,Reduced Enforcement,86,80,1,80,2,100,3,no,2,95,rarely,1,no,4,more aggressive,5,2.5,female,46,1,unemployed,Carlifornia,1077
+890,Increased Enforcement,86,40,4,20,3,140,5,yes,1,87,rarely,1,no,1,about same,6,2,female,29,1,employed,CA,1078
+538,Reduced Enforcement,86,0,1,0,3,90,1,yes,1,N/A,daily,1,no,1,less aggressive,1,1.75,male,41,1,employed,Minnesota,1079
+166,Increased Enforcement,86,70,3,50,3,100,4,yes,5,80,monthly,2,yes,1,about same,4,3.5,male,26,0,employed,PA,1080
+487,Reduced Enforcement,86,86,2,86,2,50,2,yes,2,86,daily,2,yes,5,about same,5,4,male,18,0,employed,CA,1081
+135,Reduced Enforcement,86,30,2,0,3,150,2,yes,2,75,weekly,1,no,1,about same,1,2,male,33,1,employed,Nebraska,1082
+639,Reduced Enforcement,86,12,5,10,3,100,2,yes,2,75,rarely,1,no,1,less aggressive,5,1.25,male,42,1,employed,MISSOURI,1083
+399,Increased Enforcement,86,20,2,80,2,75,4,yes,4,80,monthly,1,no,2,about same,6,2.25,female,25,1,employed,Georgia,1084
+1188,Reduced Enforcement,86,10,2,90,1,500,4,yes,4,80,weekly,1,yes,2,more aggressive,1,1,female,22,1,employed,Oregon,1085
+914,Reduced Enforcement,86,5,2,90,2,50,2,yes,3,80,daily,1,no,1,less aggressive,3,2,male,22,1,unemployed,Mississippi,1086
+852,Reduced Enforcement,86,34,3,0,5,45,3,no,1,60,never,1,no,1,less aggressive,1,4.5,female,36,1,employed,Kentucky,1087
+1061,Increased Enforcement,86,75,3,10,4,300,3,yes,2,75,weekly,1,no,1,about same,4,2.75,male,47,1,employed,Oklahoma,1088
+583,Increased Enforcement,86,90,2,0,5,75,3,yes,2,70,daily,2,no,1,less aggressive,5,1,female,49,1,employed,Maryland,1089
+1140,Reduced Enforcement,86,20,2,60,2,120,3,yes,3,75,daily,3,no,2,about same,5,1.25,male,33,0,employed,Iowa,1090
+365,Reduced Enforcement,86,25,1,100,2,800,5,yes,1,60mph,rarely,1,no,1,less aggressive,1,2.75,female,28,1,,Oregon,1091
+1192,Reduced Enforcement,86,50,3,0,5,125,2,yes,2,75,rarely,1,no,1,less aggressive,5,1.25,female,69,1,unemployed,Tennessee,1092
+1056,Increased Enforcement,86,10,2,50,2,500,1,yes,4,80,monthly,1,no,2,more aggressive,5,1.5,male,33,0,employed,New York,1093
+706,Reduced Enforcement,86,70,3,0,5,50,3,yes,1,70,weekly,2,no,1,about same,4,3,male,27,0,employed,Florida,1094
+464,Increased Enforcement,86,50,3,75,2,150,3,yes,2,75,rarely,1,no,1,less aggressive,5,3,female,32,1,unemployed,Michigan,1095
+1081,Reduced Enforcement,86,2,1,75,1,250,4,yes,2,45,daily,2,yes,4,more aggressive,5,4,female,38,1,employed,California,1096
+115,Reduced Enforcement,86,10,3,86,2,300,3,yes,2,76,monthly,1,no,1,about same,5,1.5,female,35,1,employed,Tennessee,1097
+923,Increased Enforcement,86,65,2,0,5,80,3,yes,1, ,rarely,1,no,1,less aggressive,5,1.25,female,36,1,employed,Oregon,1098
+326,Reduced Enforcement,86,80,1,90,1,100,4,yes,3,40,weekly,4,yes,2,about same,4,2.25,male,40,1,employed,California,1099
+1147,Reduced Enforcement,86,70,2,60,2,100,4,yes,2,68,weekly,2,no,2,less aggressive,5,3.5,male,30,0,employed,Wisconsin,1100
+329,Increased Enforcement,86,25,3,90,1,70,2,yes,2,55,monthly,4,no,1,more aggressive,1,4,male,30,0,employed,New York,1101
+332,Increased Enforcement,86,25,4,30,2,250,1,yes,3,78,monthly,1,no,1,less aggressive,4,2.5,male,57,1,employed,MA,1102
+693,Reduced Enforcement,86,15,4,5,2,250,3,yes,4,77,rarely,1,no,1,about same,1,1,male,27,1,employed,Georgia,1103
+1134,Increased Enforcement,86,25,2,60,2,150,3,yes,5,78,weekly,1,no,2,less aggressive,4,1.5,female,35,1,employed,Michigan,1104
+870,Reduced Enforcement,86,3,2,45,2,250,5,yes,1, ,rarely,1,no,1,less aggressive,4,4.5,male,21,1,unemployed,Michigan,1105
+976,Reduced Enforcement,86,30,3,40,2,1000,4,yes,2,80,monthly,1,no,1,about same,4,1,female,46,1,employed,California,1106
+44,Increased Enforcement,86,50,3,60,2,70,3,yes,2,78,monthly,1,no,1,about same,4,2,female,39,0,employed,New Jersey,1107
+99,Increased Enforcement,86,85,2,0,4,200,4,yes,2,72,monthly,1,no,1,less aggressive,5,2,male,38,1,employed,Minnesota,1108
+129,Reduced Enforcement,86,70,2,70,2,70,3,yes,2,75,monthly,4,no,3,about same,5,2.5,male,49,1,employed,CA,1109
+1031,Increased Enforcement,86,75,3,5,4,200,3,yes,1,68,monthly,1,no,1,less aggressive,4,1.5,female,40,1,employed,NC,1110
+1100,Reduced Enforcement,86,20,3,10,4,150,3,yes,2,75,monthly,1,no,2,about same,4,3.5,male,42,1,employed,Arizona,1111
+113,Increased Enforcement,86,50,1,0,5,250,1,yes,2,80,monthly,1,no,2,about same,5,1.5,male,27,0,employed,Florida,1112
+1002,Increased Enforcement,86,86,3,86,3,1,4,yes,2,86,monthly,2,yes,3,about same,4,2.75,female,47,0,employed,VT,1113
+918,Reduced Enforcement,86,50,3,40,3,150,1,yes,3,79,monthly,1,no,2,about same,4,3.25,female,33,1,employed,Indiana,1114
+901,Increased Enforcement,86,50,3,30,2,225,3,yes,2,75,weekly,1,no,2,about same,5,1.75,male,35,1,employed,texas,1115
+383,Reduced Enforcement,86,20,1,50,3,500,3,yes,2,70,weekly,2,yes,2,about same,4,3.5,male,28,1,employed,Pennsylvania,1116
+207,Reduced Enforcement,86,20,4,0,3,250,1,yes,3,74,monthly,1,no,1,less aggressive,4,1.5,female,32,1,unemployed,Tennessee,1117
+1014,Increased Enforcement,86,86,2,86,2,50,3,yes,2,80,weekly,2,yes,3,about same,5,3.5,female,32,0,employed,Pennsylvania,1118
+1172,Reduced Enforcement,86,87,1,87,1,65,,yes,3,65,weekly,4,yes,5,more aggressive,1,1.5,male,32,0,employed,Florida,1119
+265,Increased Enforcement,86,10,6,0,4,200,2,yes,3,73,monthly,1,yes,1,less aggressive,5,3.25,female,48,1,unemployed,Florida,1120
+448,Increased Enforcement,86,75,1,0,5,300,3,yes,3,70,rarely,1,no,1,less aggressive,5,1.75,male,66,1,employed,FL,1121
+31,Reduced Enforcement,86,60,3,0,4,200,2,yes,2,78,monthly,1,no,2,more aggressive,5,1.25,female,30,1,unemployed,Florida,1122
+822,Increased Enforcement,86,20,2,70,2,70,3,yes,2,50,monthly,3,no,2,less aggressive,4,1.75,female,30,0,employed,Maryland,1123
+260,Reduced Enforcement,86,100,1,100,1,65,4,yes,1,50,weekly,1,yes,5,more aggressive,1,4.5,male,45,0,employed,Pennsylvania,1124
+158,Increased Enforcement,86,60,5,10,3,120,1,yes,2,10,monthly,1,no,1,less aggressive,5,2.25,male,60,1,unemployed,Pennsylvania,1125
+253,Reduced Enforcement,86,40,6,75,3,200,3,yes,3,75,weekly,1,no,1,about same,5,1.75,male,35,0,employed,Texas,1126
+790,Reduced Enforcement,86,8,3,25,4,100,4,yes,1,75,rarely,1,no,2,about same,4,1.5,female,52,1,employed,South Carolina,1127
+360,Increased Enforcement,86,70,2,70,2,200,4,yes,2,13,weekly,2,yes,4,about same,4,2.75,female,61,1,employed,Mi,1128
+79,Reduced Enforcement,86,60,3,75,2,5000,4,yes,3,16,monthly,3,no,3,about same,5,4,male,26,0,employed,Washington,1129
+924,Increased Enforcement,86,60,3,50,3,200,3,yes,2,50,rarely,1,no,2,about same,1,2,male,49,1,employed,west virginia,1130
+421,Reduced Enforcement,86,5,2,0,3,300,3,yes,1,5,weekly,1,no,1,less aggressive,5,2.5,male,50,1,employed,Texas,1131
+511,Reduced Enforcement,86,5,1,90,1,250,2,yes,2,8,weekly,1,yes,1,less aggressive,4,1.25,male,47,1,employed,North Carolina,1132
+302,Reduced Enforcement,86,10,3,0,2,300,4,yes,3,75,weekly,1,no,,less aggressive,5,1.5,male,82,1,employed,New Jersey,1133
+469,Increased Enforcement,86,60,3,10,5,100,2,yes,1,0,rarely,1,yes,1,less aggressive,1,1.75,male,66,1,employed,New York,1134
+231,Increased Enforcement,86,15,3,20,2,175,3,yes,4,80,rarely,1,no,2,more aggressive,4,3,female,32,1,unemployed,Florida,1135
+46,Reduced Enforcement,86,70,1,86,1,45,5,yes,1,79,daily,2,yes,3,less aggressive,4,1.5,male,27,0,employed,California,1136
+1049,Increased Enforcement,86,40,4,60,2,150,3,yes,4,75,monthly,1,no,2,about same,5,3.25,male,21,0,employed,Texas,1137
+331,Reduced Enforcement,86,50,1,0,4,100,5,yes,1,75,rarely,1,no,1,less aggressive,5,2.75,female,58,1,employed,Missouri,1138
+909,Reduced Enforcement,86,5,1,85,1,200,3,yes,4,80,weekly,1,no,2,about same,1,3.25,male,23,0,unemployed,California,1139
+965,Reduced Enforcement,86,25,6,0,4,200,5,yes,2,80,weekly,1,no,1,less aggressive,1,1,male,21,0,unemployed,Georgia,1140
+669,Reduced Enforcement,86,50,2,40,4,500,2,yes,2,120,daily,3,no,2,more aggressive,5,2.5,male,40,0,employed,Washington DC,1141
+210,Reduced Enforcement,86,86,2,86,2,500,3,yes,2,60,weekly,3,yes,4,about same,5,4,male,42,1,employed,USA,1142
+414,Reduced Enforcement,86,60,2,50,2,35,3,yes,2,65,monthly,1,no,1,about same,1,3.25,male,56,1,employed,california,1143
+16,Increased Enforcement,86,86,1,86,2,1,1,yes,1,100,daily,1,yes,5,more aggressive,4,3,female,34,0,employed,America,1144
+972,Reduced Enforcement,86,25,4,3,4,175,3,yes,1,72,monthly,1,no,1,less aggressive,1,1.6666666,female,33,1,employed,South Carolina,1145
+1202,Reduced Enforcement,86,55,4,55,2,20,3,yes,2,85,weekly,2,yes,4,about same,6,2.25,male,35,0,employed,nevada,1146
+554,Increased Enforcement,86,30,3,50,4,150,3,yes,2,78,daily,1,no,2,less aggressive,6,2.25,female,36,1,employed,West Virginia,1147
+283,Increased Enforcement,86,10,2,0,2,450,3,yes,4,75,monthly,2,no,1,about same,1,1.75,female,45,1,employed,Florida,1148
+1092,Increased Enforcement,86,30,3,10,2,100,4,yes,2,80,rarely,1,yes,1,more aggressive,4,2,female,19,0,unemployed,Pennsylvania,1149
+809,Increased Enforcement,86,20,3,10,4,200,3,yes,2,78,monthly,1,no,1,less aggressive,4,4,female,41,0,unemployed,Georgia,1150
+702,Increased Enforcement,86,65,2,80,2,150,2,yes,4,80,daily,1,yes,1,about same,1,1.75,female,42,1,employed,Texas,1151
+653,Increased Enforcement,86,15,3,15,4,125,4,yes,4,80,daily,2,no,2,less aggressive,5,1.5,female,35,1,employed,Louisiana,1152
+154,Increased Enforcement,86,40,3,40,3,200,5,yes,2,75,rarely,1,no,2,less aggressive,4,1.75,female,42,1,unemployed,North Carolina,1153
+1047,Reduced Enforcement,86,30,4,5,3,500,4,yes,2,75,weekly,1,no,2,less aggressive,1,2,male,20,1,employed,North Carolina,1154
+1004,Reduced Enforcement,86,5,3,2,4,400,3,yes,2,75,weekly,1,no,1,about same,5,2,female,44,1,employed,California,1155
+843,Increased Enforcement,86,42,3,30,3,350,3,yes,2,75,weekly,1,no,2,less aggressive,4,3.5,male,29,0,employed,California,1156
+73,Increased Enforcement,86,20,2,10,4,150,2,yes,2,75,weekly,1,no,1,less aggressive,1,1.25,male,39,1,employed,Washington,1157
+666,Reduced Enforcement,86,85,2,20,2,275,4,yes,5,65,weekly,1,no,1,about same,4,1.75,male,68,1,employed,Georgia,1158
+741,Reduced Enforcement,86,10,3,100,2,400,3,yes,4,76,weekly,1,no,1,more aggressive,5,2,male,41,1,employed,Texas,1159
+239,Reduced Enforcement,86,5,2,0,4,750,4,yes,1,70,monthly,1,no,1,less aggressive,5,2,female,31,1,employed,CA,1160
+133,Increased Enforcement,86,40,3,50,2,90,3,yes,2,80,daily,1,no,1,about same,5,3.5,female,35,1,employed,California,1161
+1119,Increased Enforcement,86,50,1,0,4,150,5,yes,2,75,weekly,1,yes,1,about same,6,1,female,24,1,employed,Pennsylvania,1162
+8,Reduced Enforcement,86,85,2,0,4,300,5,yes,3,5,weekly,2,yes,2,about same,4,2.5,male,25,1,employed,Texas,1163
+502,Reduced Enforcement,86,25,3,50,3,75,1,yes,4,75,monthly,1,no,2,about same,5,1.5,male,65,1,unemployed,Illinois,1164
+1066,Increased Enforcement,86,25,3,75,3,200,4,yes,4,80,weekly,1,no,1,about same,5,2.75,female,54,1,employed,Florida,1165
+116,Increased Enforcement,86,40,5,30,3,300,3,yes,2,75,daily,1,no,1,less aggressive,1,2.5,female,28,0,unemployed,California,1166
+110,Reduced Enforcement,86,56,3,45,3,32,4,yes,2,250,weekly,2,yes,3,about same,4,2.25,female,40,0,employed,california,1167
+312,Reduced Enforcement,86,3,2,90,1,60,3,yes,3,80,weekly,1,no,2,about same,4,1.75,male,25,0,unemployed,Florida,1168
+398,Increased Enforcement,86,90,3,70,4,150,4,yes,2,50,rarely,4,yes,2,about same,5,2.5,male,43,0,employed,WISCONSIN,1169
+1017,Reduced Enforcement,86,35,1,0,5,200,1,yes,1, ,daily,1,no,1,less aggressive,1,1,male,52,1,employed,Missouri,1170
+313,Reduced Enforcement,86,20,5,0,4,180,4,yes,2,74,monthly,1,no,1,about same,5,1.75,female,47,1,unemployed,Missouri,1171
+637,Increased Enforcement,86,55,3,0,5,75,5,yes,1, ,weekly,1,no,1,less aggressive,5,4.5,female,30,1,employed,MA,1172
+887,Reduced Enforcement,86,70,1,60,2,50,3,yes,2,30,daily,1,no,1,about same,1,3.75,male,30,0,employed,Nebraska,1173
+981,Increased Enforcement,86,70,3,40,4,100,4,yes,2,75,daily,1,yes,2,less aggressive,5,1.5,male,42,1,employed,SC,1174
+408,Increased Enforcement,86,86,2,86,2,25,3,yes,2,16,weekly,2,yes,4,about same,1,1.5,female,24,0,employed,america,1175
+97,Reduced Enforcement,86,80,1,80,2,85,2,no,4,80,monthly,3,yes,4,about same,4,4,male,,1,employed,Florida,1176
+90,Reduced Enforcement,86,30,3,0,5,300,3,yes,1, ,rarely,1,no,1,less aggressive,1,1.5,female,28,0,employed,OH,1177
+95,Increased Enforcement,86,40,3,50,2,100,3,yes,2,80,weekly,1,no,2,about same,4,3.25,male,25,0,unemployed,PA,1178
+564,Reduced Enforcement,86,65,3,30,4,75,4,yes,2,80,rarely,3,no,3,about same,3,1,female,25,0,employed,Maryland,1179
+739,Reduced Enforcement,86,55,1,67,4,150,4,yes,3,60,monthly,3,yes,4,about same,5,3.75,female,29,1,employed,kensas,1180
+925,Reduced Enforcement,86,10,3,50,2,100,2,yes,2,65,rarely,1,no,1,about same,5,3.5,male,35,1,unemployed,Ohio,1181
+274,Reduced Enforcement,86,86,1,90,2,20,1,yes,2,60,weekly,3,yes,4,about same,1,3.25,female,34,0,employed,Indiana,1182
+276,Increased Enforcement,86,70,3,15,2,80,1,yes,3,75,daily,3,no,1,less aggressive,4,3,female,34,1,employed,new york,1183
+956,Reduced Enforcement,86,0,1,0,3,250,2,yes,4,75,monthly,2,no,1,about same,4,2.25,male,56,1,unemployed,california,1184
+372,Increased Enforcement,86,10,1,80,4,180,4,yes,4,75,monthly,1,yes,2,more aggressive,1,2.25,female,25,1,employed,MA,1185
+182,Reduced Enforcement,86,90,2,0,4,1000,3,yes,1,70,monthly,2,yes,2,less aggressive,5,3.75,male,32,0,unemployed,CALIFORNIA,1186
+17,Increased Enforcement,86,75,3,0,5,225,1,yes,2,71,rarely,1,no,1,less aggressive,4,1.5,male,34,1,employed,MICHIGAN,1187
+910,Increased Enforcement,86,70,4,0,4,100,2,yes,2,75,daily,2,no,1,about same,4,1.75,male,59,1,employed,Rhode Island,1188
+908,Reduced Enforcement,86,2,2,65,2,300,3,yes,2,75,weekly,1,no,1,less aggressive,4,2,male,25,1,employed,New Jersey,1189
+67,Reduced Enforcement,86,50,3,30,2,400,2,yes,3,75,weekly,2,yes,2,less aggressive,1,2.5,female,24,1,employed,Texas,1190
+36,Increased Enforcement,86,80,2,80,4,1000,4,yes,1,70,weekly,1,no,1,about same,4,2,male,32,0,employed,california,1191
+996,Increased Enforcement,86,40,2,0,3,70,3,yes,2,80,weekly,3,no,2,less aggressive,1,3,female,27,0,employed,IL,1192
+47,Increased Enforcement,86,10,3,0,4,200,1,yes,2,75,monthly,1,no,1,less aggressive,5,1.25,male,72,1,unemployed,New York,1193
+390,Reduced Enforcement,86,5,2,35,2,160,5,no,1, ,never,1,no,1,about same,5,2.25,female,35,1,employed,texas,1194
+1141,Increased Enforcement,86,30,3,100,4,200,4,yes,4,75,weekly,1,no,2,about same,5,2,male,38,1,unemployed,Texas,1195
+176,Increased Enforcement,86,87,1,87,1,1,5,yes,4,86,daily,2,yes,5,about same,5,4.5,male,40,0,employed,Florida,1196
+1027,Reduced Enforcement,86,40,2,30,4,275,3,yes,5,78,monthly,1,no,2,more aggressive,4,3,male,35,1,employed,Wisconsin,1197
+1099,Reduced Enforcement,86,7,5,0,4,135,1,yes,1, ,rarely,1,no,1,less aggressive,1,1.5,male,35,1,employed,pennsylvania,1198
+881,Increased Enforcement,86,80,2,0,4,80,3,yes,2,75,daily,1,no,1,less aggressive,4,2.25,male,59,1,employed,Virginia,1199
+952,Reduced Enforcement,86,20,1,35,4,300,4,yes,3,75,weekly,1,no,1,less aggressive,5,4.25,female,72,1,unemployed,Mississippi,1200
+978,Reduced Enforcement,86,25,3,0,4,225,5,yes,2,77,weekly,1,no,3,about same,6,5,female,45,1,unemployed,Pa,1201
+322,Increased Enforcement,86,,4,50,2,2,2,yes,2, MPH,daily,2,yes,5,about same,4,2.5,male,55,0,employed,california,1202
+351,Reduced Enforcement,86,70,2,60,2,1000,3,yes,2,50,weekly,3,no,1,about same,1,4,male,30,0,employed,California,1203
+561,Reduced Enforcement,86,2,2,60,2,500,3,yes,3,80,rarely,3,no,1,less aggressive,5,1.75,male,30,0,employed,DC,1204
+907,Reduced Enforcement,86,50,2,100,2,50,3,yes,1,500,daily,3,yes,5,about same,6,4.25,male,36,0,employed,MD,1205
+18,Increased Enforcement,86,20,3,68,2,250,3,yes,4,80,monthly,1,yes,2,less aggressive,5,3,female,26,1,employed,Florida,1206
+216,Reduced Enforcement,86,1,3,95,1,105,3,yes,2,80,weekly,1,no,1,more aggressive,5,1.25,male,46,1,employed,Utah,1207
+913,Increased Enforcement,86,50,3,100,2,150,2,yes,4,80,weekly,1,no,2,about same,5,2,female,22,0,employed,Georgia,1208
+608,Increased Enforcement,86,5,3,100,2,120,2,yes,4,81,monthly,1,no,2,about same,5,2,male,30,1,employed,Pennsylvania,1209
+204,Increased Enforcement,86,90,1,0,5,150,5,yes,4,76,weekly,1,no,1,more aggressive,3,2.5,female,62,0,unemployed,Kansas,1210
+5,Increased Enforcement,86,90,2,20,3,150,2,yes,3,75,weekly,1,no,1,less aggressive,5,1.75,female,43,0,employed,NJ,1211
+1118,Reduced Enforcement,86,5,1,80,2,150,4,yes,2,78,weekly,2,no,2,about same,4,3.25,male,27,1,unemployed,georgia,1212
+286,Reduced Enforcement,86,86,1,80,2,70,2,yes,,90,weekly,1,yes,4,about same,5,4.25,male,30,0,employed,Alabama,1213
